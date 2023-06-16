@@ -1,0 +1,255 @@
+# Configuration file
+
+~CONFIG_VERSION: 5
+
+"bow tweaker" {
+    S:"modID:bowName ~ *arrowDamageMultiplier ~ *arrowVelocityMultiplier" <
+        minecraft:bow					~ 1.00 ~ 1.00
+        //spartanweaponry:longbow_wood		~ 0.95 ~ 1.00
+        //spartanweaponry:crossbow_wood	~ 1.05 ~ 0.95
+     >
+}
+
+
+"critical hits" {
+    S:"Additional Critical Chance"=0.1
+    B:"Auto Critical On Sneak Attacks"=true
+    S:"Critical Damage Bonus"=1.50
+    I:"Critical Strikes Disable Shields"=50
+    S:"Luck Affects Critical Chance"=0.2
+    S:"Random Critical Chance"=0.15
+}
+
+
+enchantments {
+    S:"Lightning Enchantment Base Damage"=2.0
+    S:"Lightning Enchantment Damage Per Level"=2.0
+    I:"Lightning Enchantment Enchantability Per Level"=10
+    I:"Lightning Enchantment Max Level"=5
+    S:"Lightning Enchantment Wet Modifier"=1.5
+}
+
+
+general {
+    B:"Add Spartan Weaponry Tags"=true
+
+    # Add an additional sound when a critical strike happens [default: true]
+    B:"Additional crit sound"=true
+
+    # Add an additional sound when striking a target [default: true]
+    B:"Additional hit sound"=true
+    B:"Aetherealized Damage Particles"=true
+    B:"Attack & Sprint"=true
+
+    # Attacking an enemy while sprinting will no longer interrupt your sprint [default: false]
+    B:"Attack and Sprint"=true
+
+    # You may only attack if your energy is full [default: false]
+    B:"Attacks require full energy"=false
+    S:"Base Attack Damage"=1.0
+    S:"Base Attack Speed"=4.0
+    S:"Base Reach Distance"=4.5
+    B:"Better Knockback"=true
+    B:"Block Fire Projectiles"=true
+    B:"Damage Particles"=true
+
+    # Enables the capability to attack with your off-hand [default: true]
+    B:"Enable Offhand Attacks"=true
+
+    # Blacklisted entity classes for attacking. You will not be able to attack any entity that extends this class! Please note that entities extending IEntityOwnable are by default blacklisted, when the entity is owned by the attacker. [default: [net.minecraft.entity.passive.EntityHorse], [net.minecraft.entity.item.EntityArmorStand], [net.minecraft.entity.passive.EntityVillager], [net.minecraft.entity.item.EntityItemFrame]]
+    S:"Entity Blacklist" <
+        net.minecraft.entity.passive.EntityHorse
+        net.minecraft.entity.item.EntityArmorStand
+        net.minecraft.entity.passive.EntityVillager
+        net.minecraft.entity.item.EntityItemFrame
+     >
+    S:"Extra Attack Height"=1.2
+    S:"Extra Attack Width"=1.2
+    B:"Fast Equip Hotbar Only"=false
+    S:"Intertia on Attack"=0.6
+
+    # Whitelisted item classes for attacking. [default: [net.minecraft.item.ItemSword], [net.minecraft.item.ItemAxe], [net.minecraft.item.ItemSpade], [net.minecraft.item.ItemPickaxe], [net.minecraft.item.ItemHoe]]
+    S:"Item Class Whitelist" <
+        net.minecraft.item.ItemSword
+        net.minecraft.item.ItemAxe
+        net.minecraft.item.ItemSpade
+        net.minecraft.item.ItemPickaxe
+        net.minecraft.item.ItemHoe
+     >
+
+    # Whitelisted items in the format "domain:itemname" for attacking. [default: ]
+    S:"Item Whitelist" <
+     >
+    B:"Longer Attack"=false
+
+    # Maximum distance from a target to allow jump crits. [range: 0.0 ~ 10.0, default: 2.0]
+    S:"Maximum Distance to Jump Crit"=2.0
+    S:"Mining Fatigue Damage Reduction"=0.0
+    B:"More Attack Hit Particles"=true
+
+    # Every items can spawn the swipe animation [default: false]
+    B:"More swipe animation"=true
+    B:"Nausea Affects Mobs"=true
+    B:"Nerf Spam Swinging"=true
+    B:"Offhand Attack"=true
+
+    # The efficiency of an attack with offhanded weapon in percent (attack damage * efficiency) [range: 0.0 ~ 1.0, default: 0.5]
+    S:"Offhand Efficiency"=0.75
+
+    # How likely it is to land a critical hit in percent [range: 0.0 ~ 1.0, default: 0.2]
+    S:"Random Crit Chance"=0.2
+
+    # Melee attacks have now 30% chance to critically strike, critical strikes can no longer be forced by falling [default: true]
+    B:"Random Crits"=true
+    S:"Reach Distance Modifier"=-1.0
+    S:"Reduce Fist & Non-Weapon Damage"=0.0
+    B:"Refound energy on miss"=false
+    B:"Remove Hurt Resistant Time"=true
+
+    # Whether or not full/nearly full energy should be required to jump crit [default: true]
+    B:"Require Full Energy to Jump Crit"=true
+
+    # Whether or not full/nearly full energy should be required to randomly crit [default: true]
+    B:"Require Full Energy to Random Crit"=true
+    B:"Screen Shake On Attack"=false
+    B:"Sneaking Disables Offhand Attack"=true
+    B:"Spam Swinging"=true
+    B:"Warhammer Armor Pierce"=true
+
+    # Attacks with the Off-hand does 50% less damage [default: true]
+    B:"Weaker Left Arm"=true
+    B:"Wider Attack"=true
+    S:"Wider Attack Width"=1.5
+    B:betterKnockback=true
+    S:knockUpStrength=0.5
+}
+
+
+"ice & fire" {
+    S:"Dragonbone Wither"=12.0
+    S:"Ranged Silver Damage"=1.5
+    S:"Shield Silver Damage"=1.5
+    S:"Silver Armor Damage"=1.5
+}
+
+
+potions {
+    S:"Aetherealized Potion Damage"=0.2
+    S:"Brutality Potion Damage"=0.2
+    B:"Healing Arrow No Damage"=true
+    S:"Percision Potion Chance"=0.1
+    S:"Strength Potion Damage"=0.05
+    B:"Tipped Arrow Fix"=true
+    S:"Weakness Potion Damage"=0.1F
+}
+
+
+"shield tweaker" {
+    S:"modID:shieldName ~ damage ~ knockback ~ cooldown" <
+        minecraft:shield						~ 1.0 ~ 1.0 ~ 30
+        spartanshields:shield_basic_diamond	~ 4.0 ~ 2.0 ~ 25
+        spartanshields:shield_basic_gold		~ 1.0 ~ 1.0 ~ 10
+        spartanshields:shield_basic_iron		~ 3.0 ~ 1.0 ~ 25
+        spartanshields:shield_basic_obsidian	~ 3.0 ~ 1.0 ~ 55
+        spartanshields:shield_basic_silver	~ 3.0 ~ 1.0 ~ 25
+        spartanshields:shield_basic_stone	~ 2.0 ~ 1.0 ~ 25
+        spartanshields:shield_basic_wood		~ 1.0 ~ 1.0 ~ 25
+        spartanshields:shield_tower_diamond	~ 4.0 ~ 2.5 ~ 30
+        spartanshields:shield_tower_gold		~ 1.0 ~ 1.5 ~ 15
+        spartanshields:shield_tower_iron		~ 3.0 ~ 1.5 ~ 30
+        spartanshields:shield_tower_obsidian	~ 3.0 ~ 1.5 ~ 60
+        spartanshields:shield_tower_silver	~ 3.0 ~ 1.5 ~ 30
+        spartanshields:shield_tower_stone	~ 2.0 ~ 1.5 ~ 30
+        spartanshields:shield_tower_wood		~ 1.0 ~ 1.5 ~ 30
+     >
+}
+
+
+sound {
+    B:"Additional Hit Sound"=true
+    B:"Additional Swing Sound"=true
+    B:"Additional Swing Sound On Non-Weapons"=true
+    B:"Additional Swing Sound On Weapons"=true
+    B:"Arrow Impact Sound"=true
+    S:"Bow Strike Sound Volume"=0.5
+    S:"Bow Thud Sound Volume"=0.3
+    S:"Non Metal List" <
+        wood
+        stone
+        bone
+        staff
+        caestus
+        club
+     >
+    S:"Weapon Hit Sound Volume"=1.0
+    S:"Weapon Swing Sound Volume"=1.0
+}
+
+
+"weapon tweaker" {
+    S:"weaponName ~ fatigue ~ +extraReachDistance ~ +extraCritChance ~ +extraCritDamage ~ attackSweep" <
+        pike_		~ 2 ~ 2.0 ~ 0.0 ~ 0.0 ~ -1
+        glaive_		~ 2 ~ 1.0 ~ 0.0 ~ 0.0 ~  1
+        halberd_		~ 3 ~ 1.0 ~ 0.0 ~ 0.0 ~ -1
+        greatsword_	~ 3 ~ 1.0 ~ 0.0 ~ 0.0 ~  3
+        spear_		~ 0 ~ 1.0 ~ 0.0 ~ 0.0 ~ -1
+        lance_		~ 0 ~ 1.0 ~ 0.0 ~ 0.0 ~ -1
+        staff		~ 0 ~ 1.0 ~ 0.0 ~ 0.0 ~  1
+        katana_		~ 2 ~ 0.0 ~ 0.0 ~ 0.0 ~  0
+        warhammer_	~ 2 ~ 0.0 ~ 0.0 ~ 0.0 ~ -1
+        battleaxe_	~ 2 ~ 0.0 ~ 0.0 ~ 0.0 ~ -1
+        longsword_	~ 2 ~ 0.0 ~ 0.0 ~ 0.0 ~  0
+     >
+}
+
+
+"white/black lists" {
+    S:"Entity Blacklist" <
+        net.minecraft.entity.passive.EntityHorse
+        net.minecraft.entity.item.EntityArmorStand
+        net.minecraft.entity.passive.EntityVillager
+        net.torocraft.toroquest.entity.EntityGuard
+        net.torocraft.toroquest.entity.EntityVillageLord
+        net.torocraft.toroquest.entity.EntityToroNpc
+        net.torocraft.toroquest.entity.EntityToroVillager
+     >
+    S:"Item Class Blacklist" <
+        net.minecraft.entity.passive.EntityHorse
+        net.minecraft.entity.item.EntityArmorStand
+        net.minecraft.entity.passive.EntityVillager
+        net.torocraft.toroquest.entity.EntityToroNpc
+     >
+    S:"Item Class Whitelist" <
+        net.minecraft.item.ItemSword
+        net.minecraft.item.ItemAxe
+        net.minecraft.item.ItemSpade
+        net.minecraft.item.ItemPickaxe
+        net.minecraft.item.ItemHoe
+        com.oblivioussp.spartanweaponry.item.ItemWeaponBase
+        com.oblivioussp.spartanweaponry.item.ItemSwordBase
+        com.oblivioussp.spartanweaponry.item.ItemSaber
+        com.oblivioussp.spartanweaponry.item.ItemRapier
+        com.oblivioussp.spartanweaponry.item.ItemGlaive
+        com.oblivioussp.spartanweaponry.item.ItemSpear
+        com.oblivioussp.spartanweaponry.item.ItemPike
+        com.oblivioussp.spartanweaponry.item.ItemHammer
+        com.oblivioussp.spartanweaponry.item.ItemMace
+        com.oblivioussp.spartanweaponry.item.ItemWarhammer
+        com.oblivioussp.spartanweaponry.item.ItemBattleaxe
+        com.oblivioussp.spartanweaponry.item.ItemCaestus
+        com.oblivioussp.spartanweaponry.item.ItemClub
+        com.oblivioussp.spartanweaponry.item.ItemGreatsword
+        com.oblivioussp.spartanweaponry.item.ItemKatana
+        com.oblivioussp.spartanweaponry.item.ItemLance
+        com.oblivioussp.spartanweaponry.item.ItemLongsword
+        com.oblivioussp.spartanweaponry.item.ItemQuarterstaff
+        com.oblivioussp.spartanweaponry.item.ItemHalberd
+        com.oblivioussp.spartanweaponry.item.ItemThrowingWeapon
+        slimeknights.tconstruct.library.tools.SwordCore
+        slimeknights.tconstruct.library.tools.AoeToolCore
+     >
+    S:"Item Whitelist" <
+     >
+}
+
+

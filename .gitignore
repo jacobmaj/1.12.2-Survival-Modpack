@@ -2,7 +2,7 @@
 .minecraft/.mixin.out
 .minecraft/WailaErrorOutput.txt
 .minecraft/XaeroWaypoints
-.minecraft/XaeroWaypoints_BACKUP
+.minecraft/XaeroWaypoints_BACKUP*
 .minecraft/XaeroWorldMap
 .minecraft/additions_client_data.dat
 .minecraft/ambience_music

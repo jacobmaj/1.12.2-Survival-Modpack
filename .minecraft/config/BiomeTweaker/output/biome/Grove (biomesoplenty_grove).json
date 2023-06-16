@@ -20,10 +20,10 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "WET",
-    "SPARSE",
-    "PLAINS",
     "LUSH",
+    "PLAINS",
+    "SPARSE",
+    "WET",
     "FOREST"
   ],
   "BiomeManager Entries": {},
@@ -143,7 +143,13 @@
       "Max Group Count": 3
     },
     {
-      "Entity Class": "net.daveyx0.primitivemobs.entity.passive.EntityDodo",
+      "Entity Class": "net.daveyx0.primitivemobs.entity.passive.EntityLostMiner",
+      "Weight": 4,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.passive.EntitySheepman",
       "Weight": 10,
       "Min Group Count": 1,
       "Max Group Count": 2
@@ -155,13 +161,7 @@
       "Max Group Count": 3
     },
     {
-      "Entity Class": "net.daveyx0.primitivemobs.entity.passive.EntityLostMiner",
-      "Weight": 4,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "net.daveyx0.primitivemobs.entity.passive.EntitySheepman",
+      "Entity Class": "net.daveyx0.primitivemobs.entity.passive.EntityDodo",
       "Weight": 10,
       "Min Group Count": 1,
       "Max Group Count": 2
@@ -469,31 +469,19 @@
       "Max Group Count": 1
     },
     {
-      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityEnchantedBook",
-      "Weight": 1,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityBlazingJuggernaut",
-      "Weight": 10,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityTreasureSlime",
-      "Weight": 4,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
       "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityFestiveCreeper",
       "Weight": 2,
       "Min Group Count": 1,
       "Max Group Count": 1
     },
     {
-      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityEnchantedBook",
+      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityHarpy",
+      "Weight": 10,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityRocketCreeper",
       "Weight": 10,
       "Min Group Count": 1,
       "Max Group Count": 1
@@ -505,14 +493,20 @@
       "Max Group Count": 3
     },
     {
-      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityRocketCreeper",
+      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityBlazingJuggernaut",
       "Weight": 10,
       "Min Group Count": 1,
       "Max Group Count": 1
     },
     {
-      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityFestiveCreeper",
+      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityEnchantedBook",
       "Weight": 10,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityEnchantedBook",
+      "Weight": 1,
       "Min Group Count": 1,
       "Max Group Count": 1
     },
@@ -523,10 +517,16 @@
       "Max Group Count": 3
     },
     {
-      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityHarpy",
+      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityTreasureSlime",
+      "Weight": 4,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityFestiveCreeper",
       "Weight": 10,
       "Min Group Count": 1,
-      "Max Group Count": 3
+      "Max Group Count": 1
     }
   ],
   "Spawnable Water Creatures": [

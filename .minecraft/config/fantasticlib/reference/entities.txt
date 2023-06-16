@@ -244,13 +244,8 @@ arcane_essentials:fireball
 arcane_essentials:flameslash
 arcane_essentials:floatingblock
 arcane_essentials:waterball
-quark:gravisand
-quark:seat
-quark:flat_item_frame
-quark:leash_knot
-quark:colored_item_frame
-quark:glass_item_frame
 quark:totem_of_holding
+quark:gravisand
 quark:pickarang
 quark:arrow_ender
 quark:arrow_explosive
@@ -258,6 +253,10 @@ quark:arrow_torch
 quark:dragon_breath_bottle
 quark:soul_powder
 quark:parrot_egg
+quark:flat_item_frame
+quark:leash_knot
+quark:colored_item_frame
+quark:glass_item_frame
 quark:stoneling
 quark:archaeologist
 quark:foxhound
@@ -267,6 +266,7 @@ quark:frog
 quark:pirate
 quark:crab
 quark:wraith
+quark:seat
 quark:chest_passenger
 betterwithaddons:greatarrow
 betterwithaddons:ya

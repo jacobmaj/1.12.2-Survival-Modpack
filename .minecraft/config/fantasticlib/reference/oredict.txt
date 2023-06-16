@@ -485,8 +485,6 @@ bow
 bowDiamond
 bowGold
 bowIron
-stonePolished
-plankStained
 shardGlass
 bookshelf
 bookshelfOak
@@ -507,6 +505,8 @@ stoneBrimstonePolished
 stonePermafrostPolished
 blockPrismarineElderBrick
 blockPrismarineElderDark
+stonePolished
+plankStained
 blockSlimeCyan
 blockSlimeMagenta
 blockSlimeYellow

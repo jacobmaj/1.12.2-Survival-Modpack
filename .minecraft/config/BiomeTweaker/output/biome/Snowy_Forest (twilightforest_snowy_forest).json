@@ -20,11 +20,11 @@
   "Enable Rain": true,
   "Enable Snow": true,
   "Dictionary Types": [
-    "CONIFEROUS",
-    "TWILIGHT",
-    "COLD",
     "SNOWY",
-    "FOREST"
+    "TWILIGHT",
+    "CONIFEROUS",
+    "FOREST",
+    "COLD"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -95,7 +95,13 @@
       "Max Group Count": 8
     },
     {
-      "Entity Class": "net.daveyx0.primitivemobs.entity.passive.EntityDodo",
+      "Entity Class": "net.daveyx0.primitivemobs.entity.passive.EntityLostMiner",
+      "Weight": 4,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.passive.EntitySheepman",
       "Weight": 10,
       "Min Group Count": 1,
       "Max Group Count": 2
@@ -107,13 +113,7 @@
       "Max Group Count": 3
     },
     {
-      "Entity Class": "net.daveyx0.primitivemobs.entity.passive.EntityLostMiner",
-      "Weight": 4,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "net.daveyx0.primitivemobs.entity.passive.EntitySheepman",
+      "Entity Class": "net.daveyx0.primitivemobs.entity.passive.EntityDodo",
       "Weight": 10,
       "Min Group Count": 1,
       "Max Group Count": 2
@@ -151,7 +151,7 @@
       "Max Group Count": 3
     },
     {
-      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityEnchantedBook",
+      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityBlazingJuggernaut",
       "Weight": 10,
       "Min Group Count": 1,
       "Max Group Count": 1

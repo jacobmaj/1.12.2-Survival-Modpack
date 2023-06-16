@@ -167,6 +167,10 @@ mod_lavacow:corroded
 mod_lavacow:soiled
 mod_lavacow:infested
 mod_lavacow:fragile
+bettercombat:aetherealized
+bettercombat:precision
+bettercombat:brutality
+bettercombat:bleeding
 mimicfish:chestsight
 mowziesmobs:suns_blessing
 mowziesmobs:geomancy
