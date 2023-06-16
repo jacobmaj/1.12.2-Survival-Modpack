@@ -27,7 +27,7 @@ mods.MobStages.addReplacement("minecraft:wither_skeleton", "specialmobs:fireskel
 mods.MobStages.addReplacement("minecraft:wither_skeleton", "specialmobs:fireskeleton");
 
 //TODO
-mods.MobStages.addStage("nether", "embers:ancient_golem");
+//mods.MobStages.addStage("nether", "embers:ancient_golem");
 
 mods.MobStages.addStage("nether", "mutantbeasts:mutant_zombie", 0);
 mods.MobStages.addStage("nether", "mutantbeasts:mutant_creeper");

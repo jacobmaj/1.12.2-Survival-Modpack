@@ -253,10 +253,10 @@ seedPumpkin
 seedWheat
 cofh:potion
 seed
+tallow
 buttonWood
 gemEnderBiotite
 materialStoneTool
-tallow
 mushroomAny
 blockSlimeGreen
 blockSlimeBlue
@@ -485,7 +485,6 @@ bow
 bowDiamond
 bowGold
 bowIron
-shardGlass
 bookshelf
 bookshelfOak
 bookshelfSpruce
@@ -496,6 +495,7 @@ bookshelfDarkOak
 blockCandle
 pressurePlateWood
 blockCharcoal
+shardGlass
 stoneBasaltPolished
 stoneMarblePolished
 stoneLimestonePolished

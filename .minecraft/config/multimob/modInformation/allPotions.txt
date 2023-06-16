@@ -318,16 +318,4 @@ wards:effect_luck_of_the_sea
 wards:effect_lure
 wards:effect_mending
 wards:effect_vanishing_curse
-xaerominimap:no_minimap
-xaerominimap:no_minimap_harmful
-xaerominimap:no_entity_radar
-xaerominimap:no_entity_radar_harmful
-xaerominimap:no_waypoints
-xaerominimap:no_waypoints_harmful
-xaerominimap:no_cave_maps
-xaerominimap:no_cave_maps_harmful
-xaeroworldmap:no_world_map
-xaeroworldmap:no_world_map_harmful
-xaeroworldmap:no_cave_maps
-xaeroworldmap:no_cave_maps_harmful
 hungeroverhaul:wellfed

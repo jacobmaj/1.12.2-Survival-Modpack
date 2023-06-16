@@ -3300,11 +3300,6 @@ futuremc:roots_fall
 futuremc:smithing_table_use
 futuremc:barrel_open
 futuremc:barrel_close
-greenery:block.seaweed.break
-greenery:block.seaweed.footsteps
-greenery:block.seaweed.place
-greenery:block.seaweed.hit
-greenery:block.seaweed.fall
 hunterillager:mob.hunterillager.laugh
 ironbackpacks:open_backpack
 ironbackpacks:close_backpack
@@ -3581,14 +3576,6 @@ tfspellpack:entity.fiery_tear.fire
 tfspellpack:entity.cinder_cloud.ambient
 tfspellpack:entity.fire_jet.fire
 tfspellpack:entity.dark_mist.ambient
-trident:item.trident.hit
-trident:item.trident.hit_ground
-trident:item.trident.return
-trident:item.trident.riptide_1
-trident:item.trident.riptide_2
-trident:item.trident.riptide_3
-trident:item.trident.throw
-trident:item.trident.thunder
 turtdance:ab_angry
 turtdance:ab_cry
 turtdance:ab_grunt

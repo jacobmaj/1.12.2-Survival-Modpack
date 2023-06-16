@@ -21,13 +21,13 @@ LootTable.removeGlobalItem("ebwizardry:scroll:23");
 LootTable.removeGlobalItem("mospells:mospells_scroll:*");
 
 
-LootTable.removeGlobalItem("immersiveengineering:material:0");
+//LootTable.removeGlobalItem("immersiveengineering:material:0");
 
 LootTable.removeGlobalItem("charm:bat_bucket");
 
 LootTable.removeGlobalItem("cyberware:neuropozyne");
 
-LootTable.removeGlobalItem("uniquecrops:genericfood.ennuipotion");
+//LootTable.removeGlobalItem("uniquecrops:genericfood.ennuipotion");
 
 LootTable.removeGlobalItem("aeble:regeneration_ring");
 LootTable.removeGlobalItem("aeble:bubble_ring");
@@ -49,9 +49,73 @@ LootTable.removeGlobalItem("everlastingabilities:ability_totem");
 
 LootTable.removeGlobalItem("iceandfire:witherbone");
 LootTable.removeGlobalItem("inspirations:materials:7");
-LootTable.removeGlobalItem("tconstruct:materials:17");
+//LootTable.removeGlobalItem("tconstruct:materials:17");
 
 LootTable.removeGlobalItem("minestrapp:heart_piece");
 LootTable.removeGlobalItem("minestrapp:heart_container");
 
 LootTable.removeGlobalItem("lycanitesmobs:wintergift");
+
+//behgameon items removed because of ugly sprites:
+LootTable.removeGlobalItem("behgameon:ring_53");
+LootTable.removeGlobalItem("behgameon:ring_61");
+LootTable.removeGlobalItem("behgameon:ring_98");
+LootTable.removeGlobalItem("behgameon:ring_106");
+LootTable.removeGlobalItem("behgameon:shield3");
+LootTable.removeGlobalItem("behgameon:shield4");
+LootTable.removeGlobalItem("behgameon:shield5");
+LootTable.removeGlobalItem("behgameon:shield6");
+LootTable.removeGlobalItem("behgameon:shield7");
+LootTable.removeGlobalItem("behgameon:shield8");
+LootTable.removeGlobalItem("behgameon:shield9");
+LootTable.removeGlobalItem("behgameon:shield10");
+LootTable.removeGlobalItem("behgameon:shield11");
+LootTable.removeGlobalItem("behgameon:shield12");
+LootTable.removeGlobalItem("behgameon:shield13");
+LootTable.removeGlobalItem("behgameon:shield14");
+LootTable.removeGlobalItem("behgameon:shield15");
+
+//those removed for future usage:
+LootTable.removeGlobalItem("behgameon:shield1");
+LootTable.removeGlobalItem("behgameon:shield2");
+LootTable.removeGlobalItem("behgameon:shield15");
+
+LootTable.removeGlobalItem("behgameon:accessory_1");
+LootTable.removeGlobalItem("behgameon:accessory_2");
+LootTable.removeGlobalItem("behgameon:accessory_3");
+LootTable.removeGlobalItem("behgameon:accessory_4");
+LootTable.removeGlobalItem("behgameon:accessory_5");
+LootTable.removeGlobalItem("behgameon:accessory_6");
+LootTable.removeGlobalItem("behgameon:accessory_7");
+LootTable.removeGlobalItem("behgameon:accessory_8");
+LootTable.removeGlobalItem("behgameon:accessory_45");
+LootTable.removeGlobalItem("behgameon:accessory_46");
+LootTable.removeGlobalItem("behgameon:accessory_47");
+LootTable.removeGlobalItem("behgameon:accessory_48");
+LootTable.removeGlobalItem("behgameon:accessory_49");
+LootTable.removeGlobalItem("behgameon:accessory_50");
+LootTable.removeGlobalItem("behgameon:accessory_51");
+LootTable.removeGlobalItem("behgameon:accessory_52");
+LootTable.removeGlobalItem("behgameon:accessory_53");
+LootTable.removeGlobalItem("behgameon:accessory_54");
+LootTable.removeGlobalItem("behgameon:accessory_55");
+LootTable.removeGlobalItem("behgameon:accessory_56");
+LootTable.removeGlobalItem("behgameon:ring_1");
+LootTable.removeGlobalItem("behgameon:ring_2");
+LootTable.removeGlobalItem("behgameon:ring_3");
+LootTable.removeGlobalItem("behgameon:ring_4");
+LootTable.removeGlobalItem("behgameon:ring_5");
+LootTable.removeGlobalItem("behgameon:ring_6");
+LootTable.removeGlobalItem("behgameon:ring_7");
+LootTable.removeGlobalItem("behgameon:ring_8");
+LootTable.removeGlobalItem("behgameon:ring_9");
+LootTable.removeGlobalItem("behgameon:ring_10");
+LootTable.removeGlobalItem("behgameon:ring_11");
+LootTable.removeGlobalItem("behgameon:ring_12");
+LootTable.removeGlobalItem("behgameon:ring_13");
+LootTable.removeGlobalItem("behgameon:ring_14");
+LootTable.removeGlobalItem("behgameon:ring_15");
+LootTable.removeGlobalItem("behgameon:ring_57");
+LootTable.removeGlobalItem("behgameon:ring_58");
+LootTable.removeGlobalItem("behgameon:ring_102");
+LootTable.removeGlobalItem("behgameon:ring_103");
