@@ -37,4 +37,10 @@
 .minecraft/uniquecrops
 .minecraft/usercache.json
 .minecraft/usernamecache.json
+.minecraft/icon.png
+.minecraft/knownkeys.txt
+.minecraft/options.txt
+.minecraft/optionsof.txt
 .disabled
+.packignore
+mmc-pack.json
