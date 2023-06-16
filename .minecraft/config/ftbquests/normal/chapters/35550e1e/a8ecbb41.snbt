@@ -1,0 +1,223 @@
+{
+	title: "Gotta Tot'em All!",
+	x: -5.0d,
+	y: 0.0d,
+	shape: "square",
+	text: [
+		""
+	],
+	size: 1.19d,
+	tasks: [{
+		uid: "567d3279",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "totemexpansion:totem_lava",
+			tag: {
+				Quality: {
+					Slots: [
+						"baubles_trinket"
+					],
+					Color: "green",
+					AttributeModifiers: [{
+						UUIDMost: 5700837215914838878L,
+						UUIDLeast: -6804706640588037815L,
+						Amount: 1.0d,
+						AttributeName: "generic.attackDamage",
+						Operation: 0,
+						Name: "qualitytools"
+					}],
+					Name: "Brutal"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "6a69d750",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:totem_of_undying",
+			tag: {
+				Quality: {
+					Slots: [
+						"baubles_trinket"
+					],
+					Color: "green",
+					AttributeModifiers: [{
+						UUIDMost: -2348471725527118418L,
+						UUIDLeast: -7361768980030588677L,
+						Amount: 1.0d,
+						AttributeName: "generic.attackDamage",
+						Operation: 0,
+						Name: "qualitytools"
+					}],
+					Name: "Brutal"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "994b408d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "totemexpansion:totem_breathing",
+			tag: {
+				Quality: {
+					Slots: [
+						"baubles_trinket"
+					],
+					Color: "green",
+					AttributeModifiers: [{
+						UUIDMost: 1662620664586651118L,
+						UUIDLeast: -7522894024005482122L,
+						Amount: 1.0d,
+						AttributeName: "generic.attackDamage",
+						Operation: 0,
+						Name: "qualitytools"
+					}],
+					Name: "Brutal"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "fee0fafa",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "totemexpansion:totem_falling",
+			tag: {
+				Quality: {
+					Slots: [
+						"baubles_trinket"
+					],
+					Color: "green",
+					AttributeModifiers: [{
+						UUIDMost: -915752886187440307L,
+						UUIDLeast: -7086321199710439170L,
+						Amount: 1.0d,
+						AttributeName: "generic.attackDamage",
+						Operation: 0,
+						Name: "qualitytools"
+					}],
+					Name: "Brutal"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "7e043c67",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "totemexpansion:totem_explode",
+			tag: {
+				Quality: {
+					Slots: [
+						"baubles_trinket"
+					],
+					Color: "green",
+					AttributeModifiers: [{
+						UUIDMost: 3641386815405244923L,
+						UUIDLeast: -4814094956244925822L,
+						Amount: 1.0d,
+						AttributeName: "generic.attackDamage",
+						Operation: 0,
+						Name: "qualitytools"
+					}],
+					Name: "Brutal"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "4275b5e4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "totemexpansion:totem_repair",
+			tag: {
+				Quality: {
+					Slots: [
+						"baubles_trinket"
+					],
+					Color: "green",
+					AttributeModifiers: [{
+						UUIDMost: 3047122377007320704L,
+						UUIDLeast: -6989509409574374567L,
+						Amount: 1.0d,
+						AttributeName: "generic.attackDamage",
+						Operation: 0,
+						Name: "qualitytools"
+					}],
+					Name: "Brutal"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "469c7c64",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "charm:totem_of_returning"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "bd3e8859",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "charm:totem_of_shielding"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "3779a2eb",
+		type: "command",
+		title: "2 Prestige Points!",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "ftbquests:custom_icon",
+			tag: {
+				icon: "ftblib:textures/icons/support.png"
+			}
+		},
+		command: "/prestige add @p 2"
+	}]
+}

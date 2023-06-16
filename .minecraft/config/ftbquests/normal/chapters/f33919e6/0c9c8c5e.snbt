@@ -1,0 +1,18 @@
+{
+	x: 10.5d,
+	y: 6.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"8831d9df"
+	],
+	tasks: [{
+		uid: "58e9e8d2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:crab_pot_filter"
+		}]
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	x: -9.0d,
+	y: 3.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"85774193"
+	],
+	tasks: [{
+		uid: "195b74af",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aether_legacy:incubator"
+		}]
+	}]
+}

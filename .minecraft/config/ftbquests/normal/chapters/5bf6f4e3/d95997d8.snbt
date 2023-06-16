@@ -1,0 +1,34 @@
+{
+	title: "Find a Slime Island",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "tconstruct:slime_grass",
+		Damage: 2s
+	},
+	x: 3.5d,
+	y: -3.0d,
+	text: [
+		""
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"df5a26fa"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "383da551",
+		type: "observation",
+		match_type: "block_id",
+		match: "",
+		timer: 0L
+	},
+	{
+		uid: "75e70195",
+		type: "observation",
+		match_type: "block_id",
+		match: "",
+		timer: 0L
+	}]
+}

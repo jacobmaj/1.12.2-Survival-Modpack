@@ -1,0 +1,26 @@
+{
+	title: "☆",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "thebetweenlands:cragrock",
+		Damage: 1s
+	},
+	x: 0.0d,
+	y: 1.0d,
+	shape: "square",
+	text: [
+		"Credit goes to the writers of The Betweenlands Wiki for many of the quest descriptions."
+	],
+	dependencies: [
+		"f93cb93c"
+	],
+	hide: true,
+	size: 1.5d,
+	tasks: [{
+		uid: "3df6aa0e",
+		type: "dimension",
+		dim: 20
+	}]
+}

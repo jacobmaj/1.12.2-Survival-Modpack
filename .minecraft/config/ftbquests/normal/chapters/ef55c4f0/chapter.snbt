@@ -1,0 +1,12 @@
+{
+	title: "The Aether",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "aether_legacy:enchanted_aether_grass"
+	},
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

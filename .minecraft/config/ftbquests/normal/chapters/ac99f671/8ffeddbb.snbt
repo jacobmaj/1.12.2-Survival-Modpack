@@ -1,0 +1,22 @@
+{
+	x: -2.0d,
+	y: -5.5d,
+	text: [
+		"Grindstones can be used to disenchant items in exchange for experience.",
+		"",
+		"You can also combine two items to merge their durabilities into one, with a bonus."
+	],
+	dependencies: [
+		"ac15563d"
+	],
+	tasks: [{
+		uid: "7df16af2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "futuremc:grindstone"
+		}]
+	}]
+}

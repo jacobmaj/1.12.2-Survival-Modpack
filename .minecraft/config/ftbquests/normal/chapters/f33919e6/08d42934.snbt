@@ -1,0 +1,16 @@
+{
+	title: "☆",
+	x: -3.0d,
+	y: 11.5d,
+	hide_dependency_lines: true,
+	tasks: [{
+		uid: "a3dbafad",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:animator"
+		}]
+	}]
+}

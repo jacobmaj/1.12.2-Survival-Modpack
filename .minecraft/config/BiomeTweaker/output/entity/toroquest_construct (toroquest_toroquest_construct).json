@@ -1,0 +1,6 @@
+
+{
+  "Name": "toroquest_construct",
+  "Registry ID": "toroquest:toroquest_construct",
+  "Class": "net.torocraft.toroquest.entities.EntityConstruct"
+}

@@ -1,0 +1,20 @@
+{
+  "rules": [
+    {
+      "match": {
+        "blocks": {
+          "blocks": [
+            "rustic:beehive:*"
+          ]
+        },
+        "drops": {
+          "drops": [
+            "rustic:bee"
+          ]
+        }
+      },
+      "replaceStrategy": "REPLACE_ITEMS",
+      "drops": [{}]
+    }
+  ]
+}

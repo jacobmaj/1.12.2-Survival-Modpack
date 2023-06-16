@@ -1,0 +1,1 @@
+mods.inworldcrafting.FluidToItem.transform(<mist:sponge_fibre_clear>, <liquid:water>, [<mist:sponge_fibre>]);

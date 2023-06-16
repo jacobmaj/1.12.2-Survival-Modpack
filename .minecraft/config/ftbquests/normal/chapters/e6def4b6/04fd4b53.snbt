@@ -1,0 +1,18 @@
+{
+	x: -9.5d,
+	y: 3.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"a926bdf0"
+	],
+	tasks: [{
+		uid: "a7d4e239",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "cyberware:neuropozyne"
+		}]
+	}]
+}

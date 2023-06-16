@@ -1,0 +1,18 @@
+{
+	x: -3.0d,
+	y: -3.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"df5a26fa"
+	],
+	tasks: [{
+		uid: "bc36275e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "mist:furnace"
+		}]
+	}]
+}

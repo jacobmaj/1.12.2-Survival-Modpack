@@ -1,0 +1,50 @@
+{
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "thebetweenlands:fishing_spear"
+	},
+	x: 10.5d,
+	y: 7.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"8831d9df"
+	],
+	tasks: [{
+		uid: "e7c1ac53",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:fishing_spear"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "9128d667",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:fishing_spear_amphibious"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "2e99f63a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:fishing_spear_amphibious_robust"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

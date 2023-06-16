@@ -1,0 +1,39 @@
+{
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "thebetweenlands:silk_grub",
+		Count: 1b
+	},
+	x: 11.0d,
+	y: 10.5d,
+	text: [
+		"Silk Grubs can be put inside a Moth House to produce Silk Thread. "
+	],
+	dependencies: [
+		"4a8b4ae6"
+	],
+	tasks: [{
+		uid: "4b165f8b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:silk_grub",
+			Count: 1b
+		}]
+	},
+	{
+		uid: "94d34560",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:moth_house",
+			Count: 1b
+		}]
+	}]
+}

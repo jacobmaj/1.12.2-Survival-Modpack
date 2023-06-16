@@ -1,0 +1,68 @@
+{
+	x: 0.0d,
+	y: -4.5d,
+	dependencies: [
+		"47024588",
+		"91c87b1f"
+	],
+	tasks: [{
+		uid: "dc489ddb",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "simplytea:cup_tea_black"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "235e17c8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "simplytea:cup_tea_green"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "6c718e0f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "simplytea:cup_tea_chai"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "fa5b564f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "simplytea:cup_tea_chorus"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "891401b8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "simplytea:cup_cocoa"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

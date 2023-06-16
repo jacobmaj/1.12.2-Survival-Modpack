@@ -1,0 +1,18 @@
+{
+	title: "☆Diamond",
+	x: -0.5d,
+	y: 1.0d,
+	text: [
+		"Obtain at least one Diamond, either as loot or underground."
+	],
+	tasks: [{
+		uid: "e0c32481",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:diamond"
+		}]
+	}]
+}

@@ -1,0 +1,39 @@
+{
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "iceandfire:stone_statue"
+	},
+	x: 9.0d,
+	y: -8.0d,
+	text: [
+		"While mining, you may come across a Stoneling, a short gremlin-looking creature, usually seen holding something valuable.",
+		"",
+		"If you manage to kill one in time, it drops what it was holding, and rarely a Heart of Diamond as well."
+	],
+	tasks: [{
+		uid: "a08d2cd4",
+		type: "observation",
+		title: "Come across a Stoneling!",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "iceandfire:stone_statue"
+		},
+		match_type: "block_id",
+		match: "quark:stoneling",
+		timer: 0L
+	},
+	{
+		uid: "df0a8e75",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "quark:diamond_heart"
+		}]
+	}]
+}

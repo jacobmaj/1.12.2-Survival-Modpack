@@ -1,0 +1,15 @@
+{
+	x: 1.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "87d17ed1",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "betterwithmods:cooking_pot",
+			Damage: 1s
+		}]
+	}]
+}

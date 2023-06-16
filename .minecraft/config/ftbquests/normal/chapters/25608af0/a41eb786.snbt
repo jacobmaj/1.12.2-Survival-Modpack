@@ -1,0 +1,19 @@
+{
+	x: -0.5d,
+	y: -7.5d,
+	dependencies: [
+		"f3bca900",
+		"57fe3aa6",
+		"729cdde2"
+	],
+	tasks: [{
+		uid: "e2885f77",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "betterwithmods:bellows"
+		}]
+	}]
+}

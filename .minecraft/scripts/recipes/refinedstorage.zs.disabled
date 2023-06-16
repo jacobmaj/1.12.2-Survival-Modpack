@@ -1,0 +1,59 @@
+import mods.jei.JEI;
+
+recipes.removeByMod("refinedstorage");
+
+//creative controller
+recipes.addShaped(<refinedstorage:controller:1>,
+[[<ore:ingotNiobium>,<aether_legacy:holystone_brick>,<ore:ingotNiobium>],
+[<aether_legacy:holystone_brick>,<aether_legacy:aetherium_core>,<aether_legacy:holystone_brick>],
+[<ore:ingotNiobium>,<aether_legacy:holystone_brick>,<ore:ingotNiobium>]]);
+
+//normal grid
+recipes.addShaped(<refinedstorage:grid>,
+[[<ore:ingotNiobium>,<aether_legacy:holystone_brick>,<aether_legacy:quicksoil_glass>],
+[<aether_legacy:holystone_brick>,<aether_legacy:zanite_gemstone>,<aether_legacy:quicksoil_glass>],
+[<ore:ingotNiobium>,<aether_legacy:holystone_brick>,<aether_legacy:quicksoil_glass>]]);
+
+//crafting grid
+recipes.addShapeless(<refinedstorage:grid:1>, [<refinedstorage:grid>,<aether_legacy:ambrosium_shard>,<aether_legacy:skyroot_crafting_table>]);
+
+//disk drive
+recipes.addShaped(<refinedstorage:disk_drive>,
+[[<ore:ingotNiobium>,<aether_legacy:skyroot_chest>,<ore:ingotNiobium>],
+[<aether_legacy:holystone_brick>,<aether_legacy:enchanted_gravitite>,<aether_legacy:holystone_brick>],
+[<ore:ingotNiobium>,<aether_legacy:holystone_brick>,<ore:ingotNiobium>]]);
+
+
+//disk manipulator
+recipes.addShaped(<refinedstorage:disk_manipulator>,
+[[<ore:ingotNiobium>,<aether_legacy:holystone_brick>,<ore:ingotNiobium>],
+[<aether_legacy:holystone_brick>,<aether_legacy:aercloud>,<aether_legacy:holystone_brick>],
+[<ore:ingotNiobium>,<minecraft:piston>,<ore:ingotNiobium>]]);
+
+//storage housing
+recipes.addShaped(<refinedstorage:storage_housing>,
+[[<aether_legacy:icestone>,<aether_legacy:aercloud>,<aether_legacy:icestone>],
+[<aether_legacy:aercloud>,null,<aether_legacy:aercloud>],
+[<aether_legacy:icestone>,<aether_legacy:aercloud>,<aether_legacy:icestone>]]);
+
+//t2 disk, shapeless
+recipes.addShapeless(<refinedstorage:storage_disk:1>, [<refinedstorage:storage_housing>,<aether_legacy:golden_amber>]);
+
+//t2 disk, shaped
+recipes.addShaped(<refinedstorage:storage_disk:1>,
+[[<aether_legacy:icestone>,<aether_legacy:aercloud>,<aether_legacy:icestone>],
+[<aether_legacy:aercloud>,<aether_legacy:golden_amber>,<aether_legacy:aercloud>],
+[<aether_legacy:icestone>,<aether_legacy:aercloud>,<aether_legacy:icestone>]]);
+
+//t3 disk, shapeless
+recipes.addShapeless(<refinedstorage:storage_disk:2>, [<refinedstorage:storage_housing>,<charm:charged_emerald>]);
+
+//t3 disk, shaped
+recipes.addShaped(<refinedstorage:storage_disk:2>, 
+[[<aether_legacy:icestone>,<aether_legacy:aercloud>,<aether_legacy:icestone>],
+[<aether_legacy:aercloud>,<charm:charged_emerald>,<aether_legacy:aercloud>],
+[<aether_legacy:icestone>,<aether_legacy:aercloud>,<aether_legacy:icestone>]]);
+
+//cable
+recipes.addShapedMirrored(<refinedstorage:cable> * 4, 
+[[<ore:blockGlass>,<ore:ingotNiobium>,<ore:blockGlass>]]);

@@ -1,0 +1,36 @@
+{
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "betterwithmods:material",
+		Damage: 14s
+	},
+	x: 0.5d,
+	y: -12.5d,
+	dependencies: [
+		"28172896",
+		"bc50200e"
+	],
+	tasks: [{
+		uid: "b97ac8ae",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "betterwithmods:material",
+			Damage: 14s
+		}]
+	},
+	{
+		uid: "4a306498",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "betterwithmods:steel_anvil"
+		}]
+	}]
+}

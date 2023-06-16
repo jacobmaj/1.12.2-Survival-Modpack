@@ -1,0 +1,24 @@
+{
+	x: -3.0d,
+	y: 6.0d,
+	text: [
+		"Though their impermeability is high, Closed Respirators are very bothersome to use, their clunky shape blocking anything from being eaten or drunk while worn. You can craft a Glass Container for an airtight way to consume food.",
+		"",
+		"Take advantage of this by filling it with multiple servings of Pottage for an easy, pollutant-free meal."
+	],
+	dependencies: [
+		"846505fb"
+	],
+	tasks: [{
+		uid: "320942f6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "mist:glass_container"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,1 @@
+recipes.remove(<biomesoplenty:gem_block:6>);

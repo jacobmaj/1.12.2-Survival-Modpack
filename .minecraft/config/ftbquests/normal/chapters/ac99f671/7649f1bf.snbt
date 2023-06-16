@@ -1,0 +1,36 @@
+{
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:bed",
+		Damage: 14s
+	},
+	x: -10.0d,
+	y: -10.0d,
+	text: [
+		"You can set your spawn at a bed at any time by right-clicking it.",
+		"",
+		"Keep it safe from monsters!"
+	],
+	hide_dependency_lines: true,
+	tasks: [{
+		uid: "1aeff971",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				Parent: {
+					data: "bed",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any bed"
+				}
+			}
+		}]
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	x: 0.0d,
+	y: -2.5d,
+	text: [
+		"Obtain Iron Ingots, either as loot, or by smelting Iron Ore. "
+	],
+	tasks: [{
+		uid: "1f2b7181",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:iron_ingot"
+		}],
+		count: 3L
+	}]
+}

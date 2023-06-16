@@ -1,0 +1,49 @@
+{
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "thebetweenlands:weedwood_rowboat"
+	},
+	x: -7.0d,
+	y: 8.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"8831d9df"
+	],
+	tasks: [{
+		uid: "539cce5c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:weedwood_rowboat"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "19892dba",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:items_misc",
+			Damage: 26s
+		}]
+	},
+	{
+		uid: "d8a817e0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:weedwood_rowboat_upgrade_lantern"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

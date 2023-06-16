@@ -1,0 +1,86 @@
+{
+	title: "Dotoxican, Not Can't",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:potion",
+		tag: {
+			Potion: "mowziesmobs:poison_resist"
+		}
+	},
+	x: -3.0d,
+	y: -2.0d,
+	text: [
+		"These food items can be crafted, or otherwise found around the Misty World.",
+		"",
+		"Once eaten, they will restore a small amount of the Toxicity (poison vial) gauge, so stockpiling a large amount is advisable."
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"df5a26fa"
+	],
+	tasks: [{
+		uid: "eaa40c6c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "mist:mushrooms_food",
+			Damage: 21s
+		}]
+	},
+	{
+		uid: "66a991d3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "mist:mushrooms_food",
+			Damage: 23s
+		}]
+	},
+	{
+		uid: "f6220de0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "mist:tinder_fungus"
+		}]
+	},
+	{
+		uid: "74fe0564",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "mist:swim_bladder"
+		}]
+	},
+	{
+		uid: "268cd377",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "mist:nightberry"
+		}]
+	},
+	{
+		uid: "31e59ad1",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "mist:tree_seed",
+			Damage: 9s
+		}]
+	}]
+}

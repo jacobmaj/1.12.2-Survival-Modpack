@@ -1,0 +1,24 @@
+{
+	x: -2.5d,
+	y: 0.5d,
+	tasks: [{
+		uid: "3bfa3c92",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "rustic:condenser_advanced"
+		}]
+	},
+	{
+		uid: "4ad1954e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "rustic:retort_advanced"
+		}]
+	}]
+}

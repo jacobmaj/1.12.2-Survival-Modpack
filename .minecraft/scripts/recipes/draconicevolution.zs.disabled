@@ -1,0 +1,6 @@
+recipes.remove(<draconicevolution:diss_enchanter>);
+
+recipes.addShaped(<draconicevolution:diss_enchanter>,
+[[null,<betternether:cincinnasite_forged>,null],
+[<biomesoplenty:gem:5>,<endreborn:block_essence_ore>,<biomesoplenty:gem:5>],
+[<endreborn:block_essence_ore>,<endreborn:block_essence_ore>,<endreborn:block_essence_ore>]]);

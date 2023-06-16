@@ -1,0 +1,37 @@
+{
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "waystones:waystone"
+	},
+	disable_toast: true,
+	x: 8.5d,
+	y: -9.0d,
+	text: [
+		"Waystones can be found around the world, either in the wilderness, or in villages.",
+		"",
+		"Interacting with a Waystone will add it to your network of found Waystones, allowing transport between them, at the cost of experience."
+	],
+	tasks: [{
+		uid: "92c1526f",
+		type: "observation",
+		title: "Find a Waystone!",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "waystones:waystone"
+		},
+		match_type: "block_id",
+		match: "waystones:waystone",
+		timer: 0L
+	},
+	{
+		uid: "68813c0e",
+		type: "interaction",
+		title: "Interact with the Waystone",
+		match_type: "block_id",
+		match: "waystones:waystone"
+	}]
+}

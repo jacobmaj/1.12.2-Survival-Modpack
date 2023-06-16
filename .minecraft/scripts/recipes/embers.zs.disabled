@@ -1,0 +1,7 @@
+recipes.remove(<embers:blend_caminite>);
+recipes.addShapeless(<embers:blend_caminite>*4, [<minecraft:quartz>,<minecraft:clay_ball>,<minecraft:clay_ball>,<minecraft:clay_ball>,<minecraft:clay_ball>]);
+
+recipes.remove(<embers:tinker_hammer>);
+recipes.addShaped(<embers:tinker_hammer>, [[<ore:steelIngot>,<embers:archaic_brick>,<ore:steelIngot>],
+[<ore:steelIngot>,<ore:stickWood>,<ore:steelIngot>],
+[null,<ore:stickWood>,null]]);

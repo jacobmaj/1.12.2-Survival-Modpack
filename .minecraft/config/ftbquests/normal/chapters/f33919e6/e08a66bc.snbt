@@ -1,0 +1,46 @@
+{
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "thebetweenlands:critter",
+		tag: {
+			Entity: {
+				id: "thebetweenlands:gecko"
+			}
+		}
+	},
+	x: 8.5d,
+	y: 11.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"4d689192"
+	],
+	tasks: [{
+		uid: "500f7b58",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:critter",
+			tag: {
+				Entity: {
+					id: "thebetweenlands:gecko"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "6a5fe0b0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:gecko_cage"
+		}]
+	}]
+}

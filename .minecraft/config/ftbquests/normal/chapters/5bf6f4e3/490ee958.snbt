@@ -1,0 +1,21 @@
+{
+	x: 2.5d,
+	y: -2.0d,
+	text: [
+		"Can be mined with a Niobium or Diamond Pickaxe. Found on Mist cliffs."
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"df5a26fa"
+	],
+	tasks: [{
+		uid: "b2ecf098",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "mist:filter_coal"
+		}]
+	}]
+}

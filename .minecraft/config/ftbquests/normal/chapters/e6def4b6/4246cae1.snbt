@@ -1,0 +1,18 @@
+{
+	x: -5.5d,
+	y: 4.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"a926bdf0"
+	],
+	tasks: [{
+		uid: "489b074e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "endreborn:block_end_forge"
+		}]
+	}]
+}

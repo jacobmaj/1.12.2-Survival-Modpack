@@ -1,0 +1,29 @@
+{
+	x: -9.5d,
+	y: 5.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"a926bdf0"
+	],
+	tasks: [{
+		uid: "9f49018e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "cyberware:radio_post"
+		}],
+		count: 42L
+	},
+	{
+		uid: "4d56f03b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "cyberware:beacon_large"
+		}]
+	}]
+}

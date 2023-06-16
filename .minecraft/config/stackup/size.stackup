@@ -1,0 +1,18 @@
+size>=60, size<=64 -> 128
+
+id="behgameon:*" -> 1
+id="aeble:*" -> 1
+id="infoaccessories:*" -> 1
+
+
+id~="*:*_nugget" -> 512
+id~="*:*_nugget*" -> 512
+id~="*:*nugget" -> 512
+id~="*:nugget" -> 512
+id~="*:nugget*" -> 512
+id="endreborn:item_raw_endorium" -> 512
+
+
+
+
+id="betternether:stalagnate_bowl_mushroom" -> 128

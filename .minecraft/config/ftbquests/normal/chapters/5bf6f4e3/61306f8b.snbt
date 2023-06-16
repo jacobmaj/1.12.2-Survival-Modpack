@@ -1,0 +1,37 @@
+{
+	title: "☆Sulfur So Good",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "mist:sulfur_ore"
+	},
+	x: -0.5d,
+	y: 5.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"9ccc7b2d"
+	],
+	tasks: [{
+		uid: "00814cbf",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "mist:sulfur"
+		}]
+	},
+	{
+		uid: "3aa4284b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "mist:sulfur_block"
+		}]
+	}]
+}

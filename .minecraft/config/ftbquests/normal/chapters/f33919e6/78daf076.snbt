@@ -1,0 +1,37 @@
+{
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "thebetweenlands:snot_pod"
+	},
+	x: 9.5d,
+	y: 8.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"8831d9df"
+	],
+	tasks: [{
+		uid: "791a2cc9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:items_misc",
+			Damage: 58s
+		}]
+	},
+	{
+		uid: "a72ebe58",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:snot_pod"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

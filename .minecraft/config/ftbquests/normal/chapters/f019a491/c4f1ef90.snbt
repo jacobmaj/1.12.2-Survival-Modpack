@@ -1,0 +1,37 @@
+{
+	title: "☆",
+	x: 0.0d,
+	y: -1.5d,
+	shape: "hexagon",
+	text: [
+		""
+	],
+	dependencies: [
+		"d81779d6"
+	],
+	size: 1.3d,
+	tasks: [{
+		uid: "41d440bc",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:trophy",
+			Damage: 5s
+		},
+		entity: "twilightforest:snow_queen",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "bcfbae4d",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "scalinghealth:crystalshard"
+		},
+		count: 2
+	}]
+}

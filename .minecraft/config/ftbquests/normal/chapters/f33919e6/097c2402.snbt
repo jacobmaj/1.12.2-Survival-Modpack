@@ -1,0 +1,18 @@
+{
+	x: -7.0d,
+	y: 13.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"8831d9df"
+	],
+	tasks: [{
+		uid: "35f3dd55",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:wind_chime"
+		}]
+	}]
+}

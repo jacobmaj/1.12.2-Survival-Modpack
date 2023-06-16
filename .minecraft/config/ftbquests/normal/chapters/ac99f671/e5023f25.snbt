@@ -1,0 +1,24 @@
+{
+	x: -9.5d,
+	y: 1.0d,
+	text: [
+		"The Magic Mirror is an upgrade to the Totem of Undying, allowing you to teleport to your spawnpoint at no cost."
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"c5f7a376",
+		"22959eae"
+	],
+	tasks: [{
+		uid: "fa5acb55",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "bountifulbaubles:magicmirror"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

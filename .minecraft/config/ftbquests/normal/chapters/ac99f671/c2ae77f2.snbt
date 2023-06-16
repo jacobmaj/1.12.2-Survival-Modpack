@@ -1,0 +1,28 @@
+{
+	x: 10.5d,
+	y: 1.5d,
+	shape: "hexagon",
+	tasks: [{
+		uid: "e68f3d03",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "mowziesmobs:barako_mask"
+		},
+		entity: "mowziesmobs:barako",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "6e6d0d50",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "scalinghealth:crystalshard"
+		},
+		count: 2
+	}]
+}

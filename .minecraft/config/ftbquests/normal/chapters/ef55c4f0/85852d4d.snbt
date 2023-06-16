@@ -1,0 +1,28 @@
+{
+	title: "Cloud Storage",
+	x: -7.0d,
+	y: 6.5d,
+	text: [
+		""
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"6c86cbde",
+		"76e359f0"
+	],
+	tasks: [{
+		uid: "36a832a5",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "refinedstorage:controller",
+			tag: {
+				Energy: 32000
+			},
+			Damage: 1s
+		}],
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "waterfloor",
+  "type": "spawner",
+  "enabled": false,
+  "loadDefault": false,
+  "mobCountMin": 16,
+  "ignoreBiomes": false,
+  "ignoreLightLevel": false,
+  "conditions": [],
+  "triggers": [
+    {
+      "type": "world",
+      "chance": 0.75,
+      "tickRate": 800
+    }
+  ],
+  "locations": [
+    {
+      "type": "random",
+      "rangeMin": [
+        1,
+        0,
+        1
+      ],
+      "rangeMax": [
+        1,
+        1,
+        1
+      ],
+      "sorting": "random",
+      "listType": "whitelist",
+      "limit": 32,
+      "blocks": [
+        "minecraft:water"
+      ],
+      "solidGround": true
+    }
+  ]
+}

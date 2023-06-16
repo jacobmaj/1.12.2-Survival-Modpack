@@ -1,0 +1,31 @@
+{
+	title: "☆In The End",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:end_stone"
+	},
+	x: 0.0d,
+	y: 0.0d,
+	shape: "square",
+	text: [
+		""
+	],
+	dependencies: [
+		"e26c4ad8"
+	],
+	hide: true,
+	size: 1.5d,
+	tasks: [{
+		uid: "f2e1e07e",
+		type: "dimension",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "charm:rune_portal"
+		},
+		dim: 1
+	}]
+}

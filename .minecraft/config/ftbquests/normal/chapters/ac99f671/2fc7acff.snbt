@@ -1,0 +1,17 @@
+{
+	x: -4.0d,
+	y: -3.0d,
+	dependencies: [
+		"a96c6f83"
+	],
+	tasks: [{
+		uid: "8d44ad2a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "quark:chain"
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: -10.5d,
+	y: -1.5d,
+	tasks: [{
+		uid: "cefce34a",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "cookingforblockheads:cow_jar"
+		},
+		match_type: "block_id",
+		match: "cookingforblockheads:cow_jar",
+		timer: 0L
+	}]
+}

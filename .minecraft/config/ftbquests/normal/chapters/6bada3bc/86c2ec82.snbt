@@ -1,0 +1,25 @@
+{
+	title: "☆Enter The Nether",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:netherrack"
+	},
+	x: 0.0d,
+	y: -9.5d,
+	shape: "square",
+	text: [
+		""
+	],
+	dependencies: [
+		"6cd37e77"
+	],
+	hide: true,
+	size: 1.5d,
+	tasks: [{
+		uid: "75d92e09",
+		type: "dimension",
+		dim: -1
+	}]
+}

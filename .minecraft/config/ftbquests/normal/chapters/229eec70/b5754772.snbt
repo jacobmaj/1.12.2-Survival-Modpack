@@ -1,0 +1,22 @@
+{
+	title: "Find a Dodo!",
+	x: -0.5d,
+	y: -1.5d,
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "53090284",
+		type: "observation",
+		title: "Observe a Dodo",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "primitivemobs:dodo_egg"
+		},
+		match_type: "entity_id",
+		match: "primitivemobs:dodo",
+		timer: 0L
+	}]
+}

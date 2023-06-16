@@ -1,0 +1,20 @@
+{
+	x: 10.0d,
+	y: 1.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"8831d9df"
+	],
+	tasks: [{
+		uid: "a9ab2e8a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:gem_singer"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,30 @@
+{
+	title: "I Come From a Mine Down Under",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "quark:pickarang"
+	},
+	x: -8.5d,
+	y: 1.0d,
+	text: [
+		"The Boomerang is crafted with the Heart of Diamond, and can be thrown to break blocks at a range."
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"7f5bca10"
+	],
+	tasks: [{
+		uid: "af9864eb",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "quark:pickarang"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,63 @@
+{
+	title: "☆",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "netherex:urn_of_sorrow"
+	},
+	x: 0.0d,
+	y: 3.5d,
+	shape: "hexagon",
+	dependencies: [
+		"eaeb0a28"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "32147b2c",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "netherex:urn_of_sorrow"
+		},
+		match_type: "block_id",
+		match: "netherex:urn_of_sorrow",
+		timer: 0L
+	},
+	{
+		uid: "cb07182d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "netherex:ghast_queen_tear"
+		}]
+	}],
+	rewards: [{
+		uid: "f8560c9a",
+		type: "gamestage",
+		title: "...A new chapter awaits!",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:miniature_structure"
+		},
+		auto: "enabled",
+		stage: "twilightforest"
+	},
+	{
+		uid: "8ffde95a",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "scalinghealth:crystalshard"
+		},
+		count: 2
+	}]
+}

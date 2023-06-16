@@ -1,0 +1,29 @@
+{
+	title: "Speak to a Village Lord",
+	x: 9.0d,
+	y: -5.25d,
+	shape: "diamond",
+	text: [
+		"Speak to a Village Lord, which can be found at the top of a village fort.",
+		"",
+		"They will provide quests, which can be completed for Emeralds and reputation.",
+		"",
+		"You can also hand in items such as Emeralds and Bandit Masks for reputation.",
+		"",
+		"Once you reach a high enough reputation, you unlock perks within the village, and begin to receive more dangerous and rewarding quests."
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "c412754b",
+		type: "interaction",
+		title: "Speak to a Village Lord",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "toroquest:royal_helmet"
+		},
+		match_type: "entity_id",
+		match: "toroquest:toroquest_village_lord"
+	}]
+}

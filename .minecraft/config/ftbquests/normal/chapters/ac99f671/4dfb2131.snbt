@@ -1,0 +1,33 @@
+{
+	x: 9.0d,
+	y: 13.0d,
+	shape: "hexagon",
+	hide_dependency_lines: true,
+	dependencies: [
+		"bad4d7ec"
+	],
+	tasks: [{
+		uid: "4130e153",
+		type: "kill",
+		title: "Slay the Hirschgeist",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "betteranimalsplus:hirschgeistskullwearable"
+		},
+		entity: "betteranimalsplus:hirschgeist",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "fe0e7b7d",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "scalinghealth:crystalshard"
+		},
+		count: 2
+	}]
+}

@@ -1,0 +1,184 @@
+{
+	title: "One Man's Garage Sale...",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "thebetweenlands:aa_upgrade_vortex"
+	},
+	x: 9.5d,
+	y: 7.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"8ed145c8"
+	],
+	tasks: [{
+		uid: "fc108d4b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:items_misc",
+			Damage: 51s
+		}]
+	},
+	{
+		uid: "8d7a416f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:items_misc",
+			Damage: 4s
+		}]
+	},
+	{
+		uid: "e6448ceb",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:items_misc",
+			Damage: 57s
+		}]
+	},
+	{
+		uid: "d1068020",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:items_misc",
+			Damage: 54s
+		}]
+	},
+	{
+		uid: "ee5fa07f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:items_misc",
+			Damage: 55s
+		}]
+	},
+	{
+		uid: "5367a9ac",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:items_misc",
+			Damage: 59s
+		}]
+	},
+	{
+		uid: "ec2d9291",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:glowing_goop"
+		}]
+	},
+	{
+		uid: "f73ab397",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:sap_spit"
+		}]
+	},
+	{
+		uid: "bee1826a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:aa_upgrade_electric"
+		}]
+	},
+	{
+		uid: "c561f1d9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:aa_upgrade_glide"
+		}]
+	},
+	{
+		uid: "55ff916b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:aa_upgrade_urchin"
+		}]
+	},
+	{
+		uid: "e66e0651",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:aa_upgrade_vortex"
+		}]
+	},
+	{
+		uid: "7a50e3f3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:aa_upgrade_leap"
+		}]
+	},
+	{
+		uid: "975160b3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:items_misc",
+			Damage: 52s
+		}]
+	},
+	{
+		uid: "228dcebc",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:items_misc",
+			Damage: 53s
+		}]
+	},
+	{
+		uid: "8d1fd83d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:items_misc",
+			Damage: 58s
+		}]
+	}]
+}

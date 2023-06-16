@@ -1,0 +1,38 @@
+{
+	x: 7.5d,
+	y: -3.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"0223e806"
+	],
+	tasks: [{
+		uid: "bec93fe1",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:charm_of_keeping_1"
+		}]
+	},
+	{
+		uid: "7166b538",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:charm_of_keeping_2"
+		}]
+	},
+	{
+		uid: "7f457ba7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:charm_of_keeping_3"
+		}]
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	x: 8.0d,
+	y: 7.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"85774193"
+	],
+	tasks: [{
+		uid: "ec378e2c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aether_legacy:golden_amber"
+		}]
+	}]
+}

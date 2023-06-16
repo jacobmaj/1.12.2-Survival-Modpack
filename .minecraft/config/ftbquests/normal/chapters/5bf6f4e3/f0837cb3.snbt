@@ -1,0 +1,199 @@
+{
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "mist:soup",
+		tag: {
+			Potions: [],
+			SoupPortion: 1,
+			SoupSaturation: 1.0f,
+			MainFood: [{
+				ForgeCaps: {
+					"wizardryutils:summoneditemdata": {}
+				},
+				id: "minecraft:cooked_beef",
+				Count: 1,
+				Damage: 0s
+			},
+			{
+				ForgeCaps: {
+					"wizardryutils:summoneditemdata": {}
+				},
+				id: "minecraft:cooked_chicken",
+				Count: 1,
+				Damage: 0s
+			},
+			{
+				ForgeCaps: {
+					"wizardryutils:summoneditemdata": {}
+				},
+				id: "minecraft:cooked_mutton",
+				Count: 1,
+				Damage: 0s
+			}],
+			FoodPercent: [{
+				Percent: 40.0f
+			},
+			{
+				Percent: 30.0f
+			},
+			{
+				Percent: 7.5f
+			}],
+			SoupHealAmount: 15.5f,
+			FoodColors: [{
+				ForgeCaps: {
+					"wizardryutils:summoneditemdata": {}
+				},
+				id: "minecraft:cooked_beef",
+				Count: 1,
+				Damage: 0s
+			},
+			{
+				ForgeCaps: {
+					"wizardryutils:summoneditemdata": {}
+				},
+				id: "minecraft:cooked_chicken",
+				Count: 1,
+				Damage: 0s
+			},
+			{
+				ForgeCaps: {
+					"wizardryutils:summoneditemdata": {}
+				},
+				id: "minecraft:cooked_mutton",
+				Count: 1,
+				Damage: 0s
+			}],
+			SoupToxic: 0.0f
+		}
+	},
+	x: -4.0d,
+	y: -3.0d,
+	text: [
+		""
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"df5a26fa"
+	],
+	tasks: [{
+		uid: "3cad24d9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "mist:rocks"
+		}],
+		count: 4L
+	},
+	{
+		uid: "b7867794",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				Parent: {
+					data: "logWood",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any logWood"
+				}
+			}
+		}],
+		count: 15L
+	},
+	{
+		uid: "0282f4e6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:cauldron"
+		}]
+	},
+	{
+		uid: "f9f50c71",
+		type: "item",
+		title: "Any Pottage",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "mist:soup",
+			tag: {
+				Potions: [],
+				SoupPortion: 1,
+				SoupSaturation: 1.0f,
+				MainFood: [{
+					ForgeCaps: {
+						"wizardryutils:summoneditemdata": {}
+					},
+					id: "minecraft:cooked_beef",
+					Count: 1,
+					Damage: 0s
+				},
+				{
+					ForgeCaps: {
+						"wizardryutils:summoneditemdata": {}
+					},
+					id: "minecraft:cooked_chicken",
+					Count: 1,
+					Damage: 0s
+				},
+				{
+					ForgeCaps: {
+						"wizardryutils:summoneditemdata": {}
+					},
+					id: "minecraft:cooked_mutton",
+					Count: 1,
+					Damage: 0s
+				}],
+				FoodPercent: [{
+					Percent: 40.0f
+				},
+				{
+					Percent: 30.0f
+				},
+				{
+					Percent: 7.5f
+				}],
+				SoupHealAmount: 15.5f,
+				FoodColors: [{
+					ForgeCaps: {
+						"wizardryutils:summoneditemdata": {}
+					},
+					id: "minecraft:cooked_beef",
+					Count: 1,
+					Damage: 0s
+				},
+				{
+					ForgeCaps: {
+						"wizardryutils:summoneditemdata": {}
+					},
+					id: "minecraft:cooked_chicken",
+					Count: 1,
+					Damage: 0s
+				},
+				{
+					ForgeCaps: {
+						"wizardryutils:summoneditemdata": {}
+					},
+					id: "minecraft:cooked_mutton",
+					Count: 1,
+					Damage: 0s
+				}],
+				SoupToxic: 0.0f
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

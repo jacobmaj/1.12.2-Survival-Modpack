@@ -1,0 +1,115 @@
+{
+  "blockGroups": [
+    [
+      "treeLeaves"
+    ],
+    [
+      "logWood"
+    ],
+	[
+	"oreCoal",
+	"denseoreCoal"
+	],
+	[
+	"oreCopper",
+	"denseoreCopper"
+	],
+	[
+	"oreLapis",
+	"denseoreLapis"
+	],
+	[
+	"oreMalachite",
+	"denseoreMalachite"
+	],
+	[
+	"oreSapphire",
+	"denseoreSapphire"
+	],
+	[
+	"oreIron",
+	"denseoreIron"
+	],
+	[
+	"orePeridot",
+	"denseorePeridot"
+	],
+	[
+	"oreGold",
+	"denseoreGold"
+	],
+	[
+	"oreAluminum",
+	"denseoreAluminum"
+	],
+	[
+	"oreEmerald",
+	"denseoreEmerald"
+	],
+	[
+	"oreRuby",
+	"denseoreRuby"
+	],
+	[
+	"oreMithril",
+	"denseoreMithril"
+	],
+	[
+	"oreRedstone",
+	"denseoreRedstone"
+	],
+	[
+	"oreDiamond",
+	"denseoreDiamond"
+	],
+	[
+	"oreUranium",
+	"denseoreUranium"
+	],
+	[
+	"oreAmber",
+	"denseoreAmber"
+	],
+	[
+	"oreLead",
+	"denseoreLead"
+	],
+	[
+	"oreTopaz",
+	"denseoreTopaz"
+	],
+	[
+	"oreTanzanite",
+	"denseoreTanzanite"
+	],
+	[
+	"oreAdamantine",
+	"denseoreAdamantine"
+	],
+	[
+	"oreSilver",
+	"denseoreSilver"
+	],
+	[
+	"oreNickel",
+	"denseoreNickel"
+	],
+	[
+	"oreTin",
+	"denseoreTin"
+	]
+	
+	
+	
+  ],
+  "strictSubtypes": [
+    "cropWheat",
+    "cropPotato",
+    "cropCarrot",
+    "cropNetherWart"
+  ],
+  "gamestages": {
+    "examplemod:example_block1": "example_stage1",
+    "examplemod:example_block2": "example_stage2"
+  }
+}

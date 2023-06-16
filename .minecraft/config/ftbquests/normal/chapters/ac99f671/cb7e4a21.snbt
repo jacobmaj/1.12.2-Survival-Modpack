@@ -1,0 +1,31 @@
+{
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "betteranimalsplus:foxhead_1"
+	},
+	x: 8.0d,
+	y: -8.0d,
+	text: [
+		"Find a Fox in a forest biome.",
+		"",
+		"Foxes can be tamed, healed, and bred with Rabbit meat, and make for excellent mining partners.",
+		"",
+		"If you right-click a Fox with a block of your choice, they will sniff out and lead you to the block in a radius, if one is found."
+	],
+	tasks: [{
+		uid: "56596521",
+		type: "observation",
+		title: "Spot a Fox",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "betteranimalsplus:foxhead_1"
+		},
+		match_type: "entity_id",
+		match: "outfox:fox",
+		timer: 0L
+	}]
+}

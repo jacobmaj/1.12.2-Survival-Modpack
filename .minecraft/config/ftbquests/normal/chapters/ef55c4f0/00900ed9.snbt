@@ -1,0 +1,21 @@
+{
+	x: -8.5d,
+	y: 7.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"1d2e6e4a",
+		"8847b65c"
+	],
+	optional: true,
+	tasks: [{
+		uid: "f4f6c4a8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "refinedstorage:grid",
+			Damage: 1s
+		}]
+	}]
+}

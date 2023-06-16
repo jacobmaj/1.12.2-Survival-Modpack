@@ -1,0 +1,14 @@
+{
+	x: -12.5d,
+	y: -2.5d,
+	tasks: [{
+		uid: "e122f376",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "futuremc:composter"
+		}]
+	}]
+}

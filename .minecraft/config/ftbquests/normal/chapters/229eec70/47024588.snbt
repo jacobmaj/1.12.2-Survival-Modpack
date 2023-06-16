@@ -1,0 +1,34 @@
+{
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "simplytea:leaf_tea"
+	},
+	x: -1.0d,
+	y: -4.5d,
+	text: [
+		"Obtained as loot in Pirate Ships."
+	],
+	tasks: [{
+		uid: "0bd16165",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "simplytea:leaf_tea"
+		}],
+		count: 3L
+	},
+	{
+		uid: "24949931",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "simplytea:tea_sapling"
+		}]
+	}]
+}

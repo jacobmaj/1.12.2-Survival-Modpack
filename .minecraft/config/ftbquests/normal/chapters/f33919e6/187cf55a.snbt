@@ -1,0 +1,37 @@
+{
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "thebetweenlands:walkway"
+	},
+	x: -8.0d,
+	y: 8.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"8831d9df"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "75259d60",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:walkway"
+		}],
+		count: 16L
+	},
+	{
+		uid: "5731f282",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:wood_chip_path"
+		}],
+		count: 16L
+	}]
+}

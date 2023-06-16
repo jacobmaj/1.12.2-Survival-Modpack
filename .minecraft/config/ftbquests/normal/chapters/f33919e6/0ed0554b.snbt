@@ -1,0 +1,50 @@
+{
+	title: "☆",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "thebetweenlands:mummy_bait"
+	},
+	x: -2.0d,
+	y: 12.5d,
+	shape: "hexagon",
+	text: [
+		""
+	],
+	dependencies: [
+		"a0234660"
+	],
+	tasks: [{
+		uid: "aad1a1a5",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:mummy_bait"
+		}]
+	},
+	{
+		uid: "ef9d5ec7",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:ring_of_summoning"
+		},
+		entity: "thebetweenlands:dreadful_mummy",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "fc5ab97a",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "scalinghealth:crystalshard"
+		}
+	}]
+}

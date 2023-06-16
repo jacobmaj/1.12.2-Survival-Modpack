@@ -1,0 +1,36 @@
+{
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "thebetweenlands:aspectrus_fruit"
+	},
+	x: 9.5d,
+	y: 13.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"8831d9df"
+	],
+	tasks: [{
+		uid: "256e1cd2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:aspectrus_seeds"
+		}]
+	},
+	{
+		uid: "84643669",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:aspectrus_fruit"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

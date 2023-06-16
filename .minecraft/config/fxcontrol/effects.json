@@ -1,0 +1,11 @@
+[
+  {
+    "timeout": 100,
+	"dimension": 69,
+	"maxheight": 110,
+	"maxtime": 13100,
+    "damage": "wither=2"
+  }
+
+
+]

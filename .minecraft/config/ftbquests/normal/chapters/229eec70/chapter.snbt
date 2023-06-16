@@ -1,0 +1,12 @@
+{
+	title: "Way of the Farmer",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:carrot"
+	},
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

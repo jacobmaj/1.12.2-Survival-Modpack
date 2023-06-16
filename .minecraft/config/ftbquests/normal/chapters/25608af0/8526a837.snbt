@@ -1,0 +1,20 @@
+{
+	x: -1.5d,
+	y: -9.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"a41eb786",
+		"a9ac36cf"
+	],
+	tasks: [{
+		uid: "9df26e33",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "tconstruct:ingots",
+			Damage: 3s
+		}]
+	}]
+}

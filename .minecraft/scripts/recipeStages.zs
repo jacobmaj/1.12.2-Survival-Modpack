@@ -1,0 +1,1 @@
+mods.recipestages.Recipes.setRecipeStage("end", <minecraft:ender_eye>);

@@ -1,0 +1,22 @@
+{
+	x: 2.0d,
+	y: -9.5d,
+	text: [
+		"This shield can be upgraded to withstand heavier blows, and improve its durability."
+	],
+	dependencies: [
+		"6f92d13c"
+	],
+	tasks: [{
+		uid: "2933a3e4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "spartanshields:shield_basic_wood"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

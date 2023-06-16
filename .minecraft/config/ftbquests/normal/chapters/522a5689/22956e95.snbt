@@ -1,0 +1,22 @@
+{
+	x: 1.0d,
+	y: 0.5d,
+	tasks: [{
+		uid: "78db51a4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "quark:ancient_tome",
+			tag: {
+				StoredEnchantments: [{
+					lvl: 4s,
+					id: 2
+				}]
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,27 @@
+{
+	x: -9.5d,
+	y: -2.5d,
+	text: [
+		"Chisels can change the appearance of many blocks. ",
+		"Right-click to open its GUI."
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"a96c6f83"
+	],
+	tasks: [{
+		uid: "c289b659",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "chisel:chisel_iron",
+			tag: {
+				chiseldata: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	title: "☆",
+	x: 0.0d,
+	y: 3.0d,
+	shape: "hexagon",
+	dependencies: [
+		"8608b378"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "e9394e67",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:skull",
+			Damage: 5s
+		},
+		entity: "minecraft:ender_dragon",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "28bbf062",
+		type: "gamestage",
+		title: "...A new chapter Awaits!",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "stygian:endgrass"
+		},
+		team_reward: true,
+		auto: "invisible",
+		stage: "postEnd"
+	},
+	{
+		uid: "e3abf9e6",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "scalinghealth:crystalshard"
+		},
+		count: 2
+	}]
+}

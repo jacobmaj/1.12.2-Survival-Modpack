@@ -1,0 +1,32 @@
+{
+	x: -5.0d,
+	y: 6.0d,
+	dependencies: [
+		"846505fb"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "01b656ac",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "mist:respirator_rubber"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "2ec12ae4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "mist:respirator_rubber_open"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

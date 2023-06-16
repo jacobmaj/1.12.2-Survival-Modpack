@@ -1,0 +1,12 @@
+{
+	title: "Way of the Mechanic",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "betterwithmods:material"
+	},
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

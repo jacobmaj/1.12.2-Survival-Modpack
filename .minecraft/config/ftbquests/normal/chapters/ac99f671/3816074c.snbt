@@ -1,0 +1,21 @@
+{
+	x: 2.0d,
+	y: -1.5d,
+	text: [
+		"The Antique Atlas is kept on death."
+	],
+	dependencies: [
+		"a96c6f83"
+	],
+	tasks: [{
+		uid: "bfb1a825",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "antiqueatlas:empty_antique_atlas",
+			Count: 1b
+		}]
+	}]
+}

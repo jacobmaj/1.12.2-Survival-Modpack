@@ -1,0 +1,28 @@
+{
+	x: 8.5d,
+	y: 0.5d,
+	shape: "hexagon",
+	tasks: [{
+		uid: "c49924c5",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "iceandfire:myrmex_stinger"
+		},
+		entity: "iceandfire:myrmex_queen",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "fa3e37f3",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "scalinghealth:crystalshard"
+		},
+		count: 2
+	}]
+}

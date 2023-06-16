@@ -1,0 +1,319 @@
+{
+	title: "Shroomer",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "iceandfire:pixie_house",
+		Damage: 1s
+	},
+	x: -4.0d,
+	y: -2.0d,
+	shape: "square",
+	text: [
+		""
+	],
+	size: 1.19d,
+	tasks: [{
+		uid: "1ac1fdd9",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "mist:mushrooms_food",
+			Damage: 10s
+		}]
+	},
+	{
+		uid: "1db62513",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "mist:mushrooms_food",
+			Damage: 19s
+		}]
+	},
+	{
+		uid: "7e07ba01",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "mist:mushrooms_food"
+		}]
+	},
+	{
+		uid: "feec7b2e",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "mist:mushrooms_food",
+			Damage: 2s
+		}]
+	},
+	{
+		uid: "e9d1bb0f",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "mist:mushrooms_food",
+			Damage: 17s
+		}]
+	},
+	{
+		uid: "cc5d3a9e",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "mist:mushrooms_food",
+			Damage: 27s
+		}]
+	},
+	{
+		uid: "e7f1a370",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "mist:mushrooms_food",
+			Damage: 16s
+		}]
+	},
+	{
+		uid: "c00c14ff",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "mist:mushrooms_food",
+			Damage: 1s
+		}]
+	},
+	{
+		uid: "84197392",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "mist:mushrooms_food",
+			Damage: 23s
+		}]
+	},
+	{
+		uid: "b69d83e1",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "mist:mushrooms_food",
+			Damage: 12s
+		}]
+	},
+	{
+		uid: "f08cc61c",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "mist:mushrooms_food",
+			Damage: 3s
+		}]
+	},
+	{
+		uid: "6be9341d",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "mist:mushrooms_food",
+			Damage: 5s
+		}]
+	},
+	{
+		uid: "9e6be04a",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "mist:mushrooms_food",
+			Damage: 6s
+		}]
+	},
+	{
+		uid: "76812fae",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "mist:mushrooms_food",
+			Damage: 22s
+		}]
+	},
+	{
+		uid: "c3d169a4",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "mist:mushrooms_food",
+			Damage: 21s
+		}]
+	},
+	{
+		uid: "552a9020",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "mist:mushrooms_food",
+			Damage: 8s
+		}]
+	},
+	{
+		uid: "25cad5a1",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "mist:mushrooms_food",
+			Damage: 25s
+		}]
+	},
+	{
+		uid: "0422fafb",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "mist:mushrooms_food",
+			Damage: 18s
+		}]
+	},
+	{
+		uid: "4d381c05",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "mist:mushrooms_food",
+			Damage: 24s
+		}]
+	},
+	{
+		uid: "e828d8f5",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "mist:mushrooms_food",
+			Damage: 20s
+		}]
+	},
+	{
+		uid: "0f8dd9ea",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "mist:mushrooms_food",
+			Damage: 7s
+		}]
+	},
+	{
+		uid: "7a96f74d",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "mist:mushrooms_food",
+			Damage: 9s
+		}]
+	},
+	{
+		uid: "1562faf6",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "mist:mushrooms_food",
+			Damage: 4s
+		}]
+	},
+	{
+		uid: "81bbf577",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "mist:mushrooms_food",
+			Damage: 26s
+		}]
+	}],
+	rewards: [{
+		uid: "0c0fb91a",
+		type: "command",
+		title: "2 Prestige Points!",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "ftbquests:custom_icon",
+			tag: {
+				icon: "ftblib:textures/icons/support.png"
+			}
+		},
+		command: "/prestige add @p 2"
+	}]
+}

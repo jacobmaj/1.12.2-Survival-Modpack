@@ -1,0 +1,33 @@
+{
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "betterwithaddons:legendarium"
+	},
+	x: 5.0d,
+	y: 2.0d,
+	dependencies: [
+		"147b2b8a"
+	],
+	tasks: [{
+		uid: "0802c35e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "betterwithaddons:legendarium"
+		}]
+	},
+	{
+		uid: "d03965a2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "betterwithaddons:artifact_frame"
+		}]
+	}]
+}

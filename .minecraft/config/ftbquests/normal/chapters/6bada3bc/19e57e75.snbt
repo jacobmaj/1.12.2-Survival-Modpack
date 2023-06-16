@@ -1,0 +1,47 @@
+{
+	title: "☆",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:brewing_stand"
+	},
+	x: -1.0d,
+	y: -3.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"86c2ec82"
+	],
+	tasks: [{
+		uid: "a5231d8c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:blaze_rod"
+		}]
+	},
+	{
+		uid: "e15ea3cf",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:blaze_powder"
+		}]
+	},
+	{
+		uid: "4ae4c6f2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:brewing_stand"
+		}]
+	}]
+}

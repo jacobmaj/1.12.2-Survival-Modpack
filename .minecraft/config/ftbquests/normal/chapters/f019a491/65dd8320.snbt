@@ -1,0 +1,28 @@
+{
+	x: -2.0d,
+	y: -8.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"0223e806"
+	],
+	tasks: [{
+		uid: "b0bb7bf6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:ironwood_raw"
+		}]
+	},
+	{
+		uid: "9b353faa",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:ironwood_ingot"
+		}]
+	}]
+}

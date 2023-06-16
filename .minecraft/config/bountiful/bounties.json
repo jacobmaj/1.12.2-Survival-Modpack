@@ -1,0 +1,147 @@
+[
+  {
+    "content": "minecraft:fish",
+    "amount": {
+      "min": 3,
+      "max": 6
+    },
+    "unitWorth": 75,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:apple",
+    "amount": {
+      "min": 2,
+      "max": 6
+    },
+    "unitWorth": 75,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:book",
+    "amount": {
+      "min": 3,
+      "max": 8
+    },
+    "unitWorth": 125,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:cactus",
+    "amount": {
+      "min": 5,
+      "max": 20
+    },
+    "unitWorth": 75,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:diamond",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 600,
+    "weight": 50
+  },
+  {
+    "content": "minecraft:iron_ingot",
+    "amount": {
+      "min": 4,
+      "max": 12
+    },
+    "unitWorth": 125,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:bread",
+    "amount": {
+      "min": 2,
+      "max": 4
+    },
+    "unitWorth": 100,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:rotten_flesh",
+    "amount": {
+      "min": 5,
+      "max": 20
+    },
+    "unitWorth": 75,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:slime_ball",
+    "amount": {
+      "min": 1,
+      "max": 5
+    },
+    "unitWorth": 225,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:spider_eye",
+    "amount": {
+      "min": 1,
+      "max": 5
+    },
+    "unitWorth": 100,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:string",
+    "amount": {
+      "min": 3,
+      "max": 12
+    },
+    "unitWorth": 75,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:sugar",
+    "amount": {
+      "min": 3,
+      "max": 16
+    },
+    "unitWorth": 75,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:wheat",
+    "amount": {
+      "min": 1,
+      "max": 16
+    },
+    "unitWorth": 75,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:leather",
+    "amount": {
+      "min": 1,
+      "max": 4
+    },
+    "unitWorth": 200,
+    "weight": 100
+  },
+  {
+    "content": "entity:minecraft:guardian",
+    "amount": {
+      "min": 3,
+      "max": 7
+    },
+    "unitWorth": 200,
+    "weight": 150
+  }/*,
+  {
+    "content": "entity:primitivemobs:goblin",
+    "amount": {
+      "min": 3,
+      "max": 6
+    },
+    "unitWorth": 200,
+    "weight": 150
+  }
+  */
+]

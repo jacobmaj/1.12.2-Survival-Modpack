@@ -1,0 +1,27 @@
+{
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "thebetweenlands:simple_slingshot"
+	},
+	x: -7.0d,
+	y: 7.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"8831d9df"
+	],
+	hide: true,
+	tasks: [{
+		uid: "9ad6a3b9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:simple_slingshot"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

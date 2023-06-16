@@ -1,0 +1,24 @@
+{
+	title: "☆Enter The Twilight Forest",
+	x: 0.0d,
+	y: -9.5d,
+	shape: "square",
+	text: [
+		""
+	],
+	dependencies: [
+		"1b4db7ec"
+	],
+	hide: true,
+	size: 1.5d,
+	tasks: [{
+		uid: "b798a9e8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:miniature_structure"
+		}]
+	}]
+}

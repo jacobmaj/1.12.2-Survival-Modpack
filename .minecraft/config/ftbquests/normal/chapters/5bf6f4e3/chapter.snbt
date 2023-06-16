@@ -1,0 +1,13 @@
+{
+	title: "The Misty World",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "mist:acid_grass_0",
+		Damage: 1s
+	},
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

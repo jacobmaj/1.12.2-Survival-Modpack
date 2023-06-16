@@ -1,0 +1,32 @@
+{
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "defiledlands:book_wyrm_analyzer"
+	},
+	x: -0.5d,
+	y: 0.5d,
+	tasks: [{
+		uid: "55c61f38",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "defiledlands:book_wyrm_scale"
+		}]
+	},
+	{
+		uid: "084121c3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "defiledlands:book_wyrm_analyzer"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

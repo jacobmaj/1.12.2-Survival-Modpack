@@ -1,0 +1,32 @@
+{
+	title: "☆Ritual Table",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "arcaneworld:ritual_table"
+	},
+	x: 0.5d,
+	y: 1.0d,
+	text: [
+		"Craft the Ritual Table. It will be used to create portals, objects, and summon entities.",
+		"",
+		"You can view all Ritual Table recipes by clicking the '?' at the top-left of its GUI."
+	],
+	tasks: [{
+		uid: "ac8d5264",
+		type: "item",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "arcaneworld:ritual_table"
+		},
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "arcaneworld:ritual_table"
+		}]
+	}]
+}

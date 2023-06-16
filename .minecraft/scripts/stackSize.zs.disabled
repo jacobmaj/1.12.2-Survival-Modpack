@@ -1,0 +1,18 @@
+/*
+<immersiveengineering:metal:20>.maxStackSize = 512;
+<immersiveengineering:metal:21>.maxStackSize = 512;
+<immersiveengineering:metal:22>.maxStackSize = 512;
+<immersiveengineering:metal:23>.maxStackSize = 512;
+<immersiveengineering:metal:24>.maxStackSize = 512;
+<immersiveengineering:metal:25>.maxStackSize = 512;
+<immersiveengineering:metal:26>.maxStackSize = 512;
+<immersiveengineering:metal:27>.maxStackSize = 512;
+<immersiveengineering:metal:28>.maxStackSize = 512;
+
+<betterwithmods:material:30>.maxStackSize = 512;
+<betterwithmods:material:46>.maxStackSize = 512;
+
+<thebetweenlands:items_misc:41>.maxStackSize = 512;
+<thebetweenlands:items_misc:42>.maxStackSize = 512;
+
+*/

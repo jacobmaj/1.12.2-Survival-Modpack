@@ -1,0 +1,219 @@
+
+{
+  "ID": 191,
+  "Name": "Defiled Plains",
+  "Resource Location": "defiledlands:plains_defiled",
+  "Class": "lykrast.defiledlands.common.world.biome.BiomePlainsDefiled",
+  "Root Height": 0.125,
+  "Height Variation": 0.05,
+  "Top Block": "defiledlands:grass_defiled[snowy\u003dfalse]",
+  "Filler Block": "defiledlands:dirt_defiled",
+  "Ocean Top Block": "Disabled. Activate in BiomeTweakerCore.",
+  "Ocean Filler Block": "Disabled. Activate in BiomeTweakerCore.",
+  "Actual Filler Blocks": "Disabled. Activate in BiomeTweakerCore.",
+  "Grass Color": "Disabled. Activate in BiomeTweakerCore.",
+  "Foliage Color": "Disabled. Activate in BiomeTweakerCore.",
+  "Water Color": "7035752",
+  "Temperature": 0.8,
+  "Humidity": 0.4,
+  "Water Tint": 7035752,
+  "Enable Rain": true,
+  "Enable Snow": false,
+  "Dictionary Types": [
+    "PLAINS",
+    "SPOOKY"
+  ],
+  "BiomeManager Entries": {
+    "WARM Weights": [
+      1
+    ]
+  },
+  "Spawnable Creatures": [
+    {
+      "Entity Class": "lykrast.defiledlands.common.entity.passive.EntityBookWyrm",
+      "Weight": 16,
+      "Min Group Count": 2,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "com.lycanitesmobs.core.entity.creature.EntityMaka",
+      "Weight": 1,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.passive.EntityDodo",
+      "Weight": 10,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.passive.EntityLostMiner",
+      "Weight": 4,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.passive.EntitySheepman",
+      "Weight": 10,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    }
+  ],
+  "Spawnable Monsters": [
+    {
+      "Entity Class": "lykrast.defiledlands.common.entity.monster.EntityShambler",
+      "Weight": 125,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "lykrast.defiledlands.common.entity.monster.EntityShamblerTwisted",
+      "Weight": 60,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "lykrast.defiledlands.common.entity.monster.EntityScuttler",
+      "Weight": 100,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "lykrast.defiledlands.common.entity.monster.EntityHost",
+      "Weight": 150,
+      "Min Group Count": 2,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "com.lycanitesmobs.core.entity.creature.EntityKobold",
+      "Weight": 1,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "com.lycanitesmobs.core.entity.creature.EntityLurker",
+      "Weight": 1,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "com.lycanitesmobs.core.entity.creature.EntityTriffid",
+      "Weight": 1,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "com.lycanitesmobs.core.entity.creature.EntityTpumpkyn",
+      "Weight": 1,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "com.bobmowzie.mowziesmobs.server.entity.grottol.EntityGrottol",
+      "Weight": 2,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityEnchantedBook",
+      "Weight": 1,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityBlazingJuggernaut",
+      "Weight": 10,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityTreasureSlime",
+      "Weight": 4,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityFestiveCreeper",
+      "Weight": 2,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityEnchantedBook",
+      "Weight": 10,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntitySkeletonWarrior",
+      "Weight": 15,
+      "Min Group Count": 3,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityRocketCreeper",
+      "Weight": 10,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityFestiveCreeper",
+      "Weight": 10,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityGoblin",
+      "Weight": 10,
+      "Min Group Count": 3,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityHarpy",
+      "Weight": 10,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    }
+  ],
+  "Spawnable Water Creatures": [],
+  "Spawnable Cave Creatures": [],
+  "Spawn Biome": false,
+  "Tweaked": false,
+  "BOP Generators": {
+    "FLOWERS Generators": [
+      {
+        "ID": "flora",
+        "Name": "glowshrooms"
+      },
+      {
+        "ID": "flora",
+        "Name": "miners_delight"
+      },
+      {
+        "ID": "flora",
+        "Name": "roots"
+      }
+    ]
+  },
+  "BOP Owner": "OTHER",
+  "BOP Weight Map": {},
+  "BOP Climate Weights": {
+    "WET_TEMPERATE": [
+      1
+    ],
+    "DRY_TEMPERATE": [
+      1
+    ],
+    "WARM_TEMPERATE": [
+      1
+    ],
+    "HOT_SWAMP": [
+      1
+    ],
+    "MEDITERANEAN": [
+      1
+    ]
+  },
+  "BOP Island Weight": 0
+}

@@ -1,0 +1,31 @@
+{
+	title: "Elixir",
+	x: 9.5d,
+	y: 12.0d,
+	text: [
+		""
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"2dfa5bea"
+	],
+	tasks: [{
+		uid: "e8014236",
+		type: "item",
+		title: "Create any Betweenlands Elixir",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:elixir",
+			tag: {
+				elixirData: {
+					duration: 2400,
+					strength: 4
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

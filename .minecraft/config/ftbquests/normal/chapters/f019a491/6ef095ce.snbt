@@ -1,0 +1,37 @@
+{
+	title: "☆",
+	x: -2.5d,
+	y: -1.5d,
+	shape: "hexagon",
+	text: [
+		""
+	],
+	dependencies: [
+		"5b772c5f"
+	],
+	size: 1.3d,
+	tasks: [{
+		uid: "84995e75",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:trophy",
+			Damage: 3s
+		},
+		entity: "twilightforest:ur_ghast",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "9ee18cd4",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "scalinghealth:crystalshard"
+		},
+		count: 2
+	}]
+}

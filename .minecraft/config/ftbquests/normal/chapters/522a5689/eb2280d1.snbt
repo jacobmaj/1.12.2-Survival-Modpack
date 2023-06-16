@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 0.5d,
+	tasks: [{
+		uid: "11cbede8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "wards:ward"
+		}]
+	}]
+}

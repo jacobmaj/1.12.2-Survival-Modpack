@@ -1,0 +1,17 @@
+{
+	x: 7.0d,
+	y: 6.5d,
+	hide_dependency_lines: true,
+	tasks: [{
+		uid: "ea8bbd0d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:sickle"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

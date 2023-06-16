@@ -1,0 +1,58 @@
+{
+	title: "Lanterns",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "futuremc:lantern"
+	},
+	x: -2.0d,
+	y: -3.0d,
+	text: [
+		"Torches are easily targeted by monsters due to how fragile they are. Lanterns are a more permanent solution to darkness."
+	],
+	dependencies: [
+		"a96c6f83"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "9fe7571a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "futuremc:lantern"
+		}]
+	},
+	{
+		uid: "c3327cfa",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "charm:gold_lantern"
+		}]
+	},
+	{
+		uid: "20bb8811",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "rustic:lantern_wood"
+		}]
+	},
+	{
+		uid: "379bee00",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "betterwithaddons:wood_lamp"
+		}]
+	}]
+}

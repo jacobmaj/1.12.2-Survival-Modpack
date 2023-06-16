@@ -1,0 +1,20 @@
+{
+	x: -3.0d,
+	y: -7.0d,
+	text: [
+		"A Smoker is a Furnace which can only cook food, but does so at double the speed."
+	],
+	dependencies: [
+		"00840b68"
+	],
+	tasks: [{
+		uid: "21f33916",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "futuremc:smoker"
+		}]
+	}]
+}

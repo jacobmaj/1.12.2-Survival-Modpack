@@ -1,0 +1,33 @@
+{
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "thebetweenlands:items_misc",
+		Damage: 2s
+	},
+	x: 6.0d,
+	y: 5.5d,
+	hide_dependency_lines: true,
+	tasks: [{
+		uid: "c2423b81",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:compost_bin"
+		}]
+	},
+	{
+		uid: "154b382d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:items_misc",
+			Damage: 2s
+		}]
+	}]
+}

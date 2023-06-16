@@ -1,0 +1,54 @@
+{
+	title: "☆It Won't Die",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:skull",
+		Damage: 2s
+	},
+	x: 0.625d,
+	y: 5.5d,
+	shape: "hexagon",
+	text: [
+		""
+	],
+	dependencies: [
+		"9ccc7b2d"
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "0a159368",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:skull",
+			Damage: 2s
+		},
+		entity: "mutantbeasts:mutant_zombie",
+		value: 1L
+	},
+	{
+		uid: "66d94a2f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "contenttweaker:mutantzombieheart"
+		}]
+	}],
+	rewards: [{
+		uid: "b5bc3463",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "scalinghealth:crystalshard"
+		},
+		count: 2
+	}]
+}

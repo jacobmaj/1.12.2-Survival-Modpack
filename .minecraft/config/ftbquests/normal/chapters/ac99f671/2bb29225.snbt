@@ -1,0 +1,22 @@
+{
+	x: -8.0d,
+	y: -8.0d,
+	text: [
+		"The Paraglider can be held to slow your descent.",
+		"",
+		"[NYI] When flown in the Aether or End, gusts of wind will occasionally lift you upward."
+	],
+	hide_dependency_lines: true,
+	tasks: [{
+		uid: "8ad60d0e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "paraglider:paraglider",
+			tag: {}
+		}],
+		ignore_nbt: 1b
+	}]
+}

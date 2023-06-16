@@ -1,0 +1,25 @@
+{
+	title: "☆Enter The Misty World",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "mist:acid_grass_0",
+		Damage: 1s
+	},
+	x: 0.0d,
+	y: -5.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"e97590c6"
+	],
+	hide: true,
+	size: 1.5d,
+	tasks: [{
+		uid: "6a3fab5f",
+		type: "dimension",
+		dim: 69
+	}]
+}

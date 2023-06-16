@@ -1,0 +1,34 @@
+{
+	x: -2.5d,
+	y: -1.5d,
+	tasks: [{
+		uid: "9fa4ad2e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "rustic:crushing_tub"
+		}]
+	},
+	{
+		uid: "dd701df5",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "rustic:brewing_barrel"
+		}]
+	}],
+	rewards: [{
+		uid: "010528aa",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "rustic:book"
+		}
+	}]
+}

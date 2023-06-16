@@ -1,0 +1,12 @@
+{
+	title: "The Twilight Forest",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "twilightforest:miniature_structure"
+	},
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

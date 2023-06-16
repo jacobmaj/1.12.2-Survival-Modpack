@@ -1,0 +1,17 @@
+{
+	x: 3.5d,
+	y: 0.5d,
+	text: [
+		"Can inscribe spells, using their discovered recipe, onto empty Books."
+	],
+	tasks: [{
+		uid: "caa46082",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "ancientspellcraft:scribing_desk"
+		}]
+	}]
+}

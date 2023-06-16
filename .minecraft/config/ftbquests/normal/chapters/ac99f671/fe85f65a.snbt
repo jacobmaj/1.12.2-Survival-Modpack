@@ -1,0 +1,56 @@
+{
+	title: "Bounty Board",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "bountiful:bountyboarditem"
+	},
+	x: 9.5d,
+	y: -9.0d,
+	text: [
+		"Find a Bounty Board, which can be found in villages.",
+		"",
+		"Bounty Boards are blocks which generate a supply of mini-quests, which can be completed for a variety of rewards, and a bit of experience.",
+		"",
+		"You can break and move them freely, but will lose any quests left inside them."
+	],
+	tasks: [{
+		uid: "0cb28425",
+		type: "observation",
+		title: "Find a Bounty Board",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "bountiful:bountyboarditem"
+		},
+		match_type: "block_id",
+		match: "bountiful:bountyboard",
+		timer: 0L
+	},
+	{
+		uid: "590249e7",
+		type: "item",
+		title: "Pick up a Bounty!",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "bountiful:bounty"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "be402ded",
+		type: "item",
+		title: "One Random Bounty",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "bountiful:bounty"
+		}
+	}]
+}

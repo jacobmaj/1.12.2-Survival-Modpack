@@ -1,0 +1,22 @@
+{
+	x: -11.5d,
+	y: 8.0d,
+	hide_dependency_lines: true,
+	tasks: [{
+		uid: "7ace839a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:dentrothyst_fluid_vial",
+			tag: {
+				Fluid: {
+					FluidName: "shallowbreath",
+					Amount: 1000
+				}
+			}
+		}],
+		ignore_damage: true
+	}]
+}

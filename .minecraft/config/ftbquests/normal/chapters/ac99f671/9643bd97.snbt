@@ -1,0 +1,23 @@
+{
+	x: -9.0d,
+	y: -7.0d,
+	text: [
+		"The Ocarina is an item which saves a mount using Shift+Right-Click. ",
+		"",
+		"You can then teleport the mount to you with a Right-Click."
+	],
+	hide_dependency_lines: true,
+	tasks: [{
+		uid: "c0b8566f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "dwmh:ocarina",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

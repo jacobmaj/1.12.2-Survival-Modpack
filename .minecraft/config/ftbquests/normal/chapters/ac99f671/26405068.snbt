@@ -1,0 +1,31 @@
+{
+	x: 7.5d,
+	y: 1.5d,
+	shape: "hexagon",
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "191e2f28",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "mowziesmobs:ice_crystal"
+		},
+		entity: "mospells:frostmaw_minion",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "81495b84",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "scalinghealth:crystalshard"
+		},
+		count: 2
+	}]
+}

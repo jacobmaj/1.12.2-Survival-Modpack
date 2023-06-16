@@ -1,0 +1,38 @@
+{
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "thebetweenlands:smoking_rack"
+	},
+	x: 8.5d,
+	y: 6.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"8831d9df"
+	],
+	tasks: [{
+		uid: "f3131337",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:smoking_rack"
+		}]
+	},
+	{
+		uid: "e7365abf",
+		type: "observation",
+		title: "Find or create Smoldering Peat",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:peat_smouldering"
+		},
+		match_type: "block_id",
+		match: "",
+		timer: 0L
+	}]
+}

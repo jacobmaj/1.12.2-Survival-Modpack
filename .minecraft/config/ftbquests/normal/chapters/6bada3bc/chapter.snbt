@@ -1,0 +1,13 @@
+{
+	title: "The Nether",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "chisel:netherrack",
+		Damage: 12s
+	},
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

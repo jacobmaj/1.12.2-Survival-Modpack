@@ -1,0 +1,19 @@
+{
+	x: 6.5d,
+	y: -4.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"86c2ec82"
+	],
+	tasks: [{
+		uid: "ec619bf5",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "biomesoplenty:hive",
+			Damage: 3s
+		}]
+	}]
+}

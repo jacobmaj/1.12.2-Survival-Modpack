@@ -1,0 +1,27 @@
+{
+	x: 12.0d,
+	y: 10.5d,
+	text: [
+		"A Grub Hub will interact with Weedwood Bushes placed in a 3x3 square directly below itself. Weedwood Bushes that become infested will automatically be harvested. ",
+		"",
+		"If given Pheromone Extract via a bucket, it will re-infuse the surrounding bushes with pheromones, starting the process over again.",
+		"",
+		"The hub has one internal inventory slot. If allowed to fill before running out of Pheromone Extract, it will not harvest the grubs, allowing the bushes to progress freely."
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"208c7f48",
+		"8831d9df"
+	],
+	tasks: [{
+		uid: "f7ac9106",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:grub_hub",
+			Count: 1b
+		}]
+	}]
+}

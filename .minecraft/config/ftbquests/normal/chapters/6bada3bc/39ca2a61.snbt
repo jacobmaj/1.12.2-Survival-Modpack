@@ -1,0 +1,18 @@
+{
+	x: -6.5d,
+	y: -4.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"a881ea53"
+	],
+	tasks: [{
+		uid: "6bca6a89",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "betternether:cincinnasite_forge"
+		}]
+	}]
+}

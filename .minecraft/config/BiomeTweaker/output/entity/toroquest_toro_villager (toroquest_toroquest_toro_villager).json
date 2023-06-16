@@ -1,0 +1,6 @@
+
+{
+  "Name": "toroquest_toro_villager",
+  "Registry ID": "toroquest:toroquest_toro_villager",
+  "Class": "net.torocraft.toroquest.entities.EntityToroVillager"
+}

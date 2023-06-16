@@ -1,0 +1,19 @@
+{
+	x: -8.0d,
+	y: -9.0d,
+	text: [
+		"Packing Tape can package any block that stores items with a right-click.",
+		"",
+		"These packages can be mined and moved freely. To remove the packaging on a block, right-click again."
+	],
+	tasks: [{
+		uid: "942941ac",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "packingtape:tape"
+		}]
+	}]
+}

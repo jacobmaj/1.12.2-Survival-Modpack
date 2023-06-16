@@ -1,0 +1,30 @@
+{
+	x: -8.0d,
+	y: -10.0d,
+	text: [
+		"The Drying Rack is a fuel-free way to make meat edible. By placing raw meat, flesh, or fish, it will begin to dry and eventually turn into Jerky.",
+		"",
+		"Note: This item, and its recipes, do not appear in JEI."
+	],
+	tasks: [{
+		uid: "4f03d380",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "tconstruct:rack",
+			tag: {
+				textureBlock: {
+					ForgeCaps: {
+						"wizardryutils:summoneditemdata": {}
+					},
+					id: "minecraft:wooden_slab",
+					Count: 1,
+					Damage: 0s
+				}
+			},
+			Damage: 1s
+		}]
+	}]
+}

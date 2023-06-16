@@ -1,0 +1,14 @@
+{
+	x: -1.0d,
+	y: -3.0d,
+	tasks: [{
+		uid: "fd0e8b53",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "quark:candle"
+		}]
+	}]
+}

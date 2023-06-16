@@ -1,0 +1,67 @@
+{
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "enchantedwolves:leather_collar"
+	},
+	x: -10.0d,
+	y: -8.0d,
+	text: [
+		"Collars are equipment for Wolves, which provide an armor bonus, and can be enchanted.",
+		"",
+		"A Collared Wolf will also be immune to most damage from their owner.",
+		"",
+		"Right-click a tamed Wolf with a Collar to equip."
+	],
+	hide_dependency_lines: true,
+	or_tasks: true,
+	tasks: [{
+		uid: "4e733b9b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "enchantedwolves:leather_collar"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "e146e948",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "enchantedwolves:chain_collar"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "23b72282",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "enchantedwolves:golden_collar"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "b45e00db",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "enchantedwolves:diamond_collar"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,34 @@
+{
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "betterwithmods:axle_generator"
+	},
+	x: -0.5d,
+	y: -2.5d,
+	dependencies: [
+		"f88ee9bf"
+	],
+	tasks: [{
+		uid: "cdb7958e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "betterwithmods:axle_generator"
+		}]
+	},
+	{
+		uid: "85fb793b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "betterwithmods:axle_generator",
+			Damage: 2s
+		}]
+	}]
+}

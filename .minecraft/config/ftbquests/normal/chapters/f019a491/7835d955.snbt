@@ -1,0 +1,55 @@
+{
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "iceandfire:dragonforge_ice_input"
+	},
+	x: -10.5d,
+	y: -3.0d,
+	dependencies: [
+		"58ca15d2"
+	],
+	tasks: [{
+		uid: "9dc6b121",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "iceandfire:dragonforge_ice_brick"
+		}],
+		count: 17L
+	},
+	{
+		uid: "0c3b955c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "iceandfire:dragon_bone_block"
+		}],
+		count: 8L
+	},
+	{
+		uid: "1098dec0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "iceandfire:dragonforge_ice_core_disabled"
+		}]
+	},
+	{
+		uid: "1b1cb084",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "iceandfire:dragonforge_ice_input"
+		}]
+	}]
+}

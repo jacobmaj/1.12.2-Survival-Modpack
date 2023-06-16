@@ -1,0 +1,50 @@
+{
+	title: "☆Defeat the Dread Lich",
+	x: 0.0d,
+	y: 5.25d,
+	shape: "hexagon",
+	text: [
+		""
+	],
+	dependencies: [
+		"e3c634d7"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "21924514",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "iceandfire:dread_queen_staff"
+		},
+		entity: "iceandfire:dread_lich",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "bf0318d6",
+		type: "gamestage",
+		title: "...A new chapter awaits!",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:end_stone"
+		},
+		team_reward: true,
+		auto: "invisible",
+		stage: "end"
+	},
+	{
+		uid: "39a4a04b",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "scalinghealth:crystalshard"
+		},
+		count: 2
+	}]
+}

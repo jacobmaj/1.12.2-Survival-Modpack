@@ -1,0 +1,50 @@
+{
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "thebetweenlands:draeton_upgrade_crafting"
+	},
+	x: -11.5d,
+	y: 10.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"ad75d797"
+	],
+	tasks: [{
+		uid: "6dce6469",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:draeton_upgrade_furnace"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "da3e4831",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:draeton_upgrade_anchor"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "8a8e5af2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:draeton_upgrade_crafting"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

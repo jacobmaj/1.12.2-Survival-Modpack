@@ -1,0 +1,29 @@
+{
+	x: 4.0d,
+	y: -2.5d,
+	text: [
+		"The photometer will warn you of any dark areas, turning red where monsters can spawn.",
+		"",
+		"",
+		"Photometers are kept on death."
+	],
+	dependencies: [
+		"a96c6f83"
+	],
+	tasks: [{
+		uid: "0e61f477",
+		type: "item",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "contenttweaker:photometericon"
+		},
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "inspirations:photometer"
+		}]
+	}]
+}

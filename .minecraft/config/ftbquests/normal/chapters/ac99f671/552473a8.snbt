@@ -1,0 +1,176 @@
+{
+	x: -9.0d,
+	y: -8.0d,
+	text: [
+		"Backpacks can be opened by right-clicking them, or by pressing [I] by default. ",
+		"",
+		"You can upgrade the Backpack with different mateirals to improve its storage.",
+		"",
+		"Backpacks are LOST on death."
+	],
+	hide_dependency_lines: true,
+	tasks: [{
+		uid: "b3adbf87",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "ironbackpacks:backpack",
+			tag: {
+				packInfo: {
+					upgrade: [],
+					own: "44dffc66-5998-4097-a66e-501c2fe27f75",
+					type: "ironbackpacks:basic",
+					spec: "NONE"
+				},
+				packInv: [{
+					id: "minecraft:air",
+					Count: 1,
+					tag: {
+						reforgeCost: 133
+					},
+					Damage: 0s
+				},
+				{
+					id: "minecraft:air",
+					Count: 1,
+					tag: {
+						reforgeCost: 133
+					},
+					Damage: 0s
+				},
+				{
+					id: "minecraft:air",
+					Count: 1,
+					tag: {
+						reforgeCost: 133
+					},
+					Damage: 0s
+				},
+				{
+					id: "minecraft:air",
+					Count: 1,
+					tag: {
+						reforgeCost: 133
+					},
+					Damage: 0s
+				},
+				{
+					id: "minecraft:air",
+					Count: 1,
+					tag: {
+						reforgeCost: 133
+					},
+					Damage: 0s
+				},
+				{
+					id: "minecraft:air",
+					Count: 1,
+					tag: {
+						reforgeCost: 133
+					},
+					Damage: 0s
+				},
+				{
+					id: "minecraft:air",
+					Count: 1,
+					tag: {
+						reforgeCost: 133
+					},
+					Damage: 0s
+				},
+				{
+					id: "minecraft:air",
+					Count: 1,
+					tag: {
+						reforgeCost: 133
+					},
+					Damage: 0s
+				},
+				{
+					id: "minecraft:air",
+					Count: 1,
+					tag: {
+						reforgeCost: 133
+					},
+					Damage: 0s
+				},
+				{
+					id: "minecraft:air",
+					Count: 1,
+					tag: {
+						reforgeCost: 133
+					},
+					Damage: 0s
+				},
+				{
+					id: "minecraft:air",
+					Count: 1,
+					tag: {
+						reforgeCost: 133
+					},
+					Damage: 0s
+				},
+				{
+					id: "minecraft:air",
+					Count: 1,
+					tag: {
+						reforgeCost: 133
+					},
+					Damage: 0s
+				},
+				{
+					id: "minecraft:air",
+					Count: 1,
+					tag: {
+						reforgeCost: 133
+					},
+					Damage: 0s
+				},
+				{
+					id: "minecraft:air",
+					Count: 1,
+					tag: {
+						reforgeCost: 133
+					},
+					Damage: 0s
+				},
+				{
+					id: "minecraft:air",
+					Count: 1,
+					tag: {
+						reforgeCost: 133
+					},
+					Damage: 0s
+				},
+				{
+					id: "minecraft:air",
+					Count: 1,
+					tag: {
+						reforgeCost: 133
+					},
+					Damage: 0s
+				},
+				{
+					id: "minecraft:air",
+					Count: 1,
+					tag: {
+						reforgeCost: 133
+					},
+					Damage: 0s
+				},
+				{
+					id: "minecraft:air",
+					Count: 1,
+					tag: {
+						reforgeCost: 133
+					},
+					Damage: 0s
+				}]
+			}
+		}],
+		ignore_nbt: 1b,
+		only_from_crafting: true
+	}]
+}

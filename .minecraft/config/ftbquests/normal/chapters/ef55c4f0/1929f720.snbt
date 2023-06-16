@@ -1,0 +1,19 @@
+{
+	x: -7.0d,
+	y: 1.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"85774193"
+	],
+	tasks: [{
+		uid: "1677235a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aether_legacy:ambrosium_torch"
+		}],
+		count: 16L
+	}]
+}

@@ -1,0 +1,36 @@
+{
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "thebetweenlands:tiny_sludge_worm"
+	},
+	x: 9.5d,
+	y: 5.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"4d689192"
+	],
+	tasks: [{
+		uid: "96b87565",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:tiny_sludge_worm"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "3822270a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:silt_glass_jar"
+		}]
+	}]
+}

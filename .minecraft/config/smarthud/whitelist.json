@@ -1,0 +1,54 @@
+[
+  {
+    "item": "appliedenergistics2:sky_compass",
+    "dimensions": [
+      0
+    ]
+  },
+  {
+    "item": "minecraft:clock"
+  },
+  {
+    "item": "minecraft:compass"
+  },
+  {
+	"item": "quark:soul_compass"
+  },
+  {
+    "item": "sereneseasons:season_clock"
+  },
+  {
+	"item": ["minecraft:arrow","minecraft:spectral_arrow","minecraft:tipped_arrow"]
+	/*
+	"item": "betterwithmods:broadhead_arrow",
+	"item": "quark:arrow_ender",
+	"item": "quark:arrow_explosive",
+	"item": "quark:arrow_torch",
+	"item": "bullseye:arrow",
+	"item": "iceandfire:stymphalian_arrow",
+	"item": "iceandfire:amphithere_arrow",
+	"item": "iceandfire:sea_serpent_arrow",
+	"item": "iceandfire:hydra_arrow",
+	"item": "xreliquary:tipped_arrow",
+	"item": "spartanweaponry:arrow_wood",
+	"item": "spartanweaponry:arrow_iron",
+	"item": "spartanweaponry:arrow_diamond",
+	"item": "spartanweaponry:arrow_wood_tipped",
+	"item": "spartanweaponry:arrow_iron_tipped",
+	"item": "spartanweaponry:arrow_diamond_tipped",
+	"item": "inspirations:arrow",
+	"item": "thebetweenlands:angler_tooth_arrow",
+	"item": "thebetweenlands:poisoned_angler_tooth_arrow",
+	"item": "thebetweenlands:octine_arrow",
+	"item": "thebetweenlands:basilisk_arrow",
+	"item": "thebetweenlands:sludge_worm_arrow",
+	"item": "thebetweenlands:shock_arrow",
+	"item": "iceandfire:dragonbone_arrow"
+	*/
+  },
+  {
+	"item": "betterwithaddons:greatarrow"
+	#"item": "betterwithaddons:greatarrow_lightning",
+	#"item": "betterwithaddons:greatarrow_destruction"
+  }
+]

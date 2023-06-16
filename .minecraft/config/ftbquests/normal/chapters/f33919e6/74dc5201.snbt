@@ -1,0 +1,26 @@
+{
+	x: 8.5d,
+	y: 12.0d,
+	hide_dependency_lines: true,
+	or_tasks: true,
+	tasks: [{
+		uid: "3e37f41a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:weedwood_barrel"
+		}]
+	},
+	{
+		uid: "57ac5c9f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:syrmorite_barrel"
+		}]
+	}]
+}

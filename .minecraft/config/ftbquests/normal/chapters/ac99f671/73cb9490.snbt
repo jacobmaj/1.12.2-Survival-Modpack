@@ -1,0 +1,25 @@
+{
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "defiledlands:calling_stone"
+	},
+	x: 0.0d,
+	y: 10.0d,
+	dependencies: [
+		"ee6cd995"
+	],
+	tasks: [{
+		uid: "dd99a2c9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "defiledlands:calling_stone"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: -7.5d,
+	y: -2.5d,
+	tasks: [{
+		uid: "f9882c29",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "rustic:crop_stake"
+		}]
+	}]
+}

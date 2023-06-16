@@ -1,0 +1,31 @@
+{
+	title: "Eyes of Dragon",
+	x: 10.5d,
+	y: -4.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"f7266fd8"
+	],
+	tasks: [{
+		uid: "aec01056",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "eyeofdragons:eye_of_icedragon"
+		}]
+	},
+	{
+		uid: "3315cefc",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "eyeofdragons:eye_of_firedragon"
+		}]
+	}]
+}

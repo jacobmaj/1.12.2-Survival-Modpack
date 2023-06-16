@@ -1,0 +1,20 @@
+{
+	x: 3.5d,
+	y: 0.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"86c2ec82"
+	],
+	tasks: [{
+		uid: "b349d755",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:skull",
+			Damage: 1s
+		}],
+		count: 3L
+	}]
+}

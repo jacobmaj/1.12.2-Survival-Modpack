@@ -1,0 +1,197 @@
+mod name - enchantment name - enchantment registry name
+Better Combat - Lightning - bettercombatmod:lightning
+Charm - Curse Break - charm:curse_break
+Charm - Curse of Rusting - charm:rusting_curse
+Charm - Curse of Harming - charm:harming_curse
+Charm - Curse of Haunting - charm:haunting_curse
+Charm - Curse of Clumsiness - charm:clumsiness_curse
+Charm - Magnetic - charm:magnetic
+Corpse Complex - Soulbinding - corpsecomplex:soulbound
+Cyclic - Experience Boost - cyclicmagic:enchantment.expboost
+Cyclic - Magnet - cyclicmagic:enchantment.magnet
+Cyclic - Venom - cyclicmagic:enchantment.venom
+Cyclic - Multi-Jump - cyclicmagic:enchantment.launch
+Cyclic - Auto-Smelt - cyclicmagic:enchantment.autosmelt
+Cyclic - Multi-Shot - cyclicmagic:enchantment.multishot
+Cyclic - Block Reach - cyclicmagic:enchantment.reach
+Defiled Lands - Safeguard - defiledlands:safeguard
+Defiled Lands - Sharpshooter - defiledlands:sharpshooter
+Defiled Lands - Destructive - defiledlands:destructive
+Defiled Lands - Economical - defiledlands:economical
+Defiled Lands - Blazing - defiledlands:blazing
+Draconic Evolution - Reaper - draconicevolution:enchant_reaper
+Electroblob's Wizardry - Frost Protection - ebwizardry:frost_protection
+Electroblob's Wizardry - Fire Imbuement - ebwizardry:flaming_weapon
+Electroblob's Wizardry - Magic Protection - ebwizardry:magic_protection
+Electroblob's Wizardry - Shock Protection - ebwizardry:shock_protection
+Electroblob's Wizardry - Imbuement - ebwizardry:magic_bow
+Electroblob's Wizardry - Frost Imbuement - ebwizardry:freezing_weapon
+Electroblob's Wizardry - Imbuement - ebwizardry:magic_sword
+Enchanted Wolves - Hellhound - enchantedwolves:hellhound
+Enchanted Wolves - Leech Fangs - enchantedwolves:leech_fangs
+Enchanted Wolves - Swiftness - enchantedwolves:swiftness
+Enchanted Wolves - Trauma - enchantedwolves:trauma
+Enchanted Wolves - Toughness - enchantedwolves:toughness
+Enchanted Wolves - Cushion - enchantedwolves:cushion
+Enchanted Wolves - Frostbite - enchantedwolves:frostbite
+Enchanted Wolves - Buffness - enchantedwolves:buffness
+Enchanted Wolves - Resurrection - enchantedwolves:resurrection
+End: Reborn - Ender Killer - endreborn:ender_killer
+End: Reborn - Ender Core - endreborn:ender_core
+End: Reborn - Shulker Core - endreborn:shulker_core
+Fish's Undead Rising - Lifesteal - mod_lavacow:lifesteal
+Fish's Undead Rising - Poisonous - mod_lavacow:poisonous
+Fish's Undead Rising - Corrosive - mod_lavacow:corrosive
+FlashFyre's Enchantments - Poison Aspect - ffenchants:poison_aspect
+FlashFyre's Enchantments - Bloodlust - ffenchants:bloodlust
+FlashFyre's Enchantments - Arrowstorm - ffenchants:arrowstorm
+FlashFyre's Enchantments - Leaping - ffenchants:leaping
+FlashFyre's Enchantments - Archer's Revenge - ffenchants:archers_revenge
+FlashFyre's Enchantments - Wither Aspect - ffenchants:wither_aspect
+FlashFyre's Enchantments - Vampiric - ffenchants:vampiric
+Grappling hook mod - Double Jump - grapplemod:doublejumpenchantment
+Grappling hook mod - Sliding - grapplemod:slidingenchantment
+Grappling hook mod - Wall Running - grapplemod:wallrunenchantment
+Just a Few Fish - Roasting - jaff:roasting
+Living Enchantment - Living - livingenchantment:enchantment.living
+Minecraft - Projectile Protection - minecraft:projectile_protection
+Minecraft - Feather Falling - minecraft:feather_falling
+Minecraft - Fire Aspect - minecraft:fire_aspect
+Minecraft - Luck of the Sea - minecraft:luck_of_the_sea
+Minecraft - Curse of Vanishing - minecraft:vanishing_curse
+Minecraft - Smite - minecraft:smite
+Minecraft - Fortune - minecraft:fortune
+Minecraft - Looting - minecraft:looting
+Minecraft - Sweeping Edge - minecraft:sweeping
+Minecraft - Flame - minecraft:flame
+Minecraft - Blast Protection - minecraft:blast_protection
+Minecraft - Respiration - minecraft:respiration
+Minecraft - Thorns - minecraft:thorns
+Minecraft - Lure - minecraft:lure
+Minecraft - Bane of Arthropods - minecraft:bane_of_arthropods
+Minecraft - Knockback - minecraft:knockback
+Minecraft - Frost Walker - minecraft:frost_walker
+Minecraft - Infinity - minecraft:infinity
+Minecraft - Curse of Binding - minecraft:binding_curse
+Minecraft - Punch - minecraft:punch
+Minecraft - Unbreaking - minecraft:unbreaking
+Minecraft - Silk Touch - minecraft:silk_touch
+Minecraft - Mending - minecraft:mending
+Minecraft - Fire Protection - minecraft:fire_protection
+Minecraft - Protection - minecraft:protection
+Minecraft - Sharpness - minecraft:sharpness
+Minecraft - Power - minecraft:power
+Minecraft - Aqua Affinity - minecraft:aqua_affinity
+Minecraft - Efficiency - minecraft:efficiency
+Minecraft - Depth Strider - minecraft:depth_strider
+Not Enough Enchantments - Brutality - nee:brutality
+Not Enough Enchantments - Curse of Inaccuracy - nee:curseofinaccuracy
+Not Enough Enchantments - Smelter - nee:smelter
+Not Enough Enchantments - Moisturized - nee:welltilled
+Not Enough Enchantments - Light Weight - nee:lightweight
+Not Enough Enchantments - Pandora's Curse - nee:pandora
+Not Enough Enchantments - Pushing - nee:pushing
+Not Enough Enchantments - Strafe - nee:strafe
+Not Enough Enchantments - Instability - nee:instability
+Not Enough Enchantments - Purging Blade - nee:purgingblade
+Not Enough Enchantments - Reviled Blade - nee:reviledblade
+Not Enough Enchantments - Desolator - nee:desolator
+Not Enough Enchantments - Disarmament - nee:disarmament
+Not Enough Enchantments - Critical Strike - nee:criticalstrike
+Not Enough Enchantments - Subject English - nee:english
+Not Enough Enchantments - Rune: Resurrection - nee:rune_resurrection
+Not Enough Enchantments - Strengthened Vitality - nee:strengthenedvitality
+Not Enough Enchantments - Heavy Weight - nee:heavyweight
+Not Enough Enchantments - Luck Magnification - nee:luckmagnification
+Not Enough Enchantments - Subject History - nee:history
+Not Enough Enchantments - Rune: Arrow Piercing - nee:rune_armorpiercing
+Not Enough Enchantments - True Strike - nee:truestrike
+Not Enough Enchantments - Curse of Possession - nee:curseofpossession
+Not Enough Enchantments - Splitshot - nee:splitshot
+Not Enough Enchantments - Counter Attack - nee:counterattack
+Not Enough Enchantments - Curse of Vulnerability - nee:curseofvulnerability
+Not Enough Enchantments - Atomic Deconstructor - nee:atomicdeconstructor
+Not Enough Enchantments - Unpredictable - nee:unpredictable
+Not Enough Enchantments - Plowing - nee:tillingpower
+Not Enough Enchantments - Unreasonable - nee:frenzy
+Not Enough Enchantments - Hors De Combat - nee:hors_de_combat
+Not Enough Enchantments - Dark Shadows - nee:darkshadows
+Not Enough Enchantments - Evasion - nee:evasion
+Not Enough Enchantments - Inner Berserk - nee:innerberserk
+Not Enough Enchantments - Subject Mathematics - nee:mathematics
+Not Enough Enchantments - Curse of Holding - nee:curseofholding
+Not Enough Enchantments - Empowered Defence - nee:empowereddefence
+Not Enough Enchantments - Burning Shield - nee:fieryshield
+Not Enough Enchantments - Subject Science - nee:science
+Not Enough Enchantments - Natural Blocking - nee:naturalblocking
+Not Enough Enchantments - Ancient Sword Mastery - nee:swordmastery
+Not Enough Enchantments - Difficulty's Endowment - nee:difficultyscaled
+Not Enough Enchantments - Rusted - nee:rusted
+Not Enough Enchantments - Ancient Sealed Curses - nee:ancientcurseinflicter
+Not Enough Enchantments - Viper - nee:viper
+Not Enough Enchantments - Upgraded Potentials - nee:upgrade
+Not Enough Enchantments - Penetrating Edge - nee:penetratingedge
+Not Enough Enchantments - Freezing - nee:freezing
+Not Enough Enchantments - Subject P.E. - nee:pe
+Not Enough Enchantments - Ash Destroyer - nee:ashdestroyer
+Not Enough Enchantments - Unsheathing - nee:unsheathing
+Nyx - Lunar Shield - nyx:lunar_shield
+Nyx - Lunar Edge - nyx:lunar_edge
+Random Enchantments - Transposition - randomenchantments:transposition
+Random Enchantments - Magnetic - randomenchantments:magnetic
+Random Enchantments - Cursed Jump - randomenchantments:cursed_jump
+Random Enchantments - Harvesting - randomenchantments:harvesting
+Random Enchantments - Eternal - randomenchantments:eternal
+Random Enchantments - Snatching - randomenchantments:hooked
+Random Enchantments - Floating - randomenchantments:floating
+Random Enchantments - Back to the Chamber - randomenchantments:back_to_the_chamber
+Random Enchantments - Disarm - randomenchantments:disarm
+Random Enchantments - Solar - randomenchantments:solar
+Random Enchantments - Obsidian Buster - randomenchantments:obsidian_buster
+Random Enchantments - Fumbling - randomenchantments:fumbling
+Random Enchantments - Piercing - randomenchantments:piercing
+Random Enchantments - Exploding - randomenchantments:exploding
+Random Enchantments - Stonebound - randomenchantments:stonebound
+Random Enchantments - Stone Lover - randomenchantments:stonelover
+Random Enchantments - Torches - randomenchantments:torches
+Random Enchantments - Instant Death - randomenchantments:instant_death
+Random Enchantments - Ricochet - randomenchantments:ricochet
+Random Enchantments - Paralysis - randomenchantments:paralysis
+Random Enchantments - True Life Steal - randomenchantments:true_lifesteal
+Random Enchantments - Lightning - randomenchantments:lightning
+Random Enchantments - Curse of Breaking - randomenchantments:breaking
+Random Enchantments - Butterfingers - randomenchantments:butterfingers
+Random Enchantments - Phasing - randomenchantments:phasing
+Random Enchantments - Randomness - randomenchantments:randomness
+Random Enchantments - Momentum - randomenchantments:momentum
+Random Enchantments - Homing - randomenchantments:homing
+Random Enchantments - Grappling - randomenchantments:grappling
+Random Enchantments - Quickdraw - randomenchantments:quickdraw
+Random Enchantments - Swiftness - randomenchantments:swift
+Random Enchantments - Global Traveler - randomenchantments:global_traveler
+Random Enchantments - True Shot - randomenchantments:true_shot
+Random Enchantments - Teleportation - randomenchantments:teleportation
+Random Enchantments - Equal Mine - randomenchantments:equal_mine
+Random Enchantments - Lumber Jack - randomenchantments:lumberjack
+Random Enchantments - Deflect - randomenchantments:deflect
+Random Enchantments - Curse of Shadow - randomenchantments:shadow
+Random Enchantments - Shattering - randomenchantments:shattering
+Random Enchantments - Reflect - randomenchantments:reflect
+Random Enchantments - Resistant - randomenchantments:resistance
+Shield Parrying - Rebound - parry:parry
+Spartan Shields - Spikes - spartanshields:ssenchspikes
+Spartan Weaponry - Incendiary - spartanweaponry:incendiary
+Spartan Weaponry - Lucky Throw - spartanweaponry:lucky_throw
+Spartan Weaponry - Spreadshot - spartanweaponry:spreadshot
+Spartan Weaponry - Return - spartanweaponry:return
+Spartan Weaponry - Supercharge - spartanweaponry:supercharge
+Spartan Weaponry - Razors Edge - spartanweaponry:razors_edge
+Spartan Weaponry - Propulsion - spartanweaponry:propulsion
+Spartan Weaponry - Expanse - spartanweaponry:expanse
+Spartan Weaponry - Hydrodynamic - spartanweaponry:hydrodynamic
+Spartan Weaponry - Rapid Load - spartanweaponry:rapid_load
+Spartan Weaponry - Sharpshooter - spartanweaponry:sharpshooter
+Trident - Riptide - trident:riptide
+Trident - Impaling - trident:impaling
+Trident - Loyalty - trident:loyalty
+Trident - Channeling - trident:channeling

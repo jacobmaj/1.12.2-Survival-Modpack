@@ -1,0 +1,74 @@
+{
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "thebetweenlands:swamp_talisman"
+	},
+	x: 0.0d,
+	y: 13.5d,
+	shape: "diamond",
+	dependencies: [
+		"bad4d7ec"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "972db970",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:swamp_talisman",
+			Damage: 1s
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "bd9cd9f1",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:swamp_talisman",
+			Damage: 2s
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "3d5c1f85",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:swamp_talisman",
+			Damage: 3s
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "790dd978",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:swamp_talisman",
+			Damage: 4s
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "0f834eed",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:swamp_talisman"
+		}],
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,34 @@
+{
+	x: 4.0d,
+	y: -4.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"ff2bb46e"
+	],
+	tasks: [{
+		uid: "2d8d464b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:mazebreaker_pickaxe",
+			tag: {
+				ench: [{
+					lvl: 4s,
+					id: 32
+				},
+				{
+					lvl: 3s,
+					id: 34
+				},
+				{
+					lvl: 2s,
+					id: 35
+				}]
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

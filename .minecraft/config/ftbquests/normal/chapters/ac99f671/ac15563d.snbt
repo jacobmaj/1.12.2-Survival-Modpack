@@ -1,0 +1,33 @@
+{
+	x: 0.0d,
+	y: -6.0d,
+	text: [
+		"Break Stone to obtain Cobblestone."
+	],
+	tasks: [{
+		uid: "2f517c35",
+		type: "item",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:cobblestone"
+		},
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				Parent: {
+					data: "cobblestone",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any cobblestone"
+				}
+			}
+		}],
+		count: 3L
+	}]
+}

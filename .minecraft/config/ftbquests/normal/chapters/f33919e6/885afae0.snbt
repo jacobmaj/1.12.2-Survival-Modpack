@@ -1,0 +1,71 @@
+{
+	title: "Simulacra",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "thebetweenlands:simulacrum_rootman",
+		tag: {},
+		Damage: 6s
+	},
+	x: 12.0d,
+	y: 1.5d,
+	text: [
+		""
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"8831d9df"
+	],
+	hide_text_until_complete: true,
+	size: 0.75d,
+	or_tasks: true,
+	tasks: [{
+		uid: "ad89b1c3",
+		type: "observation",
+		title: "Observe a Deepman",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:simulacrum_deepman",
+			tag: {},
+			Damage: 2s
+		},
+		match_type: "block_id",
+		match: "thebetweenlands:simulacrum_deepman",
+		timer: 0L
+	},
+	{
+		uid: "68e09115",
+		type: "observation",
+		title: "Observe a Rootman",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:simulacrum_rootman",
+			tag: {},
+			Damage: 6s
+		},
+		match_type: "block_id",
+		match: "thebetweenlands:simulacrum_rootman",
+		timer: 0L
+	},
+	{
+		uid: "9519abfb",
+		type: "observation",
+		title: "Observe a Lakeman",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:simulacrum_lake_cavern",
+			tag: {},
+			Damage: 2s
+		},
+		match_type: "block_id",
+		match: "thebetweenlands:simulacrum_lake_cavern",
+		timer: 0L
+	}]
+}

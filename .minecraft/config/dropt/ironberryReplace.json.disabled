@@ -1,0 +1,28 @@
+{
+  "rules": [
+    {
+      "match": {
+        "blocks": {
+          "blocks": [
+            "rustic:leaves0:*"
+          ]
+        },
+        "drops": {
+          "drops": [
+            "rustic:ironberries"
+          ]
+        }
+      },
+      "replaceStrategy": "REPLACE_ITEMS",
+	  "drops": [
+        {
+          "item": {
+            "items" : [
+              "contenttweaker:ironberries"
+            ]
+          }
+        }
+      ]
+	}
+  ]
+}

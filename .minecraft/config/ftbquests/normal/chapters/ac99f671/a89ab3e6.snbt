@@ -1,0 +1,46 @@
+{
+	title: "Not All Who Wander Are Lost",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "charm:bound_compass"
+	},
+	x: 2.0d,
+	y: -2.5d,
+	text: [
+		"The Compass will point towards your natural spawn. This can be changed to a location of your choosing by right-clicking a block with the Compass.",
+		"",
+		"It will also display your coordinates at the top-left, if present in your inventory.",
+		"",
+		"Compasses are kept on death."
+	],
+	dependencies: [
+		"a96c6f83"
+	],
+	tasks: [{
+		uid: "c0c30b79",
+		type: "item",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "charm:bound_compass"
+		},
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:compass",
+			tag: {
+				last_update: 410150L,
+				rotation: 0.884413600830505d,
+				"quark:compass_calculated": 1b,
+				"quark:compass_in_nether": 0b,
+				rota: 0.027008230424947013d
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

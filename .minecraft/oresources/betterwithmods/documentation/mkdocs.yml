@@ -1,0 +1,125 @@
+site_name: Better With Mods
+site_url: https://betterwithmods.gitlab.io/Documentation
+repo_url: https://gitlab.com/BetterWithMods/Documentation
+repo_name: GitLab
+edit_uri: blob/master/docs/
+docs_dir: docs
+
+markdown_extensions:
+  - admonition
+  - smarty
+  - sane_lists
+  - blockdown
+  - tables
+  - footnotes
+
+theme: 'readthedocs'
+pages:
+    - 'Better With Mods': 'index.md'
+    - 'English':
+      - 'Introduction': 'en_us/index.md'
+      - 'Crash Course': 'en_us/crashcourse/index.md'
+      - 'Blocks':
+        - 'Index': 'en_us/blocks/index.md'
+        - 'Anchor': 'en_us/blocks/anchor.md'
+        - 'Anvil': 'en_us/blocks/anvil.md'
+        - 'Bellows': 'en_us/blocks/bellows.md'
+        - 'Block Dispenser': 'en_us/blocks/block_dispenser.md'
+        - 'Blood Wood': 'en_us/blocks/blood_wood.md'
+        - 'Booster': 'en_us/blocks/booster.md'
+        - 'Buddy Block': 'en_us/blocks/buddy_block.md'
+        - 'Candle Holders': 'en_us/blocks/candle_holders.md'
+        - 'Candles': 'en_us/blocks/candles.md'
+        - 'Cauldron': 'en_us/blocks/cauldron.md'
+        - 'Chopping Block': 'en_us/blocks/chopping_block.md'
+        - 'Companion Cube': 'en_us/blocks/companion_cube.md'
+        - 'Crucible': 'en_us/blocks/crucible.md'
+        - 'Decoration': 'en_us/blocks/decoration.md'
+        - 'Detector': 'en_us/blocks/detector.md'
+        - 'Dirt Slab': 'en_us/blocks/dirt_slab.md'
+        - 'Fertile Farmland': 'en_us/blocks/fertile_farmland.md'
+        - 'Hand Crank': 'en_us/blocks/hand_crank.md'
+        - 'Hemp': 'en_us/blocks/hemp.md'
+        - 'Hibachi': 'en_us/blocks/hibachi.md'
+        - 'Hopper': 'en_us/blocks/hopper.md'
+        - 'Infernal Enchanter': 'en_us/blocks/infernal_enchanter.md'
+        - 'Iron Wall': 'en_us/blocks/iron_wall.md'
+        - 'Kiln': 'en_us/blocks/kiln.md'
+        - 'Lens': 'en_us/blocks/lens.md'
+        - 'Light': 'en_us/blocks/light.md'
+        - 'Millstone': 'en_us/blocks/millstone.md'
+        - 'Minimized Stone': 'en_us/blocks/minimized_stone.md'
+        - 'Minimized Wood': 'en_us/blocks/minimized_wood.md'
+        - 'Mining Charge': 'en_us/blocks/mining_charge.md'
+        - 'Mysterious Vessel': 'en_us/blocks/mysterious_vessel.md'
+        - 'Nether Spores': 'en_us/blocks/nether_growth.md'
+        - 'Planter': 'en_us/blocks/planter.md'
+        - 'Platform': 'en_us/blocks/platform.md'
+        - 'Pulley': 'en_us/blocks/pulley.md'
+        - 'Saw': 'en_us/blocks/saw.md'
+        - 'Screw Pump': 'en_us/blocks/screw_pump.md'
+        - 'Shaft': 'en_us/blocks/shaft.md'
+        - 'Spring-Action Bellows': 'en_us/blocks/advanced_bellows.md'
+        - 'Soulforged Steel Block': 'en_us/blocks/soulforged_steel_block.md'
+        - 'Soul Urn': 'en_us/blocks/soul_urn.md'
+        - 'Stake': 'en_us/blocks/stake.md'
+        - 'Steel Pressure Plate': 'en_us/blocks/steel_pressure_plate.md'
+        - 'Turntable': 'en_us/blocks/turntable.md'
+        - 'Unfired Pottery': 'en_us/blocks/unfired_pottery.md'
+        - 'Vine Trap': 'en_us/blocks/vine_trap.md'
+        - 'Waterwheel': 'en_us/blocks/waterwheel.md'
+        - 'Well Bucket': 'en_us/blocks/well_bucket.md'
+        - 'White Stone': 'en_us/blocks/white_stone.md'
+        - 'Wind Chime': 'en_us/blocks/wind_chime.md'
+        - 'Windmill': 'en_us/blocks/windmill.md'
+        - 'Wooden Axle': 'en_us/blocks/wooden_axle.md'
+        - 'Wooden Gearbox': 'en_us/blocks/wooden_gearbox.md'
+      - 'Items':
+        - 'Index': 'en_us/items/index.md'
+        - 'Arcane Scrolls': 'en_us/items/arcane_scrolls.md'
+        - 'Bark': 'en_us/items/bark.md'
+        - 'Brimstone': 'en_us/items/brimstone.md'
+        - 'Blasting Oil': 'en_us/items/blasting_oil.md'
+        - 'Carbon Dust': 'en_us/items/carbon_dust.md'
+        - 'Concentrated Hellfire': 'en_us/items/concentrated_hellfire.md'
+        - 'Creeper Oyster': 'en_us/items/creeper_oyster.md'
+        - 'Diamond Ingot': 'en_us/items/diamond_ingot.md'
+        - 'Dynamite': 'en_us/items/dynamite.md'
+        - 'Element': 'en_us/items/element.md'
+        - 'Ender Slag': 'en_us/items/ender_slag.md'
+        - 'Fabric': 'en_us/items/fabric.md'
+        - 'Filament': 'en_us/items/filament.md'
+        - 'Foods': 'en_us/items/foods.md'
+        - 'Gear': 'en_us/items/gear.md'
+        - 'Glue': 'en_us/items/glue.md'
+        - 'Ground Netherrack': 'en_us/items/ground_netherrack.md'
+        - 'Haft': 'en_us/items/haft.md'
+        - 'Hellfire': 'en_us/items/hellfire_dust.md'
+        - 'Mystery Gland': 'en_us/items/mystery_gland.md'
+        - 'Nether Coal': 'en_us/items/nether_coal.md'
+        - 'Niter': 'en_us/items/niter.md'
+        - 'Plate Armor': 'en_us/items/plate_armor.md'
+        - 'Refined Tools': 'en_us/items/refined_tools.md'
+        - 'Restraint': 'en_us/items/restraint.md'
+        - 'Rope': 'en_us/items/rope.md'
+        - 'Soap': 'en_us/items/soap.md'
+        - 'Soul Dust': 'en_us/items/soul_dust.md'
+        - 'Soul Flux': 'en_us/items/soul_flux.md'
+        - 'Soulforged Steel': 'en_us/items/soulforged_steel.md'
+        - 'Tanned Armor': 'en_us/items/tanned_armor.md'
+        - 'Tanned Leather': 'en_us/items/tanned_leather.md'
+        - 'Tallow': 'en_us/items/tallow.md'
+        - 'Witch Wart': 'en_us/items/witch_wart.md'
+        - 'Wool Armor': 'en_us/items/wool_armor.md'
+      - 'Hardcore Modes':
+        - 'Hardcore Modes': 'en_us/hardcore/index.md'
+        - 'Hardcore Beacons': 'en_us/hardcore/beacons.md'
+        - 'Hardcore Brewing': 'en_us/hardcore/brewing.md'
+        - 'Hardcore Fishing': 'en_us/hardcore/fishing.md'
+        - 'Hardcore Hunger': 'en_us/hardcore/hunger.md'
+        - 'Hardcore Spawn': 'en_us/hardcore/spawn.md'
+      - 'Tweaks':
+        - 'Index': 'en_us/tweaks/index.md'
+
+
+

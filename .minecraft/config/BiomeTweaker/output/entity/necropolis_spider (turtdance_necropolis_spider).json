@@ -1,0 +1,6 @@
+
+{
+  "Name": "necropolis_spider",
+  "Registry ID": "turtdance:necropolis_spider",
+  "Class": "com.turtledove.necropolisofnostalgia.entity.enemies.EntityNecropolisSpider"
+}

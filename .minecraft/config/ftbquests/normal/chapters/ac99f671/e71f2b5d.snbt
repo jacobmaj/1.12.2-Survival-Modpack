@@ -1,0 +1,36 @@
+{
+	title: "Time to Get a Watch",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:clock"
+	},
+	x: 3.0d,
+	y: -1.5d,
+	text: [
+		"Clocks are kept on death."
+	],
+	dependencies: [
+		"a96c6f83"
+	],
+	tasks: [{
+		uid: "29f71a3c",
+		type: "item",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:clock"
+		},
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:clock",
+			tag: {
+				"quark:clock_calculated": 1b
+			}
+		}]
+	}]
+}

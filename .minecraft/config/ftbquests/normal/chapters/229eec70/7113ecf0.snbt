@@ -1,0 +1,28 @@
+{
+	x: -13.5d,
+	y: 0.5d,
+	tasks: [{
+		uid: "95d297a3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "cookingforblockheads:recipe_book",
+			Damage: 1s
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "f1b3389d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "cookingforblockheads:recipe_book",
+			Damage: 2s
+		}],
+		ignore_nbt: 1b
+	}]
+}

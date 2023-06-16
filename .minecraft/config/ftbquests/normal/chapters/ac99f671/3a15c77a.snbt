@@ -1,0 +1,34 @@
+{
+	title: "Get Yer Books Here!",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "ftbquests:book"
+	},
+	x: 0.0d,
+	y: -11.0d,
+	shape: "gear",
+	text: [
+		"If you want the Quest Book in item form, complete this quest, and accept the reward.",
+		"",
+		"This quest can be repeated, and is purely optional."
+	],
+	can_repeat: true,
+	optional: true,
+	tasks: [{
+		uid: "e520fcb0",
+		type: "checkmark",
+		title: "Click me!"
+	}],
+	rewards: [{
+		uid: "d15559e9",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "ftbquests:book"
+		}
+	}]
+}

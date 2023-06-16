@@ -1,0 +1,19 @@
+{
+	x: -7.5d,
+	y: -2.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"f93f8db3",
+		"2f3b7ce0"
+	],
+	tasks: [{
+		uid: "3541dd1b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "iceandfire:dragonsteel_fire_ingot"
+		}]
+	}]
+}

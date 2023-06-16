@@ -1,0 +1,30 @@
+{
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "betterwithmods:single_machine"
+	},
+	x: 0.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "02b4d506",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "betterwithmods:single_machine"
+		}]
+	},
+	{
+		uid: "f507a68d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "betterwithmods:hand_crank"
+		}]
+	}]
+}

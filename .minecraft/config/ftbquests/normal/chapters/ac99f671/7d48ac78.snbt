@@ -1,0 +1,31 @@
+{
+	x: 10.5d,
+	y: 2.5d,
+	shape: "hexagon",
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "668cedc5",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "iceandfire:cyclops_skull"
+		},
+		entity: "iceandfire:cyclops",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "0e4c9549",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "scalinghealth:crystalshard"
+		},
+		count: 2
+	}]
+}

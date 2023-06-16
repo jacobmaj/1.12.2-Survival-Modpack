@@ -1,0 +1,37 @@
+{
+	title: "☆Betweenlands Butcherer",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "thebetweenlands:angry_pebble"
+	},
+	x: 0.0d,
+	y: 14.5d,
+	shape: "diamond",
+	text: [
+		""
+	],
+	min_required_dependencies: 3,
+	dependencies: [
+		"91653f9d",
+		"1f3b6709",
+		"0ed0554b",
+		"d3d24799",
+		"b92bac77"
+	],
+	size: 1.5d,
+	rewards: [{
+		uid: "4fcfb55d",
+		type: "gamestage",
+		title: "...A New Chapter Awaits!",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:netherrack"
+		},
+		auto: "invisible",
+		stage: "nether"
+	}]
+}

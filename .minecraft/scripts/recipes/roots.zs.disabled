@@ -1,0 +1,5 @@
+recipes.remove(<roots:mortar>);
+recipes.addShaped(<roots:mortar>,
+[[<ore:stoneBasalt>,null,<ore:stoneBasalt>],
+[<ore:stoneBasalt>,null,<ore:stoneBasalt>],
+[null,<ore:stoneBasalt>,null]]);

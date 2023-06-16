@@ -1,0 +1,21 @@
+{
+	title: "☆",
+	x: 0.0d,
+	y: -3.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"86c2ec82"
+	],
+	tasks: [{
+		uid: "408739d6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:nether_wart"
+		}]
+	}]
+}

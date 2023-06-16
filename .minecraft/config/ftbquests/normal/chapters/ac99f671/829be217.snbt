@@ -1,0 +1,27 @@
+{
+	title: "An Excerpt on Death (Read Me!)",
+	x: -5.25d,
+	y: -9.75d,
+	text: [
+		"Upon death, you keep your hotbar items, and anything you had equipped, with some durability lost. ",
+		"",
+		"A grave totem will spawn where you died, and attacking the totem will gradually grant your items back. "
+	],
+	hide: true,
+	hide_text_until_complete: true,
+	size: 1.5d,
+	optional: true,
+	tasks: [{
+		uid: "5f43dcf2",
+		type: "stat",
+		title: "...Die.",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:skull"
+		},
+		stat: "stat.deaths",
+		value: 1
+	}]
+}

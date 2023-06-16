@@ -1,0 +1,40 @@
+{
+	title: "☆Aethereal Annihilator",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "scalinghealth:difficultychanger",
+		Damage: 1s
+	},
+	x: 0.0d,
+	y: 13.5d,
+	shape: "diamond",
+	text: [
+		""
+	],
+	min_required_dependencies: 3,
+	dependencies: [
+		"213a0e7e",
+		"24ebd77f",
+		"698f8301",
+		"a82a8394"
+	],
+	hide: true,
+	hide_text_until_complete: true,
+	size: 1.5d,
+	rewards: [{
+		uid: "c36dd347",
+		type: "gamestage",
+		title: "...A new chapter awaits!",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "defiledlands:grass_defiled"
+		},
+		team_reward: true,
+		auto: "invisible",
+		stage: "postAether"
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	x: -10.5d,
+	y: 8.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"0e74e084",
+		"8031b136"
+	],
+	tasks: [{
+		uid: "4fd690b2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:draeton"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

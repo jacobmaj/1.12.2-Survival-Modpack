@@ -1,0 +1,279 @@
+[
+	{
+    "dimension": 69,
+    "mob": "mutantbeasts:mutant_zombie",
+    "mincount": {
+        "amount": 1,
+	    "perplayer": true
+		},
+    "result": "deny"
+	},
+	{
+    "dimension": 69,
+    "mob": "lycanitesmobs:wraamon",
+    "mincount": {
+        "amount": 12,
+	    "perchunk": true
+		},
+    "result": "deny"
+	},
+	{
+    "dimension": 69,
+    "mob": "lycanitesmobs:tarantula",
+    "mincount": {
+        "amount": 3,
+	    "perchunk": true
+		},
+    "result": "deny"
+	},
+	{
+    "dimension": 69,
+    "mob": "lycanitesmobs:geonach",
+    "mincount": {
+        "amount": 3,
+	    "perchunk": true
+		},
+    "result": "deny"
+	},
+	{
+    "dimension": 69,
+    "mob": "lycanitesmobs:geken",
+    "mincount": {
+        "amount": 3,
+	    "perchunk": true
+		},
+    "result": "deny"
+	},
+	{
+    "dimension": 69,
+    "mob": "lycanitesmobs:kobold",
+	"maxlight": 10,
+    "mincount": {
+        "amount": 8,
+	    "perchunk": true
+		},
+    "result": "deny"
+	},
+	{
+    "dimension": 69,
+    "mob": "lycanitesmobs:jabberwock",
+    "mincount": {
+        "amount": 2,
+	    "perplayer": true
+		},
+    "result": "deny"
+	},
+	{
+    "dimension": 69,
+    "mob": "lycanitesmobs:yale",
+    "mincount": {
+        "amount": 2,
+	    "perchunk": true
+		},
+    "result": "deny"
+	},
+	{
+    "dimension": 69,
+    "mob": "lycanitesmobs:barghest",
+    "mincount": {
+        "amount": 1,
+	    "perplayer": true
+		},
+    "result": "deny"
+	},
+	{
+    "dimension": 69,
+    "mob": "lycanitesmobs:feradon",
+    "mincount": {
+        "amount": 1,
+	    "perplayer": true
+		},
+    "result": "deny"
+	},
+	{
+    "dimension": 69,
+    "mob": "lycanitesmobs:quillbeast",
+    "mincount": {
+        "amount": 2,
+	    "perplayer": true
+		},
+    "result": "deny"
+	},
+	{
+	"dimension": 69,
+    "mob": "mist:forest_spider",
+    "mincount": {
+        "amount": 10,
+	    "perchunk": true
+		},
+    "result": "deny"
+	},
+	{
+    "dimension": 69,
+    "mob": "primitivemobs:harpy",
+    "mincount": {
+        "amount": 5,
+	    "perchunk": true
+		},
+    "result": "deny"
+	},
+	{
+	"dimension": 69,
+    "mob": "mowziesmobs:naga",
+	"mintime": 13100,
+	"result": "deny"
+	},
+	{
+    "dimension": 69,
+    "mob": "mowziesmobs:naga",
+    "mincount": {
+        "amount": 1,
+	    "perplayer": true
+		},
+    "result": "deny"
+	},
+	{
+    "dimension": 69,
+    "mob": "lycanitesmobs:calpod",
+    "mincount": {
+        "amount": 5,
+	    "perchunk": true
+		},
+    "result": "deny"
+	},
+	{
+    "dimension": 69,
+    "mob": "lycanitesmobs:krake",
+    "mincount": {
+        "amount": 4,
+	    "perchunk": true
+		},
+    "result": "deny"
+	},
+	{
+    "dimension": 69,
+    "mob": "lycanitesmobs:ghoul",
+	"maxlight": 8,
+    "mincount": {
+        "amount": 7,
+	    "perchunk": true
+		},
+    "result": "deny"
+	},
+	{
+    "dimension": 69,
+    "mob": "mod_lavacow:undeadswine",
+    "mincount": {
+        "amount": 5,
+	    "perchunk": true
+		},
+    "result": "deny"
+	},
+	{
+    "dimension": 69,
+    "mob": "mod_lavacow:zombiemushroom",
+	"maxlight": 8,
+    "mincount": {
+        "amount": 4,
+	    "perchunk": true
+		},
+    "result": "deny"
+	},
+	{
+    "dimension": 69,
+    "mob": "mod_lavacow:boneworm",
+    "mincount": {
+        "amount": 5,
+	    "perchunk": true
+		},
+    "result": "deny"
+	},
+	{
+    "dimension": 69,
+    "mob": "mod_lavacow:banshee",
+	"maxlight": 8,
+    "mincount": {
+        "amount": 3,
+	    "perchunk": true
+		},
+    "result": "deny"
+	},
+	{
+    "dimension": 69,
+    "mob": "mod_lavacow:foglet",
+    "mincount": {
+        "amount": 3,
+	    "perchunk": true
+		},
+    "result": "deny"
+	},
+	{
+    "dimension": 69,
+    "mob": "specialmobs:jumpingcreeper",
+    "mincount": {
+        "amount": 5,
+	    "perchunk": true
+		},
+    "result": "deny"
+	},
+	{
+    "dimension": 69,
+    "mob": "betteranimalsplus:boar",
+    "mincount": {
+        "amount": 20,
+	    "perchunk": true
+		},
+    "result": "deny"
+	},
+	{
+    "dimension": 69,
+    "mob": "specialmobs:sniperskeleton",
+	"maxlight": 8,
+    "mincount": {
+        "amount": 3,
+	    "perchunk": true
+		},
+    "result": "deny"
+	},
+	{
+    "dimension": 69,
+    "mob": "mod_lavacow:ptera",
+    "mincount": {
+        "amount": 1,
+	    "perchunk": true
+		},
+    "result": "deny"
+	},
+	{
+    "dimension": 69,
+    "mob": "mod_lavacow:undertaker",
+    "mincount": {
+        "amount": 1,
+	    "perchunk": true
+		},
+    "result": "deny"
+	},
+	{
+    "dimension": 69,
+    "mob": "mod_lavacow:avaton",
+    "mincount": {
+        "amount": 1,
+	    "perchunk": true
+		},
+    "result": "deny"
+	},
+	{
+    "dimension": 69,
+    "mob": "lycanitesmobs:conba",
+    "mincount": {
+        "amount": 1,
+	    "perchunk": true
+		},
+    "result": "deny"
+	},
+	{
+    "dimension": 0,
+    "mod": "turtdance",
+    "result": "deny"
+	}
+]

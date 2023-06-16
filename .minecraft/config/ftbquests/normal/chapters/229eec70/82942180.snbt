@@ -1,0 +1,28 @@
+{
+	x: -4.0d,
+	y: -2.5d,
+	tasks: [{
+		uid: "6d0b58d9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "animania:block_trough"
+		}]
+	}],
+	rewards: [{
+		uid: "5a8c06b0",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "animania:animania_manual",
+			tag: {
+				currentTopic: "animania:manual/blocks/mud.json",
+				lastTopic: "animania:manual/blocks/blocks.json"
+			}
+		}
+	}]
+}

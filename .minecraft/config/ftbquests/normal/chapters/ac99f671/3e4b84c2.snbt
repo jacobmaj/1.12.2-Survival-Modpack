@@ -1,0 +1,35 @@
+{
+	x: 7.5d,
+	y: -2.5d,
+	shape: "hexagon",
+	text: [
+		""
+	],
+	dependencies: [
+		"ca027e3a"
+	],
+	hide: true,
+	tasks: [{
+		uid: "793152b2",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "toroquest:trophy_spider"
+		},
+		entity: "toroquest:toroquest_spider_lord",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "5855d915",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "scalinghealth:crystalshard"
+		},
+		count: 2
+	}]
+}

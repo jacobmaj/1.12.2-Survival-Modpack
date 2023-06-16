@@ -1,0 +1,23 @@
+{
+	x: -2.0d,
+	y: -9.5d,
+	text: [
+		"The Crafting Station works like a Crafting Table, except it keeps any items you were crafting with after the inventory closes.",
+		"",
+		"It also can access inventories on its side, which can help with larger crafting tasks."
+	],
+	dependencies: [
+		"6f92d13c"
+	],
+	optional: true,
+	tasks: [{
+		uid: "fc44978f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "tconstruct:tooltables"
+		}]
+	}]
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Important: Read Me!",
+    "icon": "minecraft:paper",
+    "category": "patchouli:humble_beginnings",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "text",
+            "text": "If you're playing with friends, please take a moment to synchronize your progress with eachother.$(br2)$(l)/tofe help$()$(br)Use this command to learn how to create and manage your team."
+
+        },
+		{
+			"type": "text",
+			"text": "$(bold)BE WARNED:$()There are endless changes made to the mechanics throughout the entire game.$(br)  If you get confused or frustrated, browse this book to find information on the challenges you're facing."
+		}
+		
+    ]
+}

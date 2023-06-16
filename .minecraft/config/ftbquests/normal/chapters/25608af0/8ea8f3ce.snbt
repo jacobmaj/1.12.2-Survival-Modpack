@@ -1,0 +1,32 @@
+{
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "betterwithmods:bamboo_chime"
+	},
+	x: 0.5d,
+	y: -3.0d,
+	dependencies: [
+		"f3bca900"
+	],
+	tasks: [{
+		uid: "48bcb064",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				Parent: {
+					data: "blockWindChime",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any blockWindChime"
+				}
+			}
+		}]
+	}]
+}

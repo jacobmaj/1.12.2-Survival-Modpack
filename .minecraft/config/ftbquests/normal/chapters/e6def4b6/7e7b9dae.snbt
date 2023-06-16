@@ -1,0 +1,28 @@
+{
+	x: -8.5d,
+	y: 4.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"a926bdf0"
+	],
+	tasks: [{
+		uid: "0de60936",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "cyberware:scanner"
+		}]
+	},
+	{
+		uid: "77341d0a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "cyberware:engineering_table"
+		}]
+	}]
+}

@@ -1,0 +1,50 @@
+{
+	title: "☆",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "thebetweenlands:items_misc",
+		Damage: 25s
+	},
+	x: -2.0d,
+	y: 11.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"8831d9df"
+	],
+	tasks: [{
+		uid: "7cff38a4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:items_misc",
+			Damage: 24s
+		}]
+	},
+	{
+		uid: "4a95f138",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:items_misc",
+			Damage: 25s
+		}]
+	}],
+	rewards: [{
+		uid: "8e8e3487",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "scalinghealth:crystalshard"
+		}
+	}]
+}

@@ -1,0 +1,68 @@
+{
+	title: "Find a Defiled Altar",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "defiledlands:essence_destroyer"
+	},
+	x: 0.0d,
+	y: 12.0d,
+	shape: "hexagon",
+	text: [
+		""
+	],
+	dependencies: [
+		"73cb9490"
+	],
+	tasks: [{
+		uid: "3471ece5",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "defiledlands:conjuring_altar"
+		},
+		match_type: "block_id",
+		match: "defiledlands:conjuring_altar",
+		timer: 0L
+	},
+	{
+		uid: "d6e8af0b",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "defiledlands:essence_destroyer"
+		},
+		entity: "defiledlands:the_destroyer",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "be8afbcd",
+		type: "gamestage",
+		title: "...A new Chapter Awaits!",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:cragrock",
+			Damage: 1s
+		},
+		auto: "no_toast",
+		stage: "betweenlands"
+	},
+	{
+		uid: "2f02ba7c",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "scalinghealth:crystalshard"
+		},
+		count: 2
+	}]
+}

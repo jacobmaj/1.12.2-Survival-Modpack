@@ -1,0 +1,93 @@
+{
+	title: "Hence the name: Goldmember.",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "tinkersaddons:modifier_item",
+		Damage: 2s
+	},
+	x: -5.0d,
+	y: -1.0d,
+	shape: "square",
+	text: [
+		""
+	],
+	size: 1.19d,
+	tasks: [{
+		uid: "a79511f2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:golden_apple",
+			Damage: 1s
+		}]
+	},
+	{
+		uid: "eba5883a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:golden_apple"
+		}]
+	},
+	{
+		uid: "1477b50b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:golden_carrot"
+		}]
+	},
+	{
+		uid: "62d6baa6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:speckled_melon"
+		}]
+	},
+	{
+		uid: "68fd8941",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "quark:golden_frog_leg"
+		}]
+	},
+	{
+		uid: "cf975b87",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "betteranimalsplus:golden_goose_egg"
+		}]
+	}],
+	rewards: [{
+		uid: "c17cb25b",
+		type: "command",
+		title: "2 Prestige Points!",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "ftbquests:custom_icon",
+			tag: {
+				icon: "ftblib:textures/icons/support.png"
+			}
+		},
+		command: "/prestige add @p 2"
+	}]
+}

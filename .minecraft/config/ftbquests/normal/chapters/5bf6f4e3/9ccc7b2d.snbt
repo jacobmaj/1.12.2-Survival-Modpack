@@ -1,0 +1,38 @@
+{
+	title: "☆You Will be Mist",
+	x: 0.0d,
+	y: -0.5d,
+	text: [
+		"Enter mist-level altitude. This can only be done safely at night.",
+		"",
+		"Niobium Ore is found at this level, which can easily be mined at night, when the mist partially recedes.",
+		"",
+		"Breathing in the mist without a filtered respirator will damage you, and add to your Toxicity and Impurity, indicated by the bars at the top-left.",
+		"",
+		"For more information on the Toxicity and Impurity meters, as well as how to reduce them, read the quests '' and ''."
+	],
+	dependencies: [
+		"df5a26fa"
+	],
+	tasks: [{
+		uid: "34442685",
+		type: "location",
+		title: "Enter the Mist",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "chisel:glassdyedwhite",
+			Damage: 3s
+		},
+		location: [I;
+			69,
+			-500000,
+			0,
+			-500000,
+			1000000000,
+			110,
+			1000000000
+		]
+	}]
+}

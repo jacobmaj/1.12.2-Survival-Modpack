@@ -1,0 +1,53 @@
+{
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "refinedstorage:disk_drive"
+	},
+	x: -7.5d,
+	y: 5.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"6c86cbde",
+		"76e359f0"
+	],
+	tasks: [{
+		uid: "cceacf70",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "refinedstorage:disk_drive"
+		}]
+	},
+	{
+		uid: "91af7ef2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "refinedstorage:storage_housing"
+		}],
+		count: 4L
+	},
+	{
+		uid: "db923a35",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "refinedstorage:storage_disk",
+			tag: {
+				IdLeast: -7029717970837475135L,
+				IdMost: 5505969145135711405L
+			},
+			Damage: 1s
+		}],
+		count: 4L,
+		ignore_nbt: 1b
+	}]
+}

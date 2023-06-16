@@ -1,0 +1,27 @@
+{
+	x: 9.5d,
+	y: -0.5d,
+	shape: "hexagon",
+	tasks: [{
+		uid: "5d5e8adb",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "iceandfire:siren_flute"
+		},
+		entity: "iceandfire:siren",
+		value: 2L
+	}],
+	rewards: [{
+		uid: "a2c976e2",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "scalinghealth:crystalshard"
+		}
+	}]
+}

@@ -1,0 +1,56 @@
+{
+  tunnels: [
+    {}
+  ]
+  ravines: [
+    {}
+  ]
+  rooms: {
+    scale: 6
+  }
+  caverns: {
+    enabled: true # Removed in 1.0. You can delete this field.
+  }
+  structures: [
+    {
+      name: fossils/fossil_spine_03
+    }
+  ]
+  caveBlocks: [
+    {
+      states: [ "stone" ]
+    }
+  ]
+  wallDecorators: [
+    {
+      states: [ "stone" ]
+    }
+  ]
+  clusters: [
+    {
+      states: [ "stone" ]
+    }
+  ]
+  layers: [
+    {
+      state: minecraft:diamond_block
+      height: 0
+    }
+  ]
+  pillars: [
+    {
+      state: stone
+    }
+  ]
+  stalactites: [
+    {
+      state: stone
+      type: STALACTITE
+    }
+    {
+      state: stone
+      type: STALAGMITE
+    }
+  ]
+  enabled: true
+}

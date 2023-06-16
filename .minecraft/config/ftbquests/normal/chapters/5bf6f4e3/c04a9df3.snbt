@@ -1,0 +1,24 @@
+{
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "mist:bio_shale_ore"
+	},
+	x: 4.0d,
+	y: 5.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"df5a26fa"
+	],
+	tasks: [{
+		uid: "ef5beaf5",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "mist:bio_shale"
+		}]
+	}]
+}

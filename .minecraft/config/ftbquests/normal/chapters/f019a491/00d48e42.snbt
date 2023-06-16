@@ -1,0 +1,42 @@
+{
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "twilightforest:trophy",
+		Damage: 8s
+	},
+	x: 9.0d,
+	y: -2.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"0223e806"
+	],
+	tasks: [{
+		uid: "09bfc884",
+		type: "observation",
+		title: "Find a Questing Ram!",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:trophy",
+			Damage: 8s
+		},
+		match_type: "entity_id",
+		match: "twilightforest:quest_ram",
+		timer: 0L
+	},
+	{
+		uid: "533b61bf",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:crumble_horn"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

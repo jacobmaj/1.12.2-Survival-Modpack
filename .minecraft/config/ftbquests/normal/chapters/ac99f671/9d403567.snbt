@@ -1,0 +1,20 @@
+{
+	x: -9.0d,
+	y: -10.0d,
+	text: [
+		"Bandages can be crafted by combining wool or Hemp Cloth with any healing substance.",
+		"",
+		"They will heal a percent of your maximum health after being applied."
+	],
+	hide_dependency_lines: true,
+	tasks: [{
+		uid: "4f5b891b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "scalinghealth:healingitem"
+		}]
+	}]
+}

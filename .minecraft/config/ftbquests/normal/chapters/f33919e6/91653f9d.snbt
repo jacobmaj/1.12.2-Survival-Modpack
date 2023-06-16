@@ -1,0 +1,35 @@
+{
+	title: "☆",
+	x: -1.0d,
+	y: 12.5d,
+	shape: "hexagon",
+	text: [
+		""
+	],
+	dependencies: [
+		"8831d9df"
+	],
+	tasks: [{
+		uid: "51263fb8",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:chirobarb_erupter"
+		},
+		entity: "thebetweenlands:chiromaw_matriarch",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "0b219ab3",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "scalinghealth:crystalshard"
+		},
+		count: 2
+	}]
+}

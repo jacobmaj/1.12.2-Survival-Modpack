@@ -1,0 +1,35 @@
+{
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "betterwithmods:cooking_pot"
+	},
+	x: 0.5d,
+	y: -11.0d,
+	dependencies: [
+		"a41eb786",
+		"30b4a4d4",
+		"a9ac36cf"
+	],
+	tasks: [{
+		uid: "75662422",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "betterwithmods:unfired_pottery"
+		}]
+	},
+	{
+		uid: "39f6d0e1",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "betterwithmods:cooking_pot"
+		}]
+	}]
+}

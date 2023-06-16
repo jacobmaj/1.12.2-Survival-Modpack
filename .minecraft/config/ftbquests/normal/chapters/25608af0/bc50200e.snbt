@@ -1,0 +1,48 @@
+{
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "betterwithmods:urn",
+		Damage: 8s
+	},
+	x: 1.3571428571428612d,
+	y: -10.988095238095248d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"381c7474",
+		"30b4a4d4"
+	],
+	tasks: [{
+		uid: "fc2855f2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "betterwithmods:unfired_pottery",
+			Damage: 2s
+		}]
+	},
+	{
+		uid: "8efddc87",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "betterwithmods:urn"
+		}]
+	},
+	{
+		uid: "98f643fe",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "betterwithmods:urn",
+			Damage: 8s
+		}]
+	}]
+}

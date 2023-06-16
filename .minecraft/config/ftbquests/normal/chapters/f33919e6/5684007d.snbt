@@ -1,0 +1,33 @@
+{
+	x: 6.5d,
+	y: 2.375d,
+	shape: "hexagon",
+	hide_dependency_lines: true,
+	dependencies: [
+		"8831d9df"
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "ded74d7d",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:items_misc",
+			Damage: 17s
+		},
+		entity: "thebetweenlands:stalker",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "fe823595",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "scalinghealth:crystalshard"
+		}
+	}]
+}

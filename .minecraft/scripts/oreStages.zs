@@ -1,0 +1,1 @@
+mods.orestages.OreStages.addReplacement("postAether", <defiledlands:umbrium_ore>, <minecraft:iron_ore>);

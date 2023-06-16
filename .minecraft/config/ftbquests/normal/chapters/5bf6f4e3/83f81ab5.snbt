@@ -1,0 +1,85 @@
+{
+	title: "☆",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {},
+			"xat:trinket": {
+				handler: 0,
+				mana: 0,
+				alt.ability: 0b,
+				player.status: -1,
+				slot: -1,
+				exp: 0,
+				hitcount: 0,
+				target: -1,
+				main.ability: 0b
+			}
+		},
+		id: "xat:dragons_eye",
+		tag: {
+			Quality: {
+				Slots: [
+					"baubles_trinket"
+				],
+				Color: "white",
+				AttributeModifiers: [{
+					UUIDMost: -4691119733024339396L,
+					UUIDLeast: -4629284362067534662L,
+					Amount: 0.03999999910593033d,
+					AttributeName: "generic.attackDamage",
+					Operation: 2,
+					Name: "qualitytools"
+				}],
+				Name: "Mighty"
+			}
+		}
+	},
+	x: 0.0d,
+	y: 8.125d,
+	shape: "hexagon",
+	text: [
+		"Cast 'Conjure Quazar' on your ritual table and prepare for battle!"
+	],
+	dependencies: [
+		"07175cd6",
+		"61306f8b"
+	],
+	size: 1.75d,
+	tasks: [{
+		uid: "141741af",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "tconstruct:slime_vine_purple_end"
+		},
+		entity: "betterslimes:quazar",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "4aec6d95",
+		type: "gamestage",
+		title: "...A new Chapter Awaits!",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aether_legacy:enchanted_aether_grass"
+		},
+		team_reward: true,
+		auto: "invisible",
+		stage: "aether"
+	},
+	{
+		uid: "3161824b",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "scalinghealth:crystalshard"
+		},
+		count: 2
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	title: "Spot a Hippocampus!",
+	x: -0.5d,
+	y: -0.5d,
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "52319baf",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "iceandfire:hippocampus_fin"
+		},
+		match_type: "entity_id",
+		match: "iceandfire:hippocampus",
+		timer: 0L
+	}]
+}

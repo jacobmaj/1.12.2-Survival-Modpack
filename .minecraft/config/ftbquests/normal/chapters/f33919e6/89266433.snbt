@@ -1,0 +1,20 @@
+{
+	x: -9.0d,
+	y: 8.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"8831d9df"
+	],
+	tasks: [{
+		uid: "29e48180",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:grappling_hook"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

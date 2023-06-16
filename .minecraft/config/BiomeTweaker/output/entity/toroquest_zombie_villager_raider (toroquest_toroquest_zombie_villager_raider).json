@@ -1,0 +1,6 @@
+
+{
+  "Name": "toroquest_zombie_villager_raider",
+  "Registry ID": "toroquest:toroquest_zombie_villager_raider",
+  "Class": "net.torocraft.toroquest.entities.EntityZombieVillagerRaider"
+}

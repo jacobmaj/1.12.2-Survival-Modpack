@@ -1,0 +1,48 @@
+{
+	x: -8.5d,
+	y: -2.5d,
+	tasks: [{
+		uid: "95740f88",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:wheat_seeds"
+		}]
+	},
+	{
+		uid: "59aace39",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:pumpkin_seeds"
+		}]
+	},
+	{
+		uid: "e30f3f70",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:melon_seeds"
+		}]
+	},
+	{
+		uid: "7064f06e",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:beetroot_seeds"
+		}]
+	}]
+}

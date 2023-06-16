@@ -1,0 +1,78 @@
+{
+	title: "Ice Dragon Egg",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "iceandfire:dragonegg_sapphire"
+	},
+	x: -10.0d,
+	y: -5.5d,
+	text: [
+		""
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"f7266fd8"
+	],
+	tasks: [{
+		uid: "d8707516",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "iceandfire:dragonegg_silver"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "b74b95a1",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "iceandfire:dragonegg_white"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "dbc05a05",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "iceandfire:dragonegg_blue"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "b6ca15fe",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "iceandfire:dragonegg_silver"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "a372651c",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "iceandfire:dragonegg_sapphire"
+		}],
+		ignore_nbt: 1b
+	}]
+}

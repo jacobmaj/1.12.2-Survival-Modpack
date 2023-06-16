@@ -1,0 +1,20 @@
+{
+	x: 8.5d,
+	y: 5.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"0e74e084"
+	],
+	tasks: [{
+		uid: "20efef26",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:weedwood_fishing_rod"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

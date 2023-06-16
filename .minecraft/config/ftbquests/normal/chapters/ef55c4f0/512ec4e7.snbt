@@ -1,0 +1,18 @@
+{
+	x: -8.5d,
+	y: 5.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"65c1657d"
+	],
+	tasks: [{
+		uid: "f50f163b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "refinedstorage:disk_manipulator"
+		}]
+	}]
+}

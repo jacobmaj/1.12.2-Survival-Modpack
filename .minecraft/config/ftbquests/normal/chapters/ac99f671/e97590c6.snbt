@@ -1,0 +1,69 @@
+{
+	title: "☆",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "mist:portal_base",
+		Damage: 1s
+	},
+	x: 0.0d,
+	y: 2.25d,
+	shape: "diamond",
+	text: [
+		"Create an Upper and Lower Portal Stone using the Ritual Table. ",
+		"",
+		"In between the two Stones, place a Gold Block to activate the Mist Portal."
+	],
+	dependencies: [
+		"c5f7a376",
+		"417d521e"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "9c6ead0c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "mist:portal_base"
+		}]
+	},
+	{
+		uid: "ef354b39",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:gold_block"
+		}]
+	},
+	{
+		uid: "60730d86",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "mist:portal_base",
+			Damage: 1s
+		}]
+	}],
+	rewards: [{
+		uid: "a6beb9f0",
+		type: "command",
+		title: "...A new Chapter Awaits!",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "mist:acid_grass_0",
+			Damage: 1s
+		},
+		team_reward: true,
+		auto: "invisible",
+		command: "/gamestage silentadd @p mistyworld"
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: -11.5d,
+	y: -1.5d,
+	tasks: [{
+		uid: "698e6605",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "cookingforblockheads:milk_jar"
+		}]
+	}]
+}

@@ -1,0 +1,25 @@
+{
+	title: "Spot a Wolf",
+	x: 10.0d,
+	y: -8.0d,
+	text: [
+		"Find a Wolf in a forest biome.",
+		"",
+		"These can be tamed using Bones, and healed or bred with any meat.",
+		"",
+		"You can place an enchanted Collar onto a Wolf to enhance their physical capabilities."
+	],
+	tasks: [{
+		uid: "891d5ee2",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "betteranimalsplus:wolfhead_4"
+		},
+		match_type: "entity_id",
+		match: "minecraft:wolf",
+		timer: 0L
+	}]
+}

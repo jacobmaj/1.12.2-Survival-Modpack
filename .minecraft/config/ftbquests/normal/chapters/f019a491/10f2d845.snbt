@@ -1,0 +1,28 @@
+{
+	x: 2.0d,
+	y: -8.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"0223e806"
+	],
+	tasks: [{
+		uid: "59c4274f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:magic_map_focus"
+		}]
+	},
+	{
+		uid: "ea8ef9c4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:magic_map_empty"
+		}]
+	}]
+}

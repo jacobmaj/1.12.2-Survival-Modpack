@@ -1,0 +1,20 @@
+{
+	x: 3.0d,
+	y: -8.5d,
+	text: [
+		"A Torch Arrow can be shot from a bow, and places a Torch where it lands."
+	],
+	dependencies: [
+		"9f40e6a5"
+	],
+	tasks: [{
+		uid: "3c0f3a65",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "quark:arrow_torch"
+		}]
+	}]
+}

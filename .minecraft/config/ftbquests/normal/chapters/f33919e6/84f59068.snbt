@@ -1,0 +1,41 @@
+{
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "thebetweenlands:frog_legs_raw"
+	},
+	x: 6.5d,
+	y: 1.125d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"8831d9df"
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "ad8f93ca",
+		type: "observation",
+		title: "Find a Harlequin Toad",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:frog_legs_raw"
+		},
+		match_type: "entity_id",
+		match: "thebetweenlands:toad",
+		timer: 0L
+	},
+	{
+		uid: "2bcb9bb5",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:items_misc",
+			Damage: 3s
+		}],
+		count: 3L
+	}]
+}

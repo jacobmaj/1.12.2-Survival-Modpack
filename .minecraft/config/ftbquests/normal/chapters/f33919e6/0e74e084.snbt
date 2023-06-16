@@ -1,0 +1,40 @@
+{
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "thebetweenlands:bl_bucket_rubber",
+		tag: {}
+	},
+	x: -8.0d,
+	y: 12.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"f31bd5bd"
+	],
+	tasks: [{
+		uid: "0016e344",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:bl_bucket_rubber",
+			tag: {}
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "defec116",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:bl_bucket_rubber",
+			tag: {},
+			Damage: 1s
+		}],
+		ignore_nbt: 1b
+	}]
+}

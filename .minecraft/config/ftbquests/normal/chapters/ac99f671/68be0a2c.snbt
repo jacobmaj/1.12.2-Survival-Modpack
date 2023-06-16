@@ -1,0 +1,19 @@
+{
+	x: -1.5d,
+	y: 8.0d,
+	dependencies: [
+		"ee6cd995"
+	],
+	tasks: [{
+		uid: "9daad096",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "waystones:warp_stone"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

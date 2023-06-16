@@ -1,0 +1,17 @@
+{
+	x: 3.5d,
+	y: -3.5d,
+	dependencies: [
+		"c79bedac"
+	],
+	tasks: [{
+		uid: "8e9798e6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:ore_map_empty"
+		}]
+	}]
+}

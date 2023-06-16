@@ -1,0 +1,47 @@
+{
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "thebetweenlands:steeping_pot",
+		Count: 1b
+	},
+	x: 11.5d,
+	y: 11.5d,
+	text: [
+		"The Steeping Pot requires a heat source such as Smoldering Peat to function. ",
+		"",
+		"Place the ingredients in a clean Silk Bundle before placing the bundle into the pot, and filling it with a bucket of the liquid specified by the Steeping recipe.",
+		"",
+		"When finished steeping, it can then be taken from the pot with either a bucket or 4 Weedwood Bowls. ",
+		"",
+		"A Dirty Silk Bundle will be left behind, and must be purified before being reused."
+	],
+	dependencies: [
+		"4e02cc54"
+	],
+	tasks: [{
+		uid: "1fb722dc",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:silk_bundle",
+			Count: 1b
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "df1cb2a4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:steeping_pot",
+			Count: 1b
+		}]
+	}]
+}

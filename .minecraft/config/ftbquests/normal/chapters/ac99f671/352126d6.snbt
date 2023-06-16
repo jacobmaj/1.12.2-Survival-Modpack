@@ -1,0 +1,25 @@
+{
+	x: -2.0d,
+	y: 0.5d,
+	shape: "diamond",
+	text: [
+		"The Enchanting Table creates enchantment 'pieces' for items, which can be fit on a grid and applied to your items.",
+		"",
+		"Place Bookshelves around the Enchanting Table to upgrade the amount of enchantments generated.",
+		"",
+		"The Enchanting Table can only be used at night, and requires Lapis Lazuli as fuel."
+	],
+	dependencies: [
+		"c5f7a376"
+	],
+	tasks: [{
+		uid: "eddd0789",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:enchanting_table"
+		}]
+	}]
+}

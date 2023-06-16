@@ -1,0 +1,19 @@
+{
+	x: -10.0d,
+	y: -9.0d,
+	text: [
+		"Rope can be hung off the bottom of a solid block, and can be extended by placing more rope on the same block."
+	],
+	hide_dependency_lines: true,
+	tasks: [{
+		uid: "f2c5755a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "quark:rope"
+		}],
+		count: 8L
+	}]
+}

@@ -1,0 +1,6 @@
+recipes.removeByRecipeName("paraglider:paraglider");
+
+recipes.addShaped(<paraglider:paraglider>,
+[[<ore:stickWood>,<ore:leather>,<ore:stickWood>],
+[<ore:leather>,<ore:stickWood>,<ore:leather>],
+[<ore:stickWood>,null,<ore:stickWood>]]);

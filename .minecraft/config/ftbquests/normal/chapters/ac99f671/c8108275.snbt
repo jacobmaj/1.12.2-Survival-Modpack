@@ -1,0 +1,53 @@
+{
+	x: 2.0d,
+	y: -3.5d,
+	text: [
+		"The Tool Belt can store tools for quick access. ",
+		"",
+		"Press [B] by default to access the belt slot, then [SHIFT+E] to insert or retrieve tools.",
+		"",
+		" Belt Pouches can be applied in an anvil to increase the number of slots. These can be found as loot, or crafted with tanned leather."
+	],
+	dependencies: [
+		"a96c6f83"
+	],
+	tasks: [{
+		uid: "6a2dfea6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "toolbelt:belt",
+			tag: {
+				Quality: {
+					Slots: [
+						"baubles_trinket"
+					],
+					Color: "white",
+					AttributeModifiers: [{
+						UUIDMost: 9130523758662470001L,
+						UUIDLeast: -6779896320974629016L,
+						Amount: 0.5d,
+						AttributeName: "generic.attackDamage",
+						Operation: 0,
+						Name: "qualitytools"
+					}],
+					Name: "Mighty"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "0a249ed9",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "toolbelt:pouch"
+		}
+	}]
+}

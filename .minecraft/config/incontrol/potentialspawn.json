@@ -1,0 +1,239 @@
+[
+	{
+		"dimension": 69,
+		"maxheight": 101,
+		"mobs": [
+			{
+				"mob": "lycanitesmobs:wraamon",
+				"weight": 3
+			}
+		]
+	},
+	
+	{
+		"dimension": 69,
+		"maxheight": 101,
+		"mobs": [
+			{
+			"mob": "mutantbeasts:mutant_zombie",
+			"weight": 1,
+			"groupcountmax": 1
+			}
+		]
+	},
+	{
+		"dimension": 69,
+		"mobs": [
+			{
+				"mob": "lycanitesmobs:tarantula",
+				"weight": 1
+			}
+		]
+	},
+	{
+		"dimension": 69,
+		"minheight": 47,
+		"mobs": [
+			{
+				"mob": "lycanitesmobs:geonach",
+				"weight": 1
+			}
+		]
+	},
+	{
+		"dimension": 69,
+		"minheight": 127,
+		"mobs": [
+			{
+				"mob": "lycanitesmobs:geken",
+				"weight": 1
+			}
+		]
+	},
+	{
+		"dimension": 69,
+		"minheight": 127,
+		"mobs": [
+			{
+				"mob": "lycanitesmobs:kobold",
+				"weight": 3
+			}
+		]
+	},
+	{
+		"dimension": 69,
+		"minheight": 127,
+		"mobs": [
+			{
+				"mob": "lycanitesmobs:jabberwock",
+				"weight": 1
+			}
+		]
+	},
+	{
+		"dimension": 69,
+		"minheight": 127,
+		"mobs": [
+			{
+				"mob": "lycanitesmobs:yale",
+				"weight": 1
+			}
+		]
+	},
+	{
+		"dimension": 69,
+		"minheight": 127,
+		"mobs": [
+			{
+				"mob": "lycanitesmobs:barghest",
+				"weight": 1
+			}
+		]
+	},
+	{
+		"dimension": 69,
+		"minheight": 127,
+		"mobs": [
+			{
+				"mob": "lycanitesmobs:feradon",
+				"weight": 1
+			}
+		]
+	},
+	{
+		"dimension": 69,
+		"minheight": 127,
+		"mobs": [
+			{
+				"mob": "lycanitesmobs:quillbeast",
+				"weight": 1
+			}
+		]
+	},
+	{
+		"dimension": 69,
+		"minheight": 127,
+		"mobs": [
+			{
+				"mob": "primitivemobs:harpy",
+				"weight": 2
+			}
+		]
+	},
+	{
+		"dimension": 69,
+		"minheight": 127,
+		"mobs": [
+			{
+				"mob": "mowziesmobs:naga",
+				"weight": 0.1,
+				"groupcountmax": 1
+			}
+		]
+	},
+	{
+		"dimension": 69,
+		"minheight": 47,
+		"mobs": [
+			{
+				"mob": "lycanitesmobs:calpod",
+				"weight": 1
+			}
+		]
+	},
+	{
+		"dimension": 69,
+		"minheight": 47,
+		"mobs": [
+			{
+				"mob": "lycanitesmobs:krake",
+				"weight": 1
+			}
+		]
+	},
+	{
+		"dimension": 69,
+		"mobs": [
+			{
+				"mob": "lycanitesmobs:ghoul",
+				"weight": 1
+			}
+		]
+	},
+	{
+		"dimension": 69,
+		"maxheight": 101,
+		"mobs": [
+			{
+				"mob": "mod_lavacow:undeadswine",
+				"weight": 1
+			}
+		]
+	},
+	{
+		"dimension": 69,
+		"mobs": [
+			{
+				"mob": "mod_lavacow:zombiemushroom",
+				"weight": 1
+			}
+		]
+	},
+	{
+		"dimension": 69,
+		"maxheight": 101,
+		"mobs": [
+			{
+				"mob": "mod_lavacow:boneworm",
+				"weight": 1
+			}
+		]
+	},
+	{
+		"dimension": 69,
+		"maxheight": 101,
+		"mobs": [
+			{
+				"mob": "mod_lavacow:banshee",
+				"weight": 2
+			}
+		]
+	},
+	{
+		"dimension": 69,
+		"mobs": [
+			{
+				"mob": "mod_lavacow:foglet",
+				"weight": 2
+			}
+		]
+	},
+	{
+		"dimension": 69,
+		"mobs": [
+			{
+				"mob": "specialmobs:jumpingcreeper",
+				"weight": 2
+			}
+		]
+	},
+	{
+		"dimension": 69,
+		"minheight": 127,
+		"mobs": [
+			{
+				"mob": "betteranimalsplus:boar",
+				"weight": 10
+			}
+		]
+	},
+	{
+		"dimension": 69,
+		"mobs": [
+			{
+				"mob": "specialmobs:sniperskeleton",
+				"weight": 1
+			}
+		]
+	}
+]

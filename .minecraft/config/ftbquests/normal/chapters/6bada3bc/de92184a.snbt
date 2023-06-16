@@ -1,0 +1,18 @@
+{
+	x: 6.5d,
+	y: -3.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"86c2ec82"
+	],
+	tasks: [{
+		uid: "9d05324b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "rustic:bee"
+		}]
+	}]
+}

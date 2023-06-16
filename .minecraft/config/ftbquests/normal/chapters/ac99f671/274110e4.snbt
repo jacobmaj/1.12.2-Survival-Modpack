@@ -1,0 +1,40 @@
+{
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "contenttweaker:seasoncompassicon"
+	},
+	x: 3.0d,
+	y: -2.5d,
+	text: [
+		"The Season Clock will display a symbol for the current season, as well as remaining progress before the next.",
+		"",
+		"Each season's colors are as follows:",
+		"Yellow: Summer",
+		"Pink: Spring",
+		"Orange: Autumn",
+		"White: Winter",
+		"",
+		"Season Clocks are kept on death."
+	],
+	dependencies: [
+		"a96c6f83"
+	],
+	tasks: [{
+		uid: "6f11f91d",
+		type: "item",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "contenttweaker:seasoncompassicon"
+		},
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "sereneseasons:season_clock"
+		}]
+	}]
+}

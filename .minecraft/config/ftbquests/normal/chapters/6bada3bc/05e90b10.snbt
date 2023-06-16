@@ -1,0 +1,18 @@
+{
+	x: -6.5d,
+	y: 3.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"1b4db7ec"
+	],
+	tasks: [{
+		uid: "2a8238a4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "disenchanter:disenchantmenttable"
+		}]
+	}]
+}

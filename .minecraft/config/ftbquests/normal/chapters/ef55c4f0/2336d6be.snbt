@@ -1,0 +1,19 @@
+{
+	x: 7.5d,
+	y: 5.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"85774193"
+	],
+	tasks: [{
+		uid: "87878f06",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aether_legacy:aechor_petal"
+		}],
+		count: 3L
+	}]
+}

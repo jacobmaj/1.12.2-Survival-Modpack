@@ -1,0 +1,56 @@
+{
+	title: "Kill: 1x Dragon",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "iceandfire:dragon_skull"
+	},
+	x: 9.0d,
+	y: -5.5d,
+	shape: "hexagon",
+	text: [
+		""
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"0223e806"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "078c9aeb",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "iceandfire:dragon_skull"
+		},
+		entity: "iceandfire:firedragon",
+		value: 1L
+	},
+	{
+		uid: "1f466a5d",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "iceandfire:dragon_skull",
+			Damage: 1s
+		},
+		entity: "iceandfire:icedragon",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "6071bb85",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "scalinghealth:crystalshard"
+		},
+		count: 3
+	}]
+}

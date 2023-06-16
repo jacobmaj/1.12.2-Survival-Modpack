@@ -1,0 +1,35 @@
+{
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "ironchest:iron_chest"
+	},
+	x: -3.0d,
+	y: -3.0d,
+	dependencies: [
+		"a96c6f83"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "81b138aa",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "ironchest:iron_chest"
+		}]
+	},
+	{
+		uid: "8b6c0649",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "ironchest:iron_chest",
+			Damage: 3s
+		}]
+	}]
+}

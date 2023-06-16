@@ -1,0 +1,64 @@
+{
+	x: -11.5d,
+	y: 1.5d,
+	tasks: [{
+		uid: "a8bf10f2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "cookingforblockheads:sink_oak"
+		}]
+	},
+	{
+		uid: "ee7cb2b5",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "cookingforblockheads:sink_spruce"
+		}]
+	},
+	{
+		uid: "dfa83ae0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "cookingforblockheads:sink_birch"
+		}]
+	},
+	{
+		uid: "f3aa46ae",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "cookingforblockheads:sink_jungle"
+		}]
+	},
+	{
+		uid: "c70f6cc3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "cookingforblockheads:sink_acacia"
+		}]
+	},
+	{
+		uid: "a6952b83",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "cookingforblockheads:sink_darkoak"
+		}]
+	}]
+}

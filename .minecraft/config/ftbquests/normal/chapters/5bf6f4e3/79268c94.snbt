@@ -1,0 +1,36 @@
+{
+	title: "☆",
+	x: -1.5d,
+	y: -0.5d,
+	text: [
+		"Respirators are LOST on death."
+	],
+	dependencies: [
+		"74160a00"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "4b4dd433",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "mist:respirator_single"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "b94b8797",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "mist:respirator_single_open"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

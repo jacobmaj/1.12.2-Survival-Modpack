@@ -1,0 +1,1 @@
+baubles.json: com.google.gson.stream.MalformedJsonException: Unterminated array at line 54 column 2 path $.qualities[2]

@@ -1,0 +1,36 @@
+{
+	title: "☆",
+	x: 0.5d,
+	y: 7.0d,
+	shape: "hexagon",
+	text: [
+		""
+	],
+	dependencies: [
+		"85774193"
+	],
+	tasks: [{
+		uid: "593371c7",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aether_legacy:dungeon_key",
+			Damage: 2s
+		},
+		entity: "aether_legacy:sun_spirit",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "fdedc06f",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "scalinghealth:crystalshard"
+		},
+		count: 2
+	}]
+}

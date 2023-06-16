@@ -1,0 +1,20 @@
+{
+	x: -3.0d,
+	y: -2.0d,
+	text: [
+		"The Cauldron can be used to dye blocks, cook stews, and brew potions."
+	],
+	dependencies: [
+		"a96c6f83"
+	],
+	tasks: [{
+		uid: "7fa30f1d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:cauldron"
+		}]
+	}]
+}

@@ -1,0 +1,37 @@
+{
+	title: "☆",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "thebetweenlands:puffshroom_tendril"
+	},
+	x: 2.0d,
+	y: 12.5d,
+	shape: "hexagon",
+	dependencies: [
+		"8831d9df"
+	],
+	tasks: [{
+		uid: "3f38b491",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:puffshroom_tendril_smoked"
+		},
+		entity: "thebetweenlands:sludge_menace",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "05a99c2d",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "scalinghealth:crystalshard"
+		}
+	}]
+}

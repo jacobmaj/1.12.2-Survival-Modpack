@@ -1,0 +1,28 @@
+{
+	x: 9.5d,
+	y: 2.5d,
+	shape: "hexagon",
+	tasks: [{
+		uid: "44504f3e",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "iceandfire:amphithere_skull"
+		},
+		entity: "iceandfire:amphithere",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "d52060ad",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "scalinghealth:crystalshard"
+		},
+		count: 2
+	}]
+}

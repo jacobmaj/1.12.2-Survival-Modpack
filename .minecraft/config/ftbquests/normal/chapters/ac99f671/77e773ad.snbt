@@ -1,0 +1,32 @@
+{
+	x: 9.5d,
+	y: -2.5d,
+	shape: "hexagon",
+	dependencies: [
+		"ca027e3a"
+	],
+	hide: true,
+	tasks: [{
+		uid: "2649620f",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "toroquest:legendary_bandit_helmet"
+		},
+		entity: "toroquest:toroquest_bandit_lord",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "3eb09347",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "scalinghealth:crystalshard"
+		},
+		count: 2
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: -11.5d,
+	y: 0.5d,
+	tasks: [{
+		uid: "7c0dc132",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"betterwithmods:baited_fishing_rod": {
+					bait: 0b
+				}
+			},
+			id: "minecraft:fishing_rod"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

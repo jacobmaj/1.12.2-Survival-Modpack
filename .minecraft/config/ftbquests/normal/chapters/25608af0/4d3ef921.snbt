@@ -1,0 +1,17 @@
+{
+	x: 3.0d,
+	y: -1.5d,
+	dependencies: [
+		"db9dab89"
+	],
+	tasks: [{
+		uid: "61f08c15",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "betterwithaddons:sapling_luretree"
+		}]
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: -4.0d,
+	y: 5.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"67e1f794",
+		"61306f8b"
+	],
+	tasks: [{
+		uid: "35cb338b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "mist:rubber"
+		}]
+	}]
+}

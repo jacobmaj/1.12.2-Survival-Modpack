@@ -1,0 +1,27 @@
+{
+	x: 7.5d,
+	y: 0.0d,
+	text: [
+		"Craft an Ancient Codex. ",
+		"",
+		"This tablet will walk you through the steps towards mastering Embers.",
+		"",
+		"Left-click an entry to read it, and right-click when you're ready to progress."
+	],
+	dependencies: [
+		"6bada3bc"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "34ad5d04",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "embers:codex"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

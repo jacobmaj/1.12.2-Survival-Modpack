@@ -1,0 +1,51 @@
+{
+	title: "☆",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "thebetweenlands:spirit_tree_face_large_mask"
+	},
+	x: 0.0d,
+	y: 12.5d,
+	shape: "hexagon",
+	text: [
+		""
+	],
+	dependencies: [
+		"8831d9df"
+	],
+	tasks: [{
+		uid: "b011e0dc",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:bark_amulet"
+		},
+		entity: "thebetweenlands:spirit_tree_face_large",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "36af0cbc",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:sapling_spirit_tree"
+		}
+	},
+	{
+		uid: "9304c8f8",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "scalinghealth:crystalshard"
+		},
+		count: 2
+	}]
+}

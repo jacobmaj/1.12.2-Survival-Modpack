@@ -1,0 +1,41 @@
+{
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "iceandfire:cockatrice_skull"
+	},
+	x: 9.5d,
+	y: 12.0d,
+	shape: "hexagon",
+	text: [
+		""
+	],
+	dependencies: [
+		"a345a16c"
+	],
+	hide: true,
+	tasks: [{
+		uid: "b0cf9c75",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "iceandfire:cockatrice_skull"
+		},
+		entity: "iceandfire:if_cockatrice",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "471c79c9",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "scalinghealth:crystalshard"
+		},
+		count: 2
+	}]
+}

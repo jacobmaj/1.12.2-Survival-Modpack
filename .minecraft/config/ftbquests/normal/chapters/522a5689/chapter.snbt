@@ -1,0 +1,12 @@
+{
+	title: "Way of the Magician",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "ebwizardry:grand_crystal"
+	},
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

@@ -1,0 +1,41 @@
+{
+	x: 8.5d,
+	y: -0.5d,
+	shape: "hexagon",
+	tasks: [{
+		uid: "6bb09205",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:skull",
+			tag: {
+				SkullOwner: {
+					Id: "732ab0b0-548a-490b-8681-aa1ca92b11a1",
+					Properties: {
+						textures: [{
+							Signature: "ldwhDto7wk8qK9jpOpSGhu8aoOmKGHXBbrZEOvhweZ1GHDQnJ6U+lovTDkOqobfOuFmJ+jHqM6Tic3hGMqy67Zg4bePiPtKm189qw/wAow4Bs+E9lJVyISLBWZiJW4yAPYBhkd7bOe2TjtX2ZwKcS1H0HOFIMBqJn+r8o4DZELItH9suUKWD3fmMxP3EAzlU7HppM5H9LhzfCf+oqP1DZqLa/2hquVxLH2r7C3xU2bPnZfwj4ukDgdV3+uLwt3T+//TwQeOvPzjnzpoL4avMqAb7HdWjLlqkKHxXAijsIsCNQqABnStm7O2305mOWSF9ubHxz+rE4tH/51Q66WHAEv/PFswN9fCK/7XNSrQGMyhAbpUYhIY0G+byHBe96kSWhoIbk4h3xDeS8k9iSigOZuI2GC1BfIYQTYEYntPBORmjsO/SY7qxoVI7MosaqZymtGmrob25gkMovOJ/z6m42SNWR0TdEs+QGSNZxuiHzvjxcYl0fgIjAL9nMfo3gKpEZAWGUIhKWLpqL2hPDXwEBNerL8ApEqRY+ReYMhFkIYNwXiaYk8d96bqYUhgRvDcs82v6GZJape5hfZYbbO5JO1kN0+a47hbaPElPI5fYUnLK6rtt6pzXRJhiIGKbrflHFtk2D1qyo7lHBcSVw7fU0bv1IOHggREWr7BLjyUHbBk=",
+							Value: "ewogICJ0aW1lc3RhbXAiIDogMTY1NTE4MjI4NTg3MSwKICAicHJvZmlsZUlkIiA6ICI3MzJhYjBiMDU0OGE0OTBiODY4MWFhMWNhOTJiMTFhMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNSEZfRUd1YXJkaWFuIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2NkMTVjNmQzNmExNWRjMGRkYzRhMDRkMTczZTlkMmRhYTBiYTMzMDAwNjhlYTFhOWYxNjBkYWMyMjczMzIzYmQiCiAgICB9CiAgfQp9"
+						}]
+					},
+					Name: "MHF_EGuardian"
+				}
+			},
+			Damage: 3s
+		},
+		entity: "minecraft:elder_guardian",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "4d1531d9",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "scalinghealth:crystalshard"
+		},
+		count: 2
+	}]
+}

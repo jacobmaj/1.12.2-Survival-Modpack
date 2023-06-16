@@ -1,0 +1,39 @@
+{
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "twilightforest:magic_beans"
+	},
+	x: 0.0d,
+	y: 0.5d,
+	dependencies: [
+		"c4f1ef90",
+		"6ef095ce",
+		"c596ffb8"
+	],
+	size: 1.3d,
+	tasks: [{
+		uid: "b02bce76",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:magic_beans"
+		}]
+	},
+	{
+		uid: "4ee4b189",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:uberous_soil"
+		},
+		match_type: "block_id",
+		match: "twilightforest:uberous_soil",
+		timer: 0L
+	}]
+}

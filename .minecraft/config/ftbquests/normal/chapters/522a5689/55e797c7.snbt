@@ -1,0 +1,17 @@
+{
+	x: 2.5d,
+	y: 0.5d,
+	text: [
+		"Researches Stone Tablets at the cost of Magic Crystals."
+	],
+	tasks: [{
+		uid: "aac4f3f2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "ancientspellcraft:sphere_cognizance"
+		}]
+	}]
+}

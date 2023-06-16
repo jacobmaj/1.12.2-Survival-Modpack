@@ -1,0 +1,35 @@
+{
+	title: "☆",
+	x: 1.5d,
+	y: 7.0d,
+	shape: "hexagon",
+	text: [
+		""
+	],
+	dependencies: [
+		"85774193"
+	],
+	tasks: [{
+		uid: "64b98e4e",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "lost_aether:platinum_key"
+		},
+		entity: "lost_aether:king_aerwhale",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "167433ca",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "scalinghealth:crystalshard"
+		},
+		count: 2
+	}]
+}

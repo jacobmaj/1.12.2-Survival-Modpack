@@ -1,0 +1,35 @@
+{
+	x: 8.5d,
+	y: 12.0d,
+	shape: "hexagon",
+	text: [
+		""
+	],
+	dependencies: [
+		"a345a16c"
+	],
+	hide: true,
+	tasks: [{
+		uid: "424f37b6",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "iceandfire:stymphalian_skull"
+		},
+		entity: "iceandfire:stymphalianbird",
+		value: 3L
+	}],
+	rewards: [{
+		uid: "a9ec3f28",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "scalinghealth:crystalshard"
+		},
+		count: 2
+	}]
+}

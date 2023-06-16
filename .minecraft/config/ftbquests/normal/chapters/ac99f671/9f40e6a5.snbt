@@ -1,0 +1,41 @@
+{
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:torch"
+	},
+	x: 2.0d,
+	y: -8.5d,
+	text: [
+		"The darkness in this world can become overwhelming at times. As such, torches are vital to your survival. ",
+		"",
+		"Torches can be placed with [Middle Click] by default, as long as you have one in your hotbar."
+	],
+	dependencies: [
+		"6f92d13c"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "dec88799",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:torch"
+		}],
+		count: 16L
+	},
+	{
+		uid: "9f555e46",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "tconstruct:stone_torch"
+		}],
+		count: 16L
+	}]
+}

@@ -1,0 +1,36 @@
+{
+	x: 1.5d,
+	y: 6.0d,
+	dependencies: [
+		"60da6dca"
+	],
+	tasks: [{
+		uid: "e8463f12",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "defiledlands:phytoprostasia_amulet",
+			tag: {
+				Quality: {
+					Slots: [
+						"baubles_trinket"
+					],
+					Color: "green",
+					AttributeModifiers: [{
+						UUIDMost: -1443596353325283632L,
+						UUIDLeast: -5419406005450296030L,
+						Amount: 1.0d,
+						AttributeName: "generic.attackDamage",
+						Operation: 0,
+						Name: "qualitytools"
+					}],
+					Name: "Brutal"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

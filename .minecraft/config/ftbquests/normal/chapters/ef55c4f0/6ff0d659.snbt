@@ -1,0 +1,84 @@
+{
+	x: 8.5d,
+	y: 5.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"85774193"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "792a2cbb",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aether_legacy:moa_egg",
+			tag: {
+				typeId: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "fb2c247c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aether_legacy:moa_egg",
+			tag: {
+				typeId: 1
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "6972a61a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aether_legacy:moa_egg",
+			tag: {
+				typeId: 2
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "01873eab",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aether_legacy:moa_egg",
+			tag: {
+				typeId: 3
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "a0407ca1",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aether_legacy:moa_egg",
+			tag: {
+				typeId: 4
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

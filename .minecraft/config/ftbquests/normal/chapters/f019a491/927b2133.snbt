@@ -1,0 +1,53 @@
+{
+	title: "☆",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "twilightforest:giant_sword"
+	},
+	x: 0.0d,
+	y: 1.9500000000000002d,
+	shape: "hexagon",
+	text: [
+		""
+	],
+	dependencies: [
+		"d38f145d"
+	],
+	size: 1.3d,
+	tasks: [{
+		uid: "31d73596",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:giant_sword"
+		},
+		entity: "ancientbeasts:giant_zombie",
+		value: 1L
+	},
+	{
+		uid: "a48a7abc",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:giant_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "11ec81de",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "scalinghealth:crystalshard"
+		}
+	}]
+}

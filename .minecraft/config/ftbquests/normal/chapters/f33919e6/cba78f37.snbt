@@ -1,0 +1,20 @@
+{
+	x: -9.0d,
+	y: 9.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"8831d9df"
+	],
+	tasks: [{
+		uid: "ea06d402",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:volarkite"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

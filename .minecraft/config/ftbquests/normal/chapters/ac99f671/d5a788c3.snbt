@@ -1,0 +1,21 @@
+{
+	x: -2.0d,
+	y: -8.5d,
+	text: [
+		"A Campfire will slowly cook food without the need for fuel."
+	],
+	dependencies: [
+		"6f92d13c"
+	],
+	optional: true,
+	tasks: [{
+		uid: "7de1ba20",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "futuremc:campfire"
+		}]
+	}]
+}

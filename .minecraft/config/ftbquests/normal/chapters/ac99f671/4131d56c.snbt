@@ -1,0 +1,47 @@
+{
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "nyx:lunar_water_bottle"
+	},
+	x: -4.5d,
+	y: -2.0d,
+	text: [
+		"By filling a Cauldron with water and exposing it to the night sky, it will begin to bubble. ",
+		"",
+		"Throwing Lapis Lazuli into the moon-infused water will create Lunar Water, a powerful healing conconction.",
+		"",
+		"By either drinking this liquid in a bottle, or by bathing in a Cauldron with it, you will receive a strong Regeneration effect."
+	],
+	dependencies: [
+		"346126f1"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "a839f4a7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "lunar_water",
+				Amount: 1000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 2b
+	},
+	{
+		uid: "9301257d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "nyx:lunar_water_bottle"
+		}]
+	}]
+}

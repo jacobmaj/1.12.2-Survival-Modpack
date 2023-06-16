@@ -1,0 +1,41 @@
+{
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "thebetweenlands:bl_bucket_plant_tonic",
+		tag: {}
+	},
+	x: 7.0d,
+	y: 5.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"f31bd5bd"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "2e43a7e0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:bl_bucket_plant_tonic",
+			tag: {}
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "a3ec938f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:bl_bucket_plant_tonic",
+			tag: {},
+			Damage: 1s
+		}],
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,71 @@
+	Press [J] by default to toggle autojump.
+	Hold [GRAVE] by default to veinmine ores.
+	Press [Middle Click] by default to place a torch from your hotbar.
+	Click the Teams button at the top left of your inventory to sync your progress with friends!
+	Your guidebook is vital to both your survival and progression.
+	Complete the central questlines of each to progress further.
+	Information-based items, such as compasses, are saved upon death.
+	Most crops grow in certain seasons only. Check the tooltip!
+	Keep track of the current season, and stockpile food before winter.
+	Mobs are much more cunning and ferocious in the winter.
+	Magic damage pierces through ordinary armor.
+	Waystones allow for quick travel, at the cost of experience.
+	Waystones can be found in nearly every village.
+	Villagers trade emeralds for valuable goods.
+	Aqueducts
+	Dragons migrate towards magical sources, and as such can't be found in the Overworld.
+	Totems don't need to be held to function.
+	Eating a variety of unique foods increases your total health.
+	Keep your shield upgraded to withstand greater attacks.
+	Hot Springs
+	Wearing a matching set of armor will grant a unique bonus.
+	Rustic
+	Upgrade your skills to use certain items and gain powerful perks.
+	Potions
+	Enchanting with a certain candle color will lead to specific enchantments.
+	A tamed fox can sniff out any block handed to them.
+	#Nyx + Meteors?
+	Are you sure you're summoning the Wither correctly?
+	As you progress, more fearsome foes will appear.
+	#Midnight
+	#Ores/Metallurgy
+	Rarely, gear can be found, cursed with sentience.
+	Lightning will target the closest metallic object.
+	#Fishing
+	Chests can be upgraded to store more goods.
+	Items such as the Compass and Depth Meter can help pinpoint your location.
+	#Illagers
+	Creating a strong base is vital to your survival.
+	Need help getting around? Craft a Grappling Hook!
+	Rain causes flowing water to turn into sources.
+	Fire Resistance doesn't outright prevent burning.
+	Use Smokers and Blast Furnaces to help with large amounts of smelting.
+	Try to make the most out of your food and raw resources.
+	#Blood Magic
+	#Wizardry
+	#Defiled Lands
+	#Daedalus Labyrinth
+	#Cyberware
+	#Garden Cloches
+	#Bounty Boards
+	#Betweenlands
+	#Better With Mods
+	#Horses + Astikors
+	#Moas
+	#The Aether
+	#The Beneath?
+	#The Nether
+	Beware of invading hordes...
+	You can dual wield weapons. Give it a swing!
+	Once your crops or livestock are grown, they grant experience and bonus drops.
+	Mobs will break your flimsy torches, but other light sources are safe.
+	Stand clear of falling trees!
+	Blood moons fill monsters with primal rage.
+	Harvest moons accelerate crop growth.
+	Pirate ships can hold tea leaves and saplings.
+	Lead lost miners to the surface and be rewarded with emeralds, plus a friend!
+	Guards will protect villages from criminals and monsters alike.
+	#Village Escapees
+	Craft a soul compass as soon as possible to mitigate the risk of death.
+	#LOOK THRU QUEST BOOK FOR MORE TIPS
+	#DOUBLE CHECK MODLIST FOR MORE TIPS

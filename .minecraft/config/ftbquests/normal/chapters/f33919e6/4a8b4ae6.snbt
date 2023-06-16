@@ -1,0 +1,30 @@
+{
+	x: 11.5d,
+	y: 9.5d,
+	text: [
+		"Dropped by Infestations. ",
+		"",
+		"Right-clicking a Weedwood Bush with a Pheromone Thorax will cause the bush to progress through the stages of infestation, from Moths, to Silk Grubs, to Silk Cocoons, to Decay, until only a Dead Weedwood Bush is left.",
+		"",
+		"When broken, Silk Grub Infested and Silk Cocooned Bushes will drop 1 Silk Grub or 1 Silk Cocoon, respectively. All other stages will drop nothing.",
+		"",
+		"When right clicked with shears, the infested bush becomes a Weedwood Bush, dropping 2 of the respective item."
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"8831d9df"
+	],
+	tasks: [{
+		uid: "45d7418d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:pheromone_thorax",
+			Count: 1b
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

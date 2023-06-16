@@ -1,0 +1,8 @@
+{
+	"parent": "contenttweaker:block/decayingScaffoldParent",
+
+	"textures": {
+		"all": "contenttweaker:blocks/decayingScaffold",
+		"particle": "contenttweaker:blocks/decayingScaffold"
+	}
+}

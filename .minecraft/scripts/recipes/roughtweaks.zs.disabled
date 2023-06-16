@@ -1,0 +1,3 @@
+recipes.removeByMod("roughtweaks");
+
+recipes.addShapeless(<roughtweaks:salve>, [<rustic:aloe_vera>,<rustic:aloe_vera>,<minecraft:bowl>]);

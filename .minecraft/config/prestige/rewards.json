@@ -1,0 +1,16 @@
+[
+  {
+    "identifier": "uncrafting_table",
+    "title": "Uncrafting Table",
+    "description": "Uncrafts items at the cost of EXP.",
+    "icon": "{ForgeCaps:{\"wizardryutils:summoneditemdata\":{}},id:\"twilightforest:uncrafting_table\",Count:1,Damage:0s}",
+    "x": 177,
+    "y": 17,
+    "cost": 10,
+    "sellPrice": 7,
+    "parents": [],
+    "partialParents": false,
+    "children": [],
+    "placed": true
+  }
+]

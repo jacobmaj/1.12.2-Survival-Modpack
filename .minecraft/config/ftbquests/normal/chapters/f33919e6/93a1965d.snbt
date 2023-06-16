@@ -1,0 +1,18 @@
+{
+	x: -8.0d,
+	y: 3.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"8831d9df"
+	],
+	tasks: [{
+		uid: "b4a61173",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:sap_ball"
+		}]
+	}]
+}

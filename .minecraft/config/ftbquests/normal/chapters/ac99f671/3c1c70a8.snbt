@@ -1,0 +1,32 @@
+{
+	x: 10.5d,
+	y: -2.5d,
+	shape: "hexagon",
+	dependencies: [
+		"ca027e3a"
+	],
+	hide: true,
+	tasks: [{
+		uid: "323f49fb",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "toroquest:dwarven_artifact"
+		},
+		entity: "toroquest:toroquest_construct_quest",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "10166214",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "scalinghealth:crystalshard"
+		},
+		count: 2
+	}]
+}

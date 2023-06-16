@@ -1,0 +1,44 @@
+{
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "bountifulbaubles:potionrecall"
+	},
+	x: 9.5d,
+	y: -10.0d,
+	text: [
+		"Recall Potions can be found as loot, or brewed using Nether Quartz. Drinking one will send you to your spawnpoint.",
+		"",
+		"",
+		"The Totem of Recalling can be found as loot, as well as crafted.",
+		"",
+		"To use, the Totem first needs a location to return to, which can be done using [Shift]+Right Click. ",
+		"",
+		"Next time you Right Click with the Totem, it will send you to that location at the expense of one charge.",
+		"",
+		"The Totem can be recharged with Recall Potions in an Anvil."
+	],
+	tasks: [{
+		uid: "56b747f5",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "bountifulbaubles:potionrecall"
+		}]
+	},
+	{
+		uid: "22959eae",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "charm:totem_of_returning"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
