@@ -21,3 +21,6 @@ recipes.remove(<quark:rope>);
 recipes.addShaped(<quark:rope>*8, [[<ore:string>,<ore:string>,<ore:string>],
 [<ore:string>,null,<ore:string>],
 [<ore:string>,<ore:string>,<ore:string>]]);
+
+### DIAMOND REPLACEMENT ### 
+recipes.replaceAllOccurences(<ore:gemDiamond>, <betterwithmods:material:45>, <quark:pickarang>);

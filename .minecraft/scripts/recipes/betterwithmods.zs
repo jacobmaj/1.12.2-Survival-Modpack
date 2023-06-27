@@ -28,15 +28,24 @@ recipes.addShapeless(<betterwithmods:material:3> * 2, [<betterwithmods:material:
 
 recipes.addShapeless(<minecraft:string>, [<betterwithmods:material:3>,<betterwithmods:material:3>,<betterwithmods:material:3>,<betterwithmods:material:3>]);
 
+recipes.remove(<betterwithmods:material:45>);
+
+
+
 ### MILL RECIPES ###
 
 //Mill.addRecipe([INPUT],[OUTPUT]);
 
 Mill.remove([<betterwithmods:material:3>]);
 Mill.addRecipe([<betterwithmods:material:2>],[<betterwithmods:material:3>*4]);
-Mill.addRecipe([<defiledlands:scuronotte>*8,<contenttweaker:mutantzombieheart>],[<defiledlands:defilement_powder>*4]);
 Mill.addRecipe([<minecraft:redstone>*4,<mist:bio_shale>*4],[<minecraft:glowstone_dust>*8]);
 Mill.addRecipe([<mist:humus>,<mist:sapropel_ball>,<mist:remains_block:7>,<mist:mulch_block>],[<betterwithmods:fertilizer>*3]);
+Mill.builder()
+.buildRecipe([<defiledlands:umbrium_ingot>*4,<contenttweaker:mutantzombieheart>],[<defiledlands:defilement_powder>*4])
+.setPriority(3)
+.setGrindType("minecraft:entity.zombie.death")
+.build();
+
 
 
 ### CAULDRON RECIPES ###
@@ -44,6 +53,7 @@ Mill.addRecipe([<mist:humus>,<mist:sapropel_ball>,<mist:remains_block:7>,<mist:m
 
 //mods.betterwithmods.Cauldron.addStoked([<ore:stoneDioritePolished>, <ore:slimeballPurple>, <minecraft:iron_ingot>, <minecraft:iron_ingot>],[<tconstruct:ingots:3>]);
 mods.betterwithmods.Cauldron.remove([<betterwithmods:material:50>]);
+
 
 
 ### ANVIL RECIPES ###

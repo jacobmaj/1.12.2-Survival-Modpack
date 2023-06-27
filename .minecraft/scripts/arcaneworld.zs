@@ -11,11 +11,13 @@ mods.ArcaneWorld.createRitualSummon("villagerSummon", "Conjure Villager", "minec
 //mods.ArcaneWorld.createRitualCreateItem("enderEyeCreation", "Vision of the Dread Queen", <minecraft:ender_eye>, 
 //[<iceandfire:dread_shard>,<minecraft:ender_pearl>]).build();
 
+/*
 mods.ArcaneWorld.createRitualCreateItem("lowerPortalCreation", "Lower Portal Creation", <mist:portal_base>,
 [<ore:blockPrismarine>,<minecraft:gold_ingot>,<biomesoplenty:gem:*>,<minecraft:diamond>]).build();
 
 mods.ArcaneWorld.createRitualCreateItem("upperPortalCreation", "Upper Portal Creation", <mist:portal_base:1>,
 [<ore:blockClay>,<minecraft:gold_ingot>,<minecraft:fermented_spider_eye>,mushroom]).build();
+*/
 
 mods.ArcaneWorld.createRitualSummon("quazarSummon", "Conjure Quazar", "betterslimes:quazar", [<nyx:fallen_star>,<mist:sulfur_block>,slimeBlock,<minecraft:lava_bucket>,<contenttweaker:mutantzombieheart>]).build();
 

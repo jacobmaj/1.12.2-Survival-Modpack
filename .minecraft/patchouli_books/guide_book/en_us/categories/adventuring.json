@@ -1,6 +1,6 @@
 {
     "name": "Adventuring",
     "description": "Entries about discovery, combat, and getting around -- with style.",
-    "icon": "minecraft:filled_map",
+    "icon": "biomesoplenty:earth",
 	"sortnum": 1
 }

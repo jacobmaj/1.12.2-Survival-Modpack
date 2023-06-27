@@ -18,6 +18,37 @@ recipes.addShapeless(<spartanweaponry:material:1>,
 recipes.addShapeless(<spartanweaponry:material:1>,
 [<ore:stickWood>,<ore:stickWood>,<ore:leather>]);
 
+### DIAMOND REPLACEMENT ###
+
+recipes.replaceAllOccurences(<ore:gemDiamond>, <betterwithmods:material:45>, <spartanweaponry:warhammer_diamond>);
+recipes.replaceAllOccurences(<ore:gemDiamond>, <betterwithmods:material:45>, <spartanweaponry:throwing_knife_diamond>);
+recipes.replaceAllOccurences(<ore:gemDiamond>, <betterwithmods:material:45>, <spartanweaponry:throwing_axe_diamond>);
+recipes.replaceAllOccurences(<ore:gemDiamond>, <betterwithmods:material:45>, <spartanweaponry:spear_diamond>);
+recipes.replaceAllOccurences(<ore:gemDiamond>, <betterwithmods:material:45>, <spartanweaponry:saber_diamond>);
+recipes.replaceAllOccurences(<ore:gemDiamond>, <betterwithmods:material:45>, <spartanweaponry:rapier_diamond>);
+recipes.replaceAllOccurences(<ore:gemDiamond>, <betterwithmods:material:45>, <spartanweaponry:pike_diamond>);
+recipes.replaceAllOccurences(<ore:gemDiamond>, <betterwithmods:material:45>, <spartanweaponry:parrying_dagger_diamond>);
+recipes.replaceAllOccurences(<ore:gemDiamond>, <betterwithmods:material:45>, <spartanweaponry:mace_diamond>);
+recipes.replaceAllOccurences(<ore:gemDiamond>, <betterwithmods:material:45>, <spartanweaponry:longsword_diamond>);
+recipes.replaceAllOccurences(<ore:gemDiamond>, <betterwithmods:material:45>, <spartanweaponry:longbow_diamond>);
+recipes.replaceAllOccurences(<ore:gemDiamond>, <betterwithmods:material:45>, <spartanweaponry:lance_diamond>);
+recipes.replaceAllOccurences(<ore:gemDiamond>, <betterwithmods:material:45>, <spartanweaponry:katana_diamond>);
+recipes.replaceAllOccurences(<ore:gemDiamond>, <betterwithmods:material:45>, <spartanweaponry:javelin_diamond>);
+recipes.replaceAllOccurences(<ore:gemDiamond>, <betterwithmods:material:45>, <spartanweaponry:hammer_diamond>);
+recipes.replaceAllOccurences(<ore:gemDiamond>, <betterwithmods:material:45>, <spartanweaponry:halberd_diamond>);
+recipes.replaceAllOccurences(<ore:gemDiamond>, <betterwithmods:material:45>, <spartanweaponry:greatsword_diamond>);
+recipes.replaceAllOccurences(<ore:gemDiamond>, <betterwithmods:material:45>, <spartanweaponry:glaive_diamond>);
+recipes.replaceAllOccurences(<ore:gemDiamond>, <betterwithmods:material:45>, <spartanweaponry:greatsword_diamond>);
+recipes.replaceAllOccurences(<ore:gemDiamond>, <betterwithmods:material:45>, <spartanweaponry:glaive_diamond>);
+recipes.replaceAllOccurences(<ore:gemDiamond>, <betterwithmods:material:45>, <spartanweaponry:dagger_diamond>);
+recipes.replaceAllOccurences(<ore:gemDiamond>, <betterwithmods:material:45>, <spartanweaponry:crossbow_diamond>);
+recipes.replaceAllOccurences(<ore:gemDiamond>, <betterwithmods:material:45>, <spartanweaponry:boomerang_diamond>);
+recipes.replaceAllOccurences(<ore:gemDiamond>, <betterwithmods:material:45>, <spartanweaponry:battleaxe_diamond>);
+recipes.replaceAllOccurences(<ore:gemDiamond>, <betterwithmods:material:45>, <spartanweaponry:arrow_diamond>);
+recipes.replaceAllOccurences(<ore:gemDiamond>, <betterwithmods:material:45>, <spartanweaponry:bolt_diamond>);
+recipes.replaceAllOccurences(<ore:gemDiamond>, <betterwithmods:material:45>, <spartanweaponry:quiver_arrow_heavy>);
+recipes.replaceAllOccurences(<ore:gemDiamond>, <betterwithmods:material:45>, <spartanweaponry:quiver_bolt_heavy>);
+recipes.replaceAllOccurences(<ore:gemDiamond>, <betterwithmods:material:45>, <spartanshields:shield_basic_diamond>);
 
 /*
 //BETWEENLANDS SPARTANRY COMPAT

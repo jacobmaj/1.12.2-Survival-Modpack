@@ -1,0 +1,7 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:Previous Death 2,x:-83,z:266,y:64,enabled:true,red:0.8828125,green:0.8828125,blue:0.8828125,suffix:skull,world:,dimensions:0#
+name:Previous Death 1,x:-67,z:275,y:62,enabled:true,red:0.9375,green:0.9375,blue:0.9375,suffix:skull,world:,dimensions:0#
+name:Latest Death,x:1000,z:1044,y:67,enabled:true,red:1.0,green:1.0,blue:1.0,suffix:skull,world:,dimensions:0#
+name:Home,x:4,z:242,y:69,enabled:true,red:0.40349573,green:0.425264,blue:0.26476884,suffix:,world:,dimensions:0#

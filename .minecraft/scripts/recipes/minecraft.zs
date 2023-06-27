@@ -49,6 +49,18 @@ recipes.remove(<minecraft:purple_shulker_box>);
 recipes.remove(<minecraft:wooden_hoe>);
 recipes.remove(<minecraft:stone_hoe>);
 
+### DIAMOND REPLACEMENT ###
+
+recipes.replaceAllOccurences(<ore:gemDiamond>, <betterwithmods:material:45>, <minecraft:diamond_sword>);
+recipes.replaceAllOccurences(<ore:gemDiamond>, <betterwithmods:material:45>, <minecraft:diamond_shovel>);
+recipes.replaceAllOccurences(<ore:gemDiamond>, <betterwithmods:material:45>, <minecraft:diamond_pickaxe>);
+recipes.replaceAllOccurences(<ore:gemDiamond>, <betterwithmods:material:45>, <minecraft:diamond_axe>);
+recipes.replaceAllOccurences(<ore:gemDiamond>, <betterwithmods:material:45>, <minecraft:diamond_hoe>);
+recipes.replaceAllOccurences(<ore:gemDiamond>, <betterwithmods:material:45>, <minecraft:diamond_helmet>);
+recipes.replaceAllOccurences(<ore:gemDiamond>, <betterwithmods:material:45>, <minecraft:diamond_chestplate>);
+recipes.replaceAllOccurences(<ore:gemDiamond>, <betterwithmods:material:45>, <minecraft:diamond_leggings>);
+recipes.replaceAllOccurences(<ore:gemDiamond>, <betterwithmods:material:45>, <minecraft:diamond_boots>);
+
 ### QUALITY TOOLS ###
 
 recipes.remove(<qualitytools:reforging_station>);

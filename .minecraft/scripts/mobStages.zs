@@ -23,8 +23,10 @@ mods.MobStages.addStage("betweenlands", "lycanitesmobs:arisaur");
 
 ### nether ###
 mods.MobStages.addStage("nether", "minecraft:wither_skeleton");
+/*
 mods.MobStages.addReplacement("minecraft:wither_skeleton", "specialmobs:fireskeleton");
 mods.MobStages.addReplacement("minecraft:wither_skeleton", "specialmobs:fireskeleton");
+*/
 
 //TODO
 //mods.MobStages.addStage("nether", "embers:ancient_golem");

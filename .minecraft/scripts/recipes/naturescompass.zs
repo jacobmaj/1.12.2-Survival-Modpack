@@ -1,3 +1,3 @@
-mods.jei.JEI.removeAndHide(<naturescompass:naturescompass>);
+//mods.jei.JEI.removeAndHide(<naturescompass:naturescompass>);
 
 <naturescompass:naturescompass>.displayName = "Biome Compass";

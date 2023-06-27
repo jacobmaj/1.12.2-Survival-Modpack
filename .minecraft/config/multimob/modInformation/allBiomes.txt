@@ -87,9 +87,7 @@ biomesoplenty:lush_desert
 biomesoplenty:lush_swamp
 biomesoplenty:mangrove
 biomesoplenty:maple_woods
-biomesoplenty:marsh
 biomesoplenty:meadow
-biomesoplenty:moor
 biomesoplenty:mountain
 biomesoplenty:mystic_grove
 biomesoplenty:ominous_woods

@@ -1,26 +1,50 @@
 {
-  enabled: true
-  biomes: {}
   dimensions: [ 0 ]
-  biomeBlacklist: false
-  dimensionBlacklist: false
-  replaceableBlocks: [ "stone", "dirt" ]
+  replaceableBlocks: [ "minecraft:stone", "minecraft:dirt", "minecraft:air", "minecraft:grass" ]
   replaceDecorators: true
-  caveBlocks: {
-    states: water
-    height: [ 0, 10 ]
-  }
-  wallDecorators: []
-  rooms: { scale: 0 }
-  tunnels: {}
-  ravines: {}
   caverns: {
-    enabled: false # Removed in 1.0. You can delete this field.
+    height: [ 16, 72 ]
+    generators: {
+      frequency: 0.015
+      gain: 0.4
+      type: Cellular
+      returnType: Distance3Div
+      jitter: 0.75
+      perturb: true
+      perturbAmp: 10
+      perturbFreq: 0.025
+      invert: true
+      threshold: -0.4
+      stretch: 0.58
+    }
   }
-  structures: []
-  clusters: []
-  largeStalactites: []
-  largeStalagmites: []
-  layers: []
-  pillars: []
+  rooms: {
+    scale: 7
+    stretch: 0.8
+  }
+  tunnels: {
+    # Most tunnels will spawn alone.
+    systemChance: 0.00050
+    noiseYReduction: false
+    resizeBranches: false
+    scale: {
+      randFactor: 0
+      startVal: 4.5
+      startValRandFactor: 0
+    }
+    dPitch: {
+      factor: 0.6
+    }
+    # Spawn rate roughly in half.
+    count: 7
+    stretch: {
+      randFactor: 0
+      startVal: 0.6
+    }
+  }
+  caveBlocks: {
+    states: lava
+    height: [ 0, 9 ]
+  }
+  enabled: true
 }

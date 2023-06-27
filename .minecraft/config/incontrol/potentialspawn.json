@@ -1,239 +1,234 @@
 [
-	{
+	{//Mist underworld mobs
 		"dimension": 69,
 		"maxheight": 101,
 		"mobs": [
 			{
 				"mob": "lycanitesmobs:wraamon",
 				"weight": 3
-			}
-		]
-	},
-	
-	{
-		"dimension": 69,
-		"maxheight": 101,
-		"mobs": [
+			},
 			{
 			"mob": "mutantbeasts:mutant_zombie",
 			"weight": 1,
 			"groupcountmax": 1
-			}
-		]
-	},
-	{
-		"dimension": 69,
-		"mobs": [
-			{
-				"mob": "lycanitesmobs:tarantula",
-				"weight": 1
-			}
-		]
-	},
-	{
-		"dimension": 69,
-		"minheight": 47,
-		"mobs": [
-			{
-				"mob": "lycanitesmobs:geonach",
-				"weight": 1
-			}
-		]
-	},
-	{
-		"dimension": 69,
-		"minheight": 127,
-		"mobs": [
-			{
-				"mob": "lycanitesmobs:geken",
-				"weight": 1
-			}
-		]
-	},
-	{
-		"dimension": 69,
-		"minheight": 127,
-		"mobs": [
-			{
-				"mob": "lycanitesmobs:kobold",
-				"weight": 3
-			}
-		]
-	},
-	{
-		"dimension": 69,
-		"minheight": 127,
-		"mobs": [
-			{
-				"mob": "lycanitesmobs:jabberwock",
-				"weight": 1
-			}
-		]
-	},
-	{
-		"dimension": 69,
-		"minheight": 127,
-		"mobs": [
-			{
-				"mob": "lycanitesmobs:yale",
-				"weight": 1
-			}
-		]
-	},
-	{
-		"dimension": 69,
-		"minheight": 127,
-		"mobs": [
-			{
-				"mob": "lycanitesmobs:barghest",
-				"weight": 1
-			}
-		]
-	},
-	{
-		"dimension": 69,
-		"minheight": 127,
-		"mobs": [
-			{
-				"mob": "lycanitesmobs:feradon",
-				"weight": 1
-			}
-		]
-	},
-	{
-		"dimension": 69,
-		"minheight": 127,
-		"mobs": [
-			{
-				"mob": "lycanitesmobs:quillbeast",
-				"weight": 1
-			}
-		]
-	},
-	{
-		"dimension": 69,
-		"minheight": 127,
-		"mobs": [
-			{
-				"mob": "primitivemobs:harpy",
-				"weight": 2
-			}
-		]
-	},
-	{
-		"dimension": 69,
-		"minheight": 127,
-		"mobs": [
-			{
-				"mob": "mowziesmobs:naga",
-				"weight": 0.1,
-				"groupcountmax": 1
-			}
-		]
-	},
-	{
-		"dimension": 69,
-		"minheight": 47,
-		"mobs": [
-			{
-				"mob": "lycanitesmobs:calpod",
-				"weight": 1
-			}
-		]
-	},
-	{
-		"dimension": 69,
-		"minheight": 47,
-		"mobs": [
-			{
-				"mob": "lycanitesmobs:krake",
-				"weight": 1
-			}
-		]
-	},
-	{
-		"dimension": 69,
-		"mobs": [
-			{
-				"mob": "lycanitesmobs:ghoul",
-				"weight": 1
-			}
-		]
-	},
-	{
-		"dimension": 69,
-		"maxheight": 101,
-		"mobs": [
+			},
 			{
 				"mob": "mod_lavacow:undeadswine",
 				"weight": 1
-			}
-		]
-	},
-	{
-		"dimension": 69,
-		"mobs": [
-			{
-				"mob": "mod_lavacow:zombiemushroom",
-				"weight": 1
-			}
-		]
-	},
-	{
-		"dimension": 69,
-		"maxheight": 101,
-		"mobs": [
+			},
 			{
 				"mob": "mod_lavacow:boneworm",
 				"weight": 1
-			}
-		]
-	},
-	{
-		"dimension": 69,
-		"maxheight": 101,
-		"mobs": [
+			},
 			{
 				"mob": "mod_lavacow:banshee",
 				"weight": 2
 			}
 		]
 	},
-	{
+	{//Mist global mobs
 		"dimension": 69,
 		"mobs": [
+			{
+				"mob": "lycanitesmobs:tarantula",
+				"weight": 1
+			},
+			{
+				"mob": "lycanitesmobs:ghoul",
+				"weight": 1
+			},
+			{
+				"mob": "mod_lavacow:zombiemushroom",
+				"weight": 1
+			},
 			{
 				"mob": "mod_lavacow:foglet",
 				"weight": 2
-			}
-		]
-	},
-	{
-		"dimension": 69,
-		"mobs": [
+			},
 			{
 				"mob": "specialmobs:jumpingcreeper",
 				"weight": 2
-			}
-		]
-	},
-	{
-		"dimension": 69,
-		"minheight": 127,
-		"mobs": [
-			{
-				"mob": "betteranimalsplus:boar",
-				"weight": 10
-			}
-		]
-	},
-	{
-		"dimension": 69,
-		"mobs": [
+			},
 			{
 				"mob": "specialmobs:sniperskeleton",
 				"weight": 1
 			}
+		]
+	},
+	{//Mist midsection/roamer mobs
+		"dimension": 69,
+		"minheight": 47,
+		"mobs": [
+			{
+				"mob": "lycanitesmobs:geonach",
+				"weight": 1
+			},
+			{
+				"mob": "lycanitesmobs:calpod",
+				"weight": 1
+			},
+			{
+				"mob": "lycanitesmobs:krake",
+				"weight": 1
+			}
+		]
+	},
+	{//Mist warm mobs
+		"dimension": 69,
+		"minheight": 127,
+		"biometype": "WARM",
+		"mobs": [
+			
+		]
+	},
+	{//Mist cold mobs
+		"dimension": 69,
+		"minheight": 127,
+		"biometype": "COLD",
+		"mobs": [
+		]
+	},
+	{//Mist forest mobs
+		"dimension": 69,
+		"minheight": 127,
+		"biometype": "FOREST",
+		"mobs": [
+			
+		]
+	},
+	{//Mist aboveground mobs (boar not spawning)
+		"dimension": 69,
+		"minheight": 127,
+		"mobs": [
+			{
+				"mob": "lycanitesmobs:geken",
+				"weight": 1
+			},
+			{
+				"mob": "lycanitesmobs:feradon",
+				"weight": 1
+			},
+			{
+				"mob": "lycanitesmobs:jabberwock",
+				"weight": 1
+			},
+			{
+				"mob": "lycanitesmobs:yale",
+				"weight": 1
+			},
+			{
+				"mob": "lycanitesmobs:kobold",
+				"weight": 3
+			},
+			{
+				"mob": "lycanitesmobs:barghest",
+				"weight": 1
+			},
+			{
+				"mob": "primitivemobs:harpy",
+				"weight": 2
+			},
+			{
+				"mob": "mowziesmobs:naga",
+				"weight": 1,
+				"groupcountmax": 1
+			},
+			{
+				"mob": "betteranimalsplus:boar",
+				"weight": 1
+			},
+			{
+				"mob": "mist:barvog",
+				"weight": 1
+			},
+						{
+				"mob": "mist:momo",
+				"weight": 1
+			},
+						{
+				"mob": "mist:prickler",
+				"weight": 1
+			},
+						{
+				"mob": "mist:sniff",
+				"weight": 1
+			},
+			/*
+			{
+				"mob": "mist:swamp_crab",
+				"weight": 1
+			},
+			*/
+			{
+				"mob": "mist:sloth",
+				"weight": 1
+			},
+			{
+				"mob": "mist:wulder",
+				"weight": 1
+			},
+			{
+				"mob": "mist:caravan",
+				"weight": 1
+			},
+			/*
+			{
+				"mob": "mist:cyclops",
+				"weight": 1
+			},
+			{
+				"mob": "mist:desert_fish",
+				"weight": 1
+			},
+			*/
+			{
+				"mob": "mist:brachiodon",
+				"weight": 1
+			},
+			{
+				"mob": "mist:monk",
+				"weight": 1
+			},
+			/*
+			{
+				"mob": "mist:snow_flea",
+				"weight": 1
+			},
+			*/
+			{
+				"mob": "mist:forest_runner",
+				"weight": 1
+			},
+			/*
+			{
+				"mob": "mist:forest_spider",
+				"weight": 1
+			},
+			*/
+			{
+				"mob": "mist:galaga",
+				"weight": 1
+			},
+			{
+				"mob": "mist:horb",
+				"weight": 1
+			},
+			{
+				"mob": "mist:hulter",
+				"weight": 1
+			},
+			{
+				"mob": "mist:mossling",
+				"weight": 1
+			}/*,
+			{
+				"mob": "mist:woodlouse",
+				"weight": 1
+			}
+			*/
+			//mist:swamp_crab //swamp?
+			//mist:sloth //jungle?
+			//mist:wulder //plains?
 		]
 	}
 ]

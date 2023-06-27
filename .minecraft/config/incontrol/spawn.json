@@ -91,15 +91,6 @@
     "result": "deny"
 	},
 	{
-    "dimension": 69,
-    "mob": "lycanitesmobs:quillbeast",
-    "mincount": {
-        "amount": 2,
-	    "perplayer": true
-		},
-    "result": "deny"
-	},
-	{
 	"dimension": 69,
     "mob": "mist:forest_spider",
     "mincount": {
@@ -117,10 +108,16 @@
 		},
     "result": "deny"
 	},
+		{
+	"dimension": 69,
+    "mob": "mowziesmobs:naga",
+	"maxtime": 22500,
+	"result": "deny"
+	},
 	{
 	"dimension": 69,
     "mob": "mowziesmobs:naga",
-	"mintime": 13100,
+	"mintime": 23000,
 	"result": "deny"
 	},
 	{
@@ -145,7 +142,7 @@
     "dimension": 69,
     "mob": "lycanitesmobs:krake",
     "mincount": {
-        "amount": 4,
+        "amount": 2,
 	    "perchunk": true
 		},
     "result": "deny"
@@ -271,6 +268,17 @@
 		},
     "result": "deny"
 	},
+	/*
+	{
+    "mob": ["oe:drowned","oe:pickled"],
+    "mincount": {
+        "amount": 5,
+	    "perchunk": true
+		},
+    "result": "deny"
+	},
+	*/
+	
 	{
     "dimension": 0,
     "mod": "turtdance",

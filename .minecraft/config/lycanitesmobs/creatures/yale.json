@@ -22,7 +22,8 @@
     "dimensionListType": "blacklist",
     "ignoreBiome": false,
     "biomeTags": [
-      "mountain"
+      "mountain",
+	  "cold"
     ],
     "spawnWeight": 2,
     "dungeonWeight": 0,
