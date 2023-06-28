@@ -68,7 +68,7 @@ INIT() {
 	!dim_transitions:-1 = ["minecraft:netherrack", 4, "minecraft:netherrack", 4]; !The Nether has netherrack at both floor and ceiling
 	!dim_transitions:1 = ["minecraft:air", 0, "minecraft:air", 0]; !The End has air at both floor and ceiling
 	
-	!lower the portal ceiling height in the nether
+	!lower the portal ceiling height in the beneath
 	dim_ceiling:10 = 249;
 	!Note: setting dim_ceiling to negative values will flip the dimension upside down, meaning that floor and ceiling portals are swapped.
 	
@@ -89,7 +89,7 @@ INIT() {
 	
 	!custom block layers
 	!add("basicLayer", <dimId>, <blockstate>, [<startY>, <minY>, <maxY>, <endY>]#);
-	add("basicLayer", 0, "dimstack:bedrock@12", [118, 120, 121, 123]#); !put our fiery bedrock at nether celing just below the portal (rem '!' to enable)
+	!add("basicLayer", 0, "dimstack:bedrock@12", [118, 120, 121, 123]#); !put our fiery bedrock at nether celing just below the portal (rem '!' to enable)
 	
 	!remove the '!' in the following line to enable top half nether generation
 	!netherTop();

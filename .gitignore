@@ -1,6 +1,10 @@
 .minecraft/.ReAuth.cfg
 .minecraft/.mixin.out
 .minecraft/WailaErrorOutput.txt
+.minecraft/config/fantasticlib
+.minecraft/config/jei/worldSettings.cfg
+.minecraft/config/multimob/modInformation
+.minecraft/config/splash.properties
 .minecraft/XaeroWaypoints
 .minecraft/XaeroWaypoints_BACKUP*
 .minecraft/XaeroWorldMap
