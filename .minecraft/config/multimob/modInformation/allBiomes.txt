@@ -160,7 +160,6 @@ mist:down
 mist:down_forest
 mist:down_swamp
 mist:down_center
-ancientspellcraft:pocket
 twilightforest:twilight_lake
 twilightforest:twilight_forest
 twilightforest:dense_twilight_forest

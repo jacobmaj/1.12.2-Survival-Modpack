@@ -6,7 +6,6 @@ mods.MobStages.addStage("mistyworld", "lycanitesmobs:barghest");
 mods.MobStages.addStage("mistyworld", "lycanitesmobs:kobold");
 mods.MobStages.addStage("mistyworld", "lycanitesmobs:maug");
 mods.MobStages.addStage("mistyworld", "lycanitesmobs:calpod");
-mods.MobStages.addStage("mistyworld", "lycanitesmobs:tarantula");
 
 ### aether ###
 
@@ -16,6 +15,12 @@ mods.MobStages.addStage("aether", "lycanitesmobs:quetzodracl");
 
 ### postAether (defiledlands) ###
 
+### beneath
+
+mods.MobStages.addStage("beneath", "ancientbeasts:nekros");
+
+###
+
 ### betweenlands ###
 
 mods.MobStages.addStage("betweenlands", "betteranimalsplus:hirschgeist");
@@ -23,10 +28,12 @@ mods.MobStages.addStage("betweenlands", "lycanitesmobs:arisaur");
 
 ### nether ###
 mods.MobStages.addStage("nether", "minecraft:wither_skeleton");
-/*
-mods.MobStages.addReplacement("minecraft:wither_skeleton", "specialmobs:fireskeleton");
-mods.MobStages.addReplacement("minecraft:wither_skeleton", "specialmobs:fireskeleton");
-*/
+
+mods.MobStages.addStage("nether", "ancientbeasts:bonepile");
+mods.MobStages.addStage("nether", "ancientbeasts:frost_walker");
+mods.MobStages.addStage("nether", "ancientbeasts:frostash_fox");
+
+
 
 //TODO
 //mods.MobStages.addStage("nether", "embers:ancient_golem");
@@ -43,10 +50,9 @@ mods.MobStages.addStage("nether", "iceandfire:deathworm");
 
 mods.MobStages.addStage("nether", "primitivemobs:festive_creeper");
 
-mods.MobStages.addStage("nether", "ancientspellcraft:skeleton_mage");
+//mods.MobStages.addStage("nether", "ancientspellcraft:skeleton_mage");
 
 //not sure if works
-mods.MobStages.addStage("nether", "ancientbeasts:bonepile");
 
 mods.champions.addTierStage("nether", 1);
 mods.champions.addTierStage("nether", 2);

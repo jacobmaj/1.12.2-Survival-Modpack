@@ -8,8 +8,6 @@ LootTable.removeGlobalItem("minecraft:quartz");
 LootTable.removeGlobalItem("minecraft:glowstone_dust");
 LootTable.removeGlobalItem("minecraft:diamond_pickaxe");
 LootTable.removeGlobalItem("minecraft:ender_eye");
-
-
 LootTable.removeGlobalItem("minecraft:sapling:*");
 
 LootTable.removeGlobalItem("mysticalworld:copper_ingot");
@@ -29,11 +27,6 @@ LootTable.removeGlobalItem("cyberware:neuropozyne");
 
 //LootTable.removeGlobalItem("uniquecrops:genericfood.ennuipotion");
 
-LootTable.removeGlobalItem("aeble:regeneration_ring");
-LootTable.removeGlobalItem("aeble:bubble_ring");
-LootTable.removeGlobalItem("aeble:air_ring");
-
-
 LootTable.removeGlobalItem("xreliquary:phoenix_down");
 LootTable.removeGlobalItem("xreliquary:angelheart_vial");
 
@@ -44,6 +37,42 @@ LootTable.removeGlobalItem("bountifulbaubles:trinketbrokenheart");
 LootTable.removeGlobalItem("bountifulbaubles:magicmirror");
 
 LootTable.removeGlobalItem("aether_legacy:sun_altar");
+LootTable.removeGlobalItem("aether_legacy:iron_bubble");
+LootTable.removeGlobalItem("aether_legacy:regeneration_stone");
+LootTable.removeGlobalItem("aether_legacy:golden_feather");
+LootTable.removeGlobalItem("aether_legacy:valkyrie_cape");
+LootTable.removeGlobalItem("aether_legacy:agility_cape");
+LootTable.removeGlobalItem("aether_legacy:invisibility_cape");
+LootTable.removeGlobalItem("aether_legacy:swet_cape");
+LootTable.removeGlobalItem("aether_legacy:white_cape");
+LootTable.removeGlobalItem("aether_legacy:yellow_cape");
+LootTable.removeGlobalItem("aether_legacy:blue_cape");
+LootTable.removeGlobalItem("aether_legacy:red_cape");
+LootTable.removeGlobalItem("aether_legacy:ice_pendant");
+LootTable.removeGlobalItem("aether_legacy:zanite_pendant");
+LootTable.removeGlobalItem("aether_legacy:golden_pendant");
+LootTable.removeGlobalItem("aether_legacy:iron_pendant");
+LootTable.removeGlobalItem("aether_legacy:ice_ring");
+LootTable.removeGlobalItem("aether_legacy:zanite_ring");
+LootTable.removeGlobalItem("aether_legacy:golden_ring");
+LootTable.removeGlobalItem("aether_legacy:iron_ring");
+LootTable.removeGlobalItem("aether_legacy:valkyrie_gloves");
+LootTable.removeGlobalItem("aether_legacy:obsidian_gloves");
+LootTable.removeGlobalItem("aether_legacy:phoenix_gloves");
+LootTable.removeGlobalItem("aether_legacy:neptune_gloves");
+LootTable.removeGlobalItem("aether_legacy:gravitite_gloves");
+LootTable.removeGlobalItem("aether_legacy:zanite_gloves");
+LootTable.removeGlobalItem("aether_legacy:repulsion_shield");
+LootTable.removeGlobalItem("aether_legacy:lightning_sword");
+
+
+LootTable.removeGlobalItem("lost_aether:agility_boots");
+LootTable.removeGlobalItem("lost_aether:power_gloves");
+LootTable.removeGlobalItem("lost_aether:phoenix_cape");
+LootTable.removeGlobalItem("lost_aether:invisibility_gem");
+LootTable.removeGlobalItem("aeble:regeneration_ring");
+LootTable.removeGlobalItem("aeble:bubble_ring");
+LootTable.removeGlobalItem("aeble:air_ring");
 
 LootTable.removeGlobalItem("everlastingabilities:ability_totem");
 
@@ -55,6 +84,8 @@ LootTable.removeGlobalItem("minestrapp:heart_piece");
 LootTable.removeGlobalItem("minestrapp:heart_container");
 
 LootTable.removeGlobalItem("lycanitesmobs:wintergift");
+
+LootTable.removeGlobalItem("ancientbeasts:rifted_pearl");
 
 //behgameon items removed because of ugly sprites:
 LootTable.removeGlobalItem("behgameon:ring_53");
@@ -79,7 +110,6 @@ LootTable.removeGlobalItem("behgameon:shield15");
 LootTable.removeGlobalItem("behgameon:shield1");
 LootTable.removeGlobalItem("behgameon:shield2");
 LootTable.removeGlobalItem("behgameon:shield15");
-
 LootTable.removeGlobalItem("behgameon:accessory_1");
 LootTable.removeGlobalItem("behgameon:accessory_2");
 LootTable.removeGlobalItem("behgameon:accessory_3");

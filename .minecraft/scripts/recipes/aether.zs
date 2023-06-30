@@ -8,6 +8,7 @@ import mods.aether_legacy.Freezer;
 //Enchanter.registerEnchanterFuel(item,healTime);
 //mods.aether_legacy.Freezer.removeFreezable(item);
 
+recipes.removeByMod("aeble");
 
 JEI.removeAndHide(<aeble:zanite_ring>);
 JEI.removeAndHide(<aeble:obsidian_ring>);
