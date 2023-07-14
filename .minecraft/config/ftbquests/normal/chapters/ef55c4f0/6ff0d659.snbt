@@ -10,12 +10,12 @@
 		uid: "792a2cbb",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "aether_legacy:moa_egg",
 			tag: {
 				typeId: 0
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		}],
 		ignore_damage: true,
@@ -25,12 +25,12 @@
 		uid: "fb2c247c",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "aether_legacy:moa_egg",
 			tag: {
 				typeId: 1
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		}],
 		ignore_damage: true,
@@ -40,12 +40,12 @@
 		uid: "6972a61a",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "aether_legacy:moa_egg",
 			tag: {
 				typeId: 2
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		}],
 		ignore_damage: true,
@@ -55,12 +55,12 @@
 		uid: "01873eab",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "aether_legacy:moa_egg",
 			tag: {
 				typeId: 3
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		}],
 		ignore_damage: true,
@@ -70,12 +70,12 @@
 		uid: "a0407ca1",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "aether_legacy:moa_egg",
 			tag: {
 				typeId: 4
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		}],
 		ignore_damage: true,

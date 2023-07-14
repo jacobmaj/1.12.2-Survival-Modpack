@@ -3,7 +3,8 @@
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
 		},
-		id: "thebetweenlands:draeton_upgrade_crafting"
+		id: "thebetweenlands:draeton_upgrade_crafting",
+		Count: 1b
 	},
 	x: -11.5d,
 	y: 10.0d,
@@ -18,7 +19,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:draeton_upgrade_furnace"
+			id: "thebetweenlands:draeton_upgrade_furnace",
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -30,7 +32,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:draeton_upgrade_anchor"
+			id: "thebetweenlands:draeton_upgrade_anchor",
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -42,7 +45,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:draeton_upgrade_crafting"
+			id: "thebetweenlands:draeton_upgrade_crafting",
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

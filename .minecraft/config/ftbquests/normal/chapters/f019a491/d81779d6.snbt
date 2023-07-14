@@ -14,15 +14,15 @@
 		uid: "91df45fc",
 		type: "kill",
 		icon: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "twilightforest:yeti_helmet",
 			tag: {
 				ench: [{
 					lvl: 2s,
 					id: 0
 				}]
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		},
 		entity: "twilightforest:yeti_alpha",
@@ -32,10 +32,10 @@
 		uid: "4799cc34",
 		type: "item",
 		item: {
+			id: "scalinghealth:crystalshard",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "scalinghealth:crystalshard"
+			}
 		}
 	}]
 }

@@ -1,10 +1,10 @@
 {
 	title: "Time to Get a Watch",
 	icon: {
+		id: "minecraft:clock",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "minecraft:clock"
+		}
 	},
 	x: 3.0d,
 	y: -1.5d,
@@ -18,18 +18,18 @@
 		uid: "29f71a3c",
 		type: "item",
 		icon: {
+			id: "minecraft:clock",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:clock"
+			}
 		},
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "minecraft:clock",
 			tag: {
 				"quark:clock_calculated": 1b
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		}]
 	}]

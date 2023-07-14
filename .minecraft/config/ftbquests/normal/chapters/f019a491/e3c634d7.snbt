@@ -9,10 +9,10 @@
 		uid: "cb7184f6",
 		type: "item",
 		items: [{
+			id: "twilightforest:lamp_of_cinders",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "twilightforest:lamp_of_cinders"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -9,7 +9,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:infuser"
+			id: "thebetweenlands:infuser",
+			Count: 1b
 		}]
 	}]
 }

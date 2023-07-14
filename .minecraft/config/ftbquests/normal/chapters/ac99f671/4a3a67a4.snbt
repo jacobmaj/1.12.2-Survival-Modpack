@@ -11,10 +11,10 @@
 		uid: "21f33916",
 		type: "item",
 		items: [{
+			id: "futuremc:smoker",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "futuremc:smoker"
+			}
 		}]
 	}]
 }

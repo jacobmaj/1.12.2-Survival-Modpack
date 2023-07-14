@@ -9,10 +9,10 @@
 		uid: "52319baf",
 		type: "observation",
 		icon: {
+			id: "iceandfire:hippocampus_fin",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "iceandfire:hippocampus_fin"
+			}
 		},
 		match_type: "entity_id",
 		match: "iceandfire:hippocampus",

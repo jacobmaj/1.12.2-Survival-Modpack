@@ -4,7 +4,8 @@
 			"wizardryutils:summoneditemdata": {}
 		},
 		id: "thebetweenlands:bl_bucket_rubber",
-		tag: {}
+		tag: {},
+		Count: 1b
 	},
 	x: -8.0d,
 	y: 12.0d,
@@ -20,7 +21,8 @@
 				"wizardryutils:summoneditemdata": {}
 			},
 			id: "thebetweenlands:bl_bucket_rubber",
-			tag: {}
+			tag: {},
+			Count: 1b
 		}],
 		ignore_nbt: 1b
 	},
@@ -33,7 +35,8 @@
 			},
 			id: "thebetweenlands:bl_bucket_rubber",
 			tag: {},
-			Damage: 1s
+			Damage: 1s,
+			Count: 1b
 		}],
 		ignore_nbt: 1b
 	}]

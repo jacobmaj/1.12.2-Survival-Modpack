@@ -9,10 +9,10 @@
 		uid: "728cc64d",
 		type: "item",
 		items: [{
+			id: "minecraft:elytra",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:elytra"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -9,11 +9,11 @@
 		uid: "ec619bf5",
 		type: "item",
 		items: [{
+			id: "biomesoplenty:hive",
+			Damage: 3s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "biomesoplenty:hive",
-			Damage: 3s
+			}
 		}]
 	}]
 }

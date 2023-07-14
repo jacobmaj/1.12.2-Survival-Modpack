@@ -1,10 +1,10 @@
 {
 	title: "Soap",
 	icon: {
+		id: "mist:soap",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "mist:soap"
+		}
 	},
 	x: -4.0d,
 	y: -2.0d,
@@ -23,20 +23,20 @@
 		uid: "2e76604d",
 		type: "item",
 		items: [{
+			id: "mist:ash",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:ash"
+			}
 		}]
 	},
 	{
 		uid: "7cb72626",
 		type: "item",
 		items: [{
+			id: "mist:soap",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:soap"
+			}
 		}]
 	}]
 }

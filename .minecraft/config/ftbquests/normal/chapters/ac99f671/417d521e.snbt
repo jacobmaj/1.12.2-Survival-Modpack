@@ -1,10 +1,10 @@
 {
 	title: "☆Ritual Table",
 	icon: {
+		id: "arcaneworld:ritual_table",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "arcaneworld:ritual_table"
+		}
 	},
 	x: 0.5d,
 	y: 1.0d,
@@ -17,16 +17,16 @@
 		uid: "ac8d5264",
 		type: "item",
 		icon: {
+			id: "arcaneworld:ritual_table",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "arcaneworld:ritual_table"
+			}
 		},
 		items: [{
+			id: "arcaneworld:ritual_table",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "arcaneworld:ritual_table"
+			}
 		}]
 	}]
 }

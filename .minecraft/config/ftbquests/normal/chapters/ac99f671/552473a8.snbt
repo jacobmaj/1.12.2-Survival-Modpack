@@ -13,9 +13,6 @@
 		uid: "b3adbf87",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "ironbackpacks:backpack",
 			tag: {
 				packInfo: {
@@ -168,6 +165,9 @@
 					},
 					Damage: 0s
 				}]
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		}],
 		ignore_nbt: 1b,

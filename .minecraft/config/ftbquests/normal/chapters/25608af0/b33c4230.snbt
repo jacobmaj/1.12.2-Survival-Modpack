@@ -1,10 +1,10 @@
 {
 	icon: {
+		id: "betterwithmods:axle_generator",
+		Damage: 1s,
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "betterwithmods:axle_generator",
-		Damage: 1s
+		}
 	},
 	x: -2.5d,
 	y: -9.5d,
@@ -17,22 +17,22 @@
 		uid: "d942282e",
 		type: "item",
 		items: [{
+			id: "betterwithmods:material",
+			Damage: 12s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "betterwithmods:material",
-			Damage: 12s
+			}
 		}]
 	},
 	{
 		uid: "3246991f",
 		type: "item",
 		items: [{
+			id: "betterwithmods:axle_generator",
+			Damage: 1s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "betterwithmods:axle_generator",
-			Damage: 1s
+			}
 		}]
 	}]
 }

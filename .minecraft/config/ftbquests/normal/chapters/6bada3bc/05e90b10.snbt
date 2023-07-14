@@ -9,10 +9,10 @@
 		uid: "2a8238a4",
 		type: "item",
 		items: [{
+			id: "disenchanter:disenchantmenttable",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "disenchanter:disenchantmenttable"
+			}
 		}]
 	}]
 }

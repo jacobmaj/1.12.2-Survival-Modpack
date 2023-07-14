@@ -1,10 +1,10 @@
 {
 	title: "☆",
 	icon: {
+		id: "minecraft:brewing_stand",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "minecraft:brewing_stand"
+		}
 	},
 	x: -1.0d,
 	y: -3.0d,
@@ -18,30 +18,30 @@
 		uid: "a5231d8c",
 		type: "item",
 		items: [{
+			id: "minecraft:blaze_rod",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:blaze_rod"
+			}
 		}]
 	},
 	{
 		uid: "e15ea3cf",
 		type: "item",
 		items: [{
+			id: "minecraft:blaze_powder",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:blaze_powder"
+			}
 		}]
 	},
 	{
 		uid: "4ae4c6f2",
 		type: "item",
 		items: [{
+			id: "minecraft:brewing_stand",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:brewing_stand"
+			}
 		}]
 	}]
 }

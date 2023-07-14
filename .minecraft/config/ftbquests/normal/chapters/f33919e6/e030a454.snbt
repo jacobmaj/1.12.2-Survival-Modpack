@@ -3,7 +3,8 @@
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
 		},
-		id: "thebetweenlands:barnacle_cooked"
+		id: "thebetweenlands:barnacle_cooked",
+		Count: 1b
 	},
 	x: 8.5d,
 	y: 8.0d,
@@ -18,7 +19,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:barnacle_1_2"
+			id: "thebetweenlands:barnacle_1_2",
+			Count: 1b
 		}]
 	},
 	{
@@ -28,7 +30,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:barnacle"
+			id: "thebetweenlands:barnacle",
+			Count: 1b
 		}]
 	}]
 }

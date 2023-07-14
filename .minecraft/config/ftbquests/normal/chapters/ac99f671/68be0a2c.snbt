@@ -8,10 +8,10 @@
 		uid: "9daad096",
 		type: "item",
 		items: [{
+			id: "waystones:warp_stone",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "waystones:warp_stone"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

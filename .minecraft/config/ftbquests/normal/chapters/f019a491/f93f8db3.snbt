@@ -8,20 +8,20 @@
 		uid: "6c6156b7",
 		type: "item",
 		items: [{
+			id: "iceandfire:ice_dragon_blood",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "iceandfire:ice_dragon_blood"
+			}
 		}]
 	},
 	{
 		uid: "29a9b7e4",
 		type: "item",
 		items: [{
+			id: "iceandfire:fire_dragon_blood",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "iceandfire:fire_dragon_blood"
+			}
 		}]
 	}]
 }

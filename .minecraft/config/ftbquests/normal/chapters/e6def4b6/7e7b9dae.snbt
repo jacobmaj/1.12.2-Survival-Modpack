@@ -9,20 +9,20 @@
 		uid: "0de60936",
 		type: "item",
 		items: [{
+			id: "cyberware:scanner",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "cyberware:scanner"
+			}
 		}]
 	},
 	{
 		uid: "77341d0a",
 		type: "item",
 		items: [{
+			id: "cyberware:engineering_table",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "cyberware:engineering_table"
+			}
 		}]
 	}]
 }

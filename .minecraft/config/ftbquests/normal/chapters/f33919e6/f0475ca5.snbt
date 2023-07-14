@@ -12,7 +12,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:caving_rope"
+			id: "thebetweenlands:caving_rope",
+			Count: 1b
 		}],
 		count: 32L
 	}]

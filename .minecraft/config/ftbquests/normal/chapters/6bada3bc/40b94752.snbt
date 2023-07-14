@@ -9,11 +9,11 @@
 		uid: "b349d755",
 		type: "item",
 		items: [{
+			id: "minecraft:skull",
+			Damage: 1s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:skull",
-			Damage: 1s
+			}
 		}],
 		count: 3L
 	}]

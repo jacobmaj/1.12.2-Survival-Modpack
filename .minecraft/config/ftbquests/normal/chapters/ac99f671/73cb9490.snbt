@@ -1,9 +1,9 @@
 {
 	icon: {
+		id: "defiledlands:calling_stone",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "defiledlands:calling_stone"
+		}
 	},
 	x: 0.0d,
 	y: 10.0d,
@@ -14,10 +14,10 @@
 		uid: "dd99a2c9",
 		type: "item",
 		items: [{
+			id: "defiledlands:calling_stone",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "defiledlands:calling_stone"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

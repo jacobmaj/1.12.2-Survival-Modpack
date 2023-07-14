@@ -1,9 +1,9 @@
 {
 	icon: {
+		id: "futuremc:ancient_debris",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "futuremc:ancient_debris"
+		}
 	},
 	x: 6.5d,
 	y: -5.0d,
@@ -15,20 +15,20 @@
 		uid: "27af4811",
 		type: "item",
 		items: [{
+			id: "futuremc:ancient_debris",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "futuremc:ancient_debris"
+			}
 		}]
 	},
 	{
 		uid: "9234c957",
 		type: "item",
 		items: [{
+			id: "futuremc:netherite_scrap",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "futuremc:netherite_scrap"
+			}
 		}],
 		count: 4L
 	},
@@ -36,10 +36,10 @@
 		uid: "4b1b3e10",
 		type: "item",
 		items: [{
+			id: "futuremc:netherite_ingot",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "futuremc:netherite_ingot"
+			}
 		}]
 	}]
 }

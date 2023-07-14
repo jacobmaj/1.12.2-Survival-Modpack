@@ -11,10 +11,10 @@
 		uid: "7fa30f1d",
 		type: "item",
 		items: [{
+			id: "minecraft:cauldron",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:cauldron"
+			}
 		}]
 	}]
 }

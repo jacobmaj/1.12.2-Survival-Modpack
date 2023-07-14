@@ -6,10 +6,8 @@
 		uid: "6bb09205",
 		type: "kill",
 		icon: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "minecraft:skull",
+			Damage: 3s,
 			tag: {
 				SkullOwner: {
 					Id: "732ab0b0-548a-490b-8681-aa1ca92b11a1",
@@ -22,7 +20,9 @@
 					Name: "MHF_EGuardian"
 				}
 			},
-			Damage: 3s
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			}
 		},
 		entity: "minecraft:elder_guardian",
 		value: 1L
@@ -31,10 +31,10 @@
 		uid: "4d1531d9",
 		type: "item",
 		item: {
+			id: "scalinghealth:crystalshard",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "scalinghealth:crystalshard"
+			}
 		},
 		count: 2
 	}]

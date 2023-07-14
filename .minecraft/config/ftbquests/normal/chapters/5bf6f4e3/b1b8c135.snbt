@@ -1,10 +1,10 @@
 {
 	icon: {
+		id: "mist:sponge",
+		Damage: 14s,
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "mist:sponge",
-		Damage: 14s
+		}
 	},
 	x: 5.0d,
 	y: 5.0d,
@@ -16,40 +16,40 @@
 		uid: "310ef0af",
 		type: "item",
 		items: [{
+			id: "mist:sponge_fibre",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:sponge_fibre"
+			}
 		}]
 	},
 	{
 		uid: "7ddb0687",
 		type: "item",
 		items: [{
+			id: "mist:sponge_meat",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:sponge_meat"
+			}
 		}]
 	},
 	{
 		uid: "36548aab",
 		type: "item",
 		items: [{
+			id: "mist:sponge_spore",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:sponge_spore"
+			}
 		}]
 	},
 	{
 		uid: "aabdfcdc",
 		type: "item",
 		items: [{
+			id: "mist:sponge_fibre_clear",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:sponge_fibre_clear"
+			}
 		}]
 	}]
 }

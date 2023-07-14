@@ -14,11 +14,11 @@
 		uid: "e7635425",
 		type: "kill",
 		icon: {
+			id: "twilightforest:trophy",
+			Damage: 1s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "twilightforest:trophy",
-			Damage: 1s
+			}
 		},
 		entity: "twilightforest:lich",
 		value: 1L
@@ -27,10 +27,10 @@
 		uid: "d69bbee7",
 		type: "item",
 		item: {
+			id: "scalinghealth:crystalshard",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "scalinghealth:crystalshard"
+			}
 		}
 	}]
 }

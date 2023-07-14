@@ -6,10 +6,10 @@
 		uid: "a2bee3f2",
 		type: "kill",
 		icon: {
+			id: "mowziesmobs:wrought_helmet",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mowziesmobs:wrought_helmet"
+			}
 		},
 		entity: "mowziesmobs:ferrous_wroughtnaut",
 		value: 1L
@@ -18,10 +18,10 @@
 		uid: "24e227ac",
 		type: "item",
 		item: {
+			id: "scalinghealth:crystalshard",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "scalinghealth:crystalshard"
+			}
 		},
 		count: 2
 	}]

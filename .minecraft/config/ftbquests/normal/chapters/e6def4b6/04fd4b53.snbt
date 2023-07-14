@@ -9,10 +9,10 @@
 		uid: "a7d4e239",
 		type: "item",
 		items: [{
+			id: "cyberware:neuropozyne",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "cyberware:neuropozyne"
+			}
 		}]
 	}]
 }

@@ -15,7 +15,8 @@
 				"wizardryutils:summoneditemdata": {}
 			},
 			id: "paraglider:paraglider",
-			tag: {}
+			tag: {},
+			Count: 1b
 		}],
 		ignore_nbt: 1b
 	}]

@@ -11,7 +11,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "ancientspellcraft:sphere_cognizance"
+			id: "ancientspellcraft:sphere_cognizance",
+			Count: 1b
 		}]
 	}]
 }

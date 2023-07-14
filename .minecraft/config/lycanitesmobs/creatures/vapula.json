@@ -6,7 +6,7 @@
   ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityVapula",
   "modelClass": "com.lycanitesmobs.client.model.creature.ModelVapula",
-  "loadDefault": false,
+  "loadDefault": true,
   "enabled": true,
   "spawning": {
     "enabled": true,
@@ -22,9 +22,9 @@
     "spawnGroupMin": 1,
     "spawnGroupMax": 3,
     "spawnsInLight": false,
-    "spawnsInDark": false,
+    "spawnsInDark": true,
     "worldDayMin": -1,
-    "despawnNatural": false,
+    "despawnNatural": true,
     "despawnForced": false
   },
   "width": 0.8,
@@ -42,6 +42,7 @@
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 1,
+  "bagSize": 5,
   "eggBackColor": "#7b8d95",
   "eggForeColor": "#9be0ea",
   "subspecies": [
@@ -61,7 +62,7 @@
       ]
     }
   ],
-  "element": "gravity",
+  "element": "arcane",
   "peaceful": false,
   "summonable": false,
   "tameable": false,

@@ -1,10 +1,10 @@
 {
 	icon: {
+		id: "minecraft:bed",
+		Damage: 14s,
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "minecraft:bed",
-		Damage: 14s
+		}
 	},
 	x: -10.0d,
 	y: -10.0d,
@@ -18,18 +18,18 @@
 		uid: "1aeff971",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				Parent: {
-					data: "bed",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any bed"
 				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "bed"
+				},
+				"wizardryutils:summoneditemdata": {}
 			}
 		}]
 	}]

@@ -5,11 +5,11 @@
 		uid: "2eaf856f",
 		type: "item",
 		items: [{
+			id: "quark:candle",
+			Damage: 7s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "quark:candle",
-			Damage: 7s
+			}
 		}]
 	}]
 }

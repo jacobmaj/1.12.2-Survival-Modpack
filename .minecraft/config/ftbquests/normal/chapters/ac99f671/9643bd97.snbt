@@ -11,11 +11,11 @@
 		uid: "c0b8566f",
 		type: "item",
 		items: [{
+			id: "dwmh:ocarina",
+			tag: {},
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "dwmh:ocarina",
-			tag: {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

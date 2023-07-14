@@ -1,9 +1,9 @@
 {
 	icon: {
+		id: "mist:bio_shale_ore",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "mist:bio_shale_ore"
+		}
 	},
 	x: 4.0d,
 	y: 5.5d,
@@ -15,10 +15,10 @@
 		uid: "ef5beaf5",
 		type: "item",
 		items: [{
+			id: "mist:bio_shale",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:bio_shale"
+			}
 		}]
 	}]
 }

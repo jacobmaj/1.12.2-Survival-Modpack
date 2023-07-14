@@ -11,10 +11,10 @@
 		type: "kill",
 		title: "Slay the Hirschgeist",
 		icon: {
+			id: "betteranimalsplus:hirschgeistskullwearable",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "betteranimalsplus:hirschgeistskullwearable"
+			}
 		},
 		entity: "betteranimalsplus:hirschgeist",
 		value: 1L
@@ -23,10 +23,10 @@
 		uid: "fe0e7b7d",
 		type: "item",
 		item: {
+			id: "scalinghealth:crystalshard",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "scalinghealth:crystalshard"
+			}
 		},
 		count: 2
 	}]

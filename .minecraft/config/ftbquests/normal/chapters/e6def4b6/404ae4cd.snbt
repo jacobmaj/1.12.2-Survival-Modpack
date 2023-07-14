@@ -1,9 +1,9 @@
 {
 	icon: {
+		id: "ebwizardry:warlock_hood_necromancy",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "ebwizardry:warlock_hood_necromancy"
+		}
 	},
 	x: 0.0d,
 	y: 13.5d,
@@ -16,20 +16,20 @@
 		uid: "c7c204ac",
 		type: "item",
 		items: [{
+			id: "endreborn:block_rune",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "endreborn:block_rune"
+			}
 		}]
 	},
 	{
 		uid: "570f4998",
 		type: "kill",
 		icon: {
+			id: "ebwizardry:warlock_hood_necromancy",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "ebwizardry:warlock_hood_necromancy"
+			}
 		},
 		entity: "endreborn:endlord",
 		value: 1L
@@ -38,10 +38,10 @@
 		uid: "28f80c59",
 		type: "item",
 		item: {
+			id: "scalinghealth:crystalshard",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "scalinghealth:crystalshard"
+			}
 		},
 		count: 2
 	}]

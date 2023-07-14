@@ -13,10 +13,10 @@
 		uid: "64b98e4e",
 		type: "kill",
 		icon: {
+			id: "lost_aether:platinum_key",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "lost_aether:platinum_key"
+			}
 		},
 		entity: "lost_aether:king_aerwhale",
 		value: 1L
@@ -25,10 +25,10 @@
 		uid: "167433ca",
 		type: "item",
 		item: {
+			id: "scalinghealth:crystalshard",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "scalinghealth:crystalshard"
+			}
 		},
 		count: 2
 	}]

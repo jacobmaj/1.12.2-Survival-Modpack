@@ -12,10 +12,10 @@
 		uid: "408739d6",
 		type: "item",
 		items: [{
+			id: "minecraft:nether_wart",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:nether_wart"
+			}
 		}]
 	}]
 }

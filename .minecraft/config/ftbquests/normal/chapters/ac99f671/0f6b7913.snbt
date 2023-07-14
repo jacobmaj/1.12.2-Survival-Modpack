@@ -8,9 +8,6 @@
 		uid: "e8463f12",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "defiledlands:phytoprostasia_amulet",
 			tag: {
 				Quality: {
@@ -28,6 +25,9 @@
 					}],
 					Name: "Brutal"
 				}
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		}],
 		ignore_damage: true,

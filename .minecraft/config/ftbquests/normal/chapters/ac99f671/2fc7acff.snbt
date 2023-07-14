@@ -8,10 +8,10 @@
 		uid: "8d44ad2a",
 		type: "item",
 		items: [{
+			id: "quark:chain",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "quark:chain"
+			}
 		}]
 	}]
 }

@@ -9,20 +9,20 @@
 		uid: "c059a020",
 		type: "item",
 		items: [{
+			id: "cyberware:blueprint_archive",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "cyberware:blueprint_archive"
+			}
 		}]
 	},
 	{
 		uid: "77b7d750",
 		type: "item",
 		items: [{
+			id: "cyberware:component_box",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "cyberware:component_box"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

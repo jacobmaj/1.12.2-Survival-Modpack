@@ -1,9 +1,9 @@
 {
 	icon: {
+		id: "nyx:lunar_water_bottle",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "nyx:lunar_water_bottle"
+		}
 	},
 	x: -4.5d,
 	y: -2.0d,
@@ -22,13 +22,13 @@
 		uid: "a839f4a7",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "forge:bucketfilled",
 			tag: {
 				FluidName: "lunar_water",
 				Amount: 1000
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		}],
 		ignore_damage: true,
@@ -38,10 +38,10 @@
 		uid: "9301257d",
 		type: "item",
 		items: [{
+			id: "nyx:lunar_water_bottle",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "nyx:lunar_water_bottle"
+			}
 		}]
 	}]
 }

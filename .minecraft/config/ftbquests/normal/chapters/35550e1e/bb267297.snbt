@@ -1,9 +1,9 @@
 {
 	icon: {
+		id: "minecraft:jukebox",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "minecraft:jukebox"
+		}
 	},
 	x: -5.0d,
 	y: -2.0d,
@@ -17,10 +17,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:record_13",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:record_13"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -30,10 +30,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:record_cat",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:record_cat"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -43,10 +43,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:record_blocks",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:record_blocks"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -56,10 +56,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:record_chirp",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:record_chirp"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -69,10 +69,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:record_far",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:record_far"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -82,10 +82,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:record_mall",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:record_mall"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -95,10 +95,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:record_mellohi",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:record_mellohi"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -108,10 +108,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:record_stal",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:record_stal"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -121,10 +121,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:record_strad",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:record_strad"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -134,10 +134,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:record_ward",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:record_ward"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -147,10 +147,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:record_11",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:record_11"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -160,10 +160,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:record_wait",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:record_wait"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -176,7 +176,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:between_you_and_me"
+			id: "thebetweenlands:between_you_and_me",
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -189,7 +190,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:the_explorer"
+			id: "thebetweenlands:the_explorer",
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -202,7 +204,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:hag_dance"
+			id: "thebetweenlands:hag_dance",
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -215,7 +218,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:lonely_fire"
+			id: "thebetweenlands:lonely_fire",
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -228,7 +232,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:mysterious_record"
+			id: "thebetweenlands:mysterious_record",
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -241,7 +246,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:ancient"
+			id: "thebetweenlands:ancient",
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -254,7 +260,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:beneath_a_green_sky"
+			id: "thebetweenlands:beneath_a_green_sky",
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -267,7 +274,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:dj_wights_mixtape"
+			id: "thebetweenlands:dj_wights_mixtape",
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -280,7 +288,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:onwards"
+			id: "thebetweenlands:onwards",
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -293,7 +302,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:stuck_in_the_mud"
+			id: "thebetweenlands:stuck_in_the_mud",
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -306,7 +316,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:wandering_wisps"
+			id: "thebetweenlands:wandering_wisps",
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -319,7 +330,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:waterlogged"
+			id: "thebetweenlands:waterlogged",
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -329,10 +341,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "endreborn:end_record",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "endreborn:end_record"
+			}
 		}],
 		ignore_nbt: 1b
 	},
@@ -341,10 +353,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "charm:record_calm1",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "charm:record_calm1"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -354,10 +366,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "charm:record_calm2",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "charm:record_calm2"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -367,10 +379,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "charm:record_calm3",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "charm:record_calm3"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -380,10 +392,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "charm:record_hal1",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "charm:record_hal1"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -393,10 +405,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "charm:record_hal2",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "charm:record_hal2"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -406,10 +418,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "charm:record_hal3",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "charm:record_hal3"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -419,10 +431,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "charm:record_hal4",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "charm:record_hal4"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -432,10 +444,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "charm:record_nuance1",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "charm:record_nuance1"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -445,10 +457,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "charm:record_nuance2",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "charm:record_nuance2"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -458,10 +470,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "charm:record_piano1",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "charm:record_piano1"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -471,10 +483,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "charm:record_piano2",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "charm:record_piano2"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -484,10 +496,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "charm:record_piano3",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "charm:record_piano3"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -497,12 +509,12 @@
 		type: "command",
 		title: "6 Prestige Points!",
 		icon: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "ftbquests:custom_icon",
 			tag: {
 				icon: "ftblib:textures/icons/support.png"
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		},
 		command: "/prestige add @p 6"

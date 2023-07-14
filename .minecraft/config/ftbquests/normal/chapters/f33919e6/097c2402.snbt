@@ -12,7 +12,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:wind_chime"
+			id: "thebetweenlands:wind_chime",
+			Count: 1b
 		}]
 	}]
 }

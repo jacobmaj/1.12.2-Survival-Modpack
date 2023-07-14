@@ -3,7 +3,8 @@
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
 		},
-		id: "thebetweenlands:weedwood_rowboat"
+		id: "thebetweenlands:weedwood_rowboat",
+		Count: 1b
 	},
 	x: -7.0d,
 	y: 8.5d,
@@ -18,7 +19,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:weedwood_rowboat"
+			id: "thebetweenlands:weedwood_rowboat",
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -31,7 +33,8 @@
 				"wizardryutils:summoneditemdata": {}
 			},
 			id: "thebetweenlands:items_misc",
-			Damage: 26s
+			Damage: 26s,
+			Count: 1b
 		}]
 	},
 	{
@@ -41,7 +44,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:weedwood_rowboat_upgrade_lantern"
+			id: "thebetweenlands:weedwood_rowboat_upgrade_lantern",
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

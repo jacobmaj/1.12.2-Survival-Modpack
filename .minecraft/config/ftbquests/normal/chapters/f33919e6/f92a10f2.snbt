@@ -12,7 +12,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:manual_hl"
+			id: "thebetweenlands:manual_hl",
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -12,7 +12,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "refinedstorage:grid"
+			id: "refinedstorage:grid",
+			Count: 1b
 		}]
 	}]
 }

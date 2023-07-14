@@ -9,10 +9,10 @@
 		uid: "6d2d52a9",
 		type: "item",
 		items: [{
+			id: "aether_legacy:zanite_gemstone",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "aether_legacy:zanite_gemstone"
+			}
 		}]
 	}]
 }

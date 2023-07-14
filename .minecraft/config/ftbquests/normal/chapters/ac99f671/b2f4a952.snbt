@@ -1,10 +1,10 @@
 {
 	title: "It's Hip to Find Bees",
 	icon: {
+		id: "rustic:beehive",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "rustic:beehive"
+		}
 	},
 	x: 8.5d,
 	y: -10.0d,
@@ -15,10 +15,10 @@
 		uid: "1bea0351",
 		type: "observation",
 		icon: {
+			id: "rustic:beehive",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "rustic:beehive"
+			}
 		},
 		match_type: "block_id",
 		match: "rustic:beehive",
@@ -28,10 +28,10 @@
 		uid: "8c7e083a",
 		type: "item",
 		items: [{
+			id: "rustic:honeycomb",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "rustic:honeycomb"
+			}
 		}]
 	}]
 }

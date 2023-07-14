@@ -12,7 +12,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:lurker_skin_shield"
+			id: "thebetweenlands:lurker_skin_shield",
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

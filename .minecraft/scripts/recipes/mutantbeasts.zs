@@ -1,1 +1,1 @@
-//brewing.removeRecipe(<mutantbeasts:chemical_x>);
+brewing.removeRecipe(<mutantbeasts:chemical_x>);

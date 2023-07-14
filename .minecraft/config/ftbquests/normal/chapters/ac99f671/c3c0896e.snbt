@@ -11,10 +11,10 @@
 		uid: "fc424fac",
 		type: "item",
 		items: [{
+			id: "futuremc:blast_furnace",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "futuremc:blast_furnace"
+			}
 		}]
 	}]
 }

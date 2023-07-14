@@ -4,7 +4,8 @@
 			"wizardryutils:summoneditemdata": {}
 		},
 		id: "thebetweenlands:items_misc",
-		Damage: 2s
+		Damage: 2s,
+		Count: 1b
 	},
 	x: 6.0d,
 	y: 5.5d,
@@ -16,7 +17,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:compost_bin"
+			id: "thebetweenlands:compost_bin",
+			Count: 1b
 		}]
 	},
 	{
@@ -27,7 +29,8 @@
 				"wizardryutils:summoneditemdata": {}
 			},
 			id: "thebetweenlands:items_misc",
-			Damage: 2s
+			Damage: 2s,
+			Count: 1b
 		}]
 	}]
 }

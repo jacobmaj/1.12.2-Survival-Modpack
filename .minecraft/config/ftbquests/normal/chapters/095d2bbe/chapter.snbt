@@ -1,0 +1,12 @@
+{
+	title: "The Beneath",
+	icon: {
+		id: "minecraft:bedrock",
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		}
+	},
+	always_invisible: false,
+	group: 102824723,
+	default_quest_shape: ""
+}

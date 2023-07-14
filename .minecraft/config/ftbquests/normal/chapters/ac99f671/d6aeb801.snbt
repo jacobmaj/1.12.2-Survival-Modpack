@@ -13,10 +13,10 @@
 		uid: "d5c1e380",
 		type: "kill",
 		icon: {
+			id: "iceandfire:seaserpent_skull",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "iceandfire:seaserpent_skull"
+			}
 		},
 		entity: "iceandfire:seaserpent",
 		value: 1L
@@ -25,10 +25,10 @@
 		uid: "5215e135",
 		type: "item",
 		item: {
+			id: "scalinghealth:crystalshard",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "scalinghealth:crystalshard"
+			}
 		},
 		count: 2
 	}]

@@ -12,7 +12,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:grappling_hook"
+			id: "thebetweenlands:grappling_hook",
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

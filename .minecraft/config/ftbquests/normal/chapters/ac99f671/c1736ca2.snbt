@@ -6,10 +6,10 @@
 		uid: "c49924c5",
 		type: "kill",
 		icon: {
+			id: "iceandfire:myrmex_stinger",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "iceandfire:myrmex_stinger"
+			}
 		},
 		entity: "iceandfire:myrmex_queen",
 		value: 1L
@@ -18,10 +18,10 @@
 		uid: "fa3e37f3",
 		type: "item",
 		item: {
+			id: "scalinghealth:crystalshard",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "scalinghealth:crystalshard"
+			}
 		},
 		count: 2
 	}]

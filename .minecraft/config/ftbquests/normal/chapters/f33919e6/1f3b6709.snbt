@@ -4,7 +4,8 @@
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
 		},
-		id: "thebetweenlands:spirit_tree_face_large_mask"
+		id: "thebetweenlands:spirit_tree_face_large_mask",
+		Count: 1b
 	},
 	x: 0.0d,
 	y: 12.5d,
@@ -22,7 +23,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:bark_amulet"
+			id: "thebetweenlands:bark_amulet",
+			Count: 1b
 		},
 		entity: "thebetweenlands:spirit_tree_face_large",
 		value: 1L
@@ -34,17 +36,18 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:sapling_spirit_tree"
+			id: "thebetweenlands:sapling_spirit_tree",
+			Count: 1b
 		}
 	},
 	{
 		uid: "9304c8f8",
 		type: "item",
 		item: {
+			id: "scalinghealth:crystalshard",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "scalinghealth:crystalshard"
+			}
 		},
 		count: 2
 	}]

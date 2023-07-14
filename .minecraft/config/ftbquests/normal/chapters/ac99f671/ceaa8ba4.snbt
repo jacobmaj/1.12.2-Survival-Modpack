@@ -1,9 +1,9 @@
 {
 	icon: {
+		id: "ironchest:iron_chest",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "ironchest:iron_chest"
+		}
 	},
 	x: -3.0d,
 	y: -3.0d,
@@ -15,21 +15,21 @@
 		uid: "81b138aa",
 		type: "item",
 		items: [{
+			id: "ironchest:iron_chest",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "ironchest:iron_chest"
+			}
 		}]
 	},
 	{
 		uid: "8b6c0649",
 		type: "item",
 		items: [{
+			id: "ironchest:iron_chest",
+			Damage: 3s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "ironchest:iron_chest",
-			Damage: 3s
+			}
 		}]
 	}]
 }

@@ -10,12 +10,12 @@
 		uid: "16d45236",
 		type: "kill",
 		icon: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "iceandfire:deathworm_gauntlet_yellow",
 			tag: {
 				HolderID: -1
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		},
 		entity: "iceandfire:deathworm",
@@ -25,10 +25,10 @@
 		uid: "a9fc06c4",
 		type: "item",
 		item: {
+			id: "scalinghealth:crystalshard",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "scalinghealth:crystalshard"
+			}
 		},
 		count: 2
 	}]

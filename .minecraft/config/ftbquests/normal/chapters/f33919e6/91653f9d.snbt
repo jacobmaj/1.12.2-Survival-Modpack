@@ -16,7 +16,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:chirobarb_erupter"
+			id: "thebetweenlands:chirobarb_erupter",
+			Count: 1b
 		},
 		entity: "thebetweenlands:chiromaw_matriarch",
 		value: 1L
@@ -25,10 +26,10 @@
 		uid: "0b219ab3",
 		type: "item",
 		item: {
+			id: "scalinghealth:crystalshard",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "scalinghealth:crystalshard"
+			}
 		},
 		count: 2
 	}]

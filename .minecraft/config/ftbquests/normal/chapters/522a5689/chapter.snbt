@@ -1,10 +1,10 @@
 {
 	title: "Way of the Magician",
 	icon: {
+		id: "ebwizardry:grand_crystal",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "ebwizardry:grand_crystal"
+		}
 	},
 	always_invisible: false,
 	group: 0,

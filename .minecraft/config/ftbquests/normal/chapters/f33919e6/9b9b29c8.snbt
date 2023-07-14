@@ -15,7 +15,8 @@
 					FluidName: "shallowbreath",
 					Amount: 1000
 				}
-			}
+			},
+			Count: 1b
 		}],
 		ignore_damage: true
 	}]

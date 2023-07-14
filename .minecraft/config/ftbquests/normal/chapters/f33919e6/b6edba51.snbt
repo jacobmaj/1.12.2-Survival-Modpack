@@ -3,7 +3,8 @@
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
 		},
-		id: "thebetweenlands:lurker_skin_helmet"
+		id: "thebetweenlands:lurker_skin_helmet",
+		Count: 1b
 	},
 	x: -9.0d,
 	y: 11.0d,
@@ -18,7 +19,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:lurker_skin_helmet"
+			id: "thebetweenlands:lurker_skin_helmet",
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -30,7 +32,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:lurker_skin_chestplate"
+			id: "thebetweenlands:lurker_skin_chestplate",
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -42,7 +45,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:lurker_skin_leggings"
+			id: "thebetweenlands:lurker_skin_leggings",
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -54,7 +58,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:lurker_skin_boots"
+			id: "thebetweenlands:lurker_skin_boots",
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

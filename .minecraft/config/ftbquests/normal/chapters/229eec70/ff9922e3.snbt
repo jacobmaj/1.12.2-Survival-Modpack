@@ -7,10 +7,10 @@
 		uid: "081c2bd1",
 		type: "item",
 		items: [{
+			id: "minecraft:iron_hoe",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:iron_hoe"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -22,7 +22,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "embers:hoe_copper"
+			id: "embers:hoe_copper",
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -31,10 +32,10 @@
 		uid: "47039b4a",
 		type: "item",
 		item: {
+			id: "solcarrot:food_book",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "solcarrot:food_book"
+			}
 		}
 	}]
 }

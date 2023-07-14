@@ -6,10 +6,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:wheat_seeds",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:wheat_seeds"
+			}
 		}]
 	},
 	{
@@ -17,10 +17,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:pumpkin_seeds",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:pumpkin_seeds"
+			}
 		}]
 	},
 	{
@@ -28,10 +28,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:melon_seeds",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:melon_seeds"
+			}
 		}]
 	},
 	{
@@ -39,10 +39,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:beetroot_seeds",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:beetroot_seeds"
+			}
 		}]
 	}]
 }

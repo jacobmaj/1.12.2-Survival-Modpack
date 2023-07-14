@@ -3,7 +3,8 @@
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
 		},
-		id: "thebetweenlands:bone_wayfinder"
+		id: "thebetweenlands:bone_wayfinder",
+		Count: 1b
 	},
 	x: 9.0d,
 	y: 2.0d,
@@ -18,7 +19,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:bone_wayfinder"
+			id: "thebetweenlands:bone_wayfinder",
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -30,7 +32,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:waystone"
+			id: "thebetweenlands:waystone",
+			Count: 1b
 		},
 		match_type: "block_id",
 		match: "thebetweenlands:waystone",

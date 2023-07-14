@@ -12,20 +12,20 @@
 		uid: "aec01056",
 		type: "item",
 		items: [{
+			id: "eyeofdragons:eye_of_icedragon",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "eyeofdragons:eye_of_icedragon"
+			}
 		}]
 	},
 	{
 		uid: "3315cefc",
 		type: "item",
 		items: [{
+			id: "eyeofdragons:eye_of_firedragon",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "eyeofdragons:eye_of_firedragon"
+			}
 		}]
 	}]
 }

@@ -9,10 +9,10 @@
 		uid: "e0c32481",
 		type: "item",
 		items: [{
+			id: "minecraft:diamond",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:diamond"
+			}
 		}]
 	}]
 }

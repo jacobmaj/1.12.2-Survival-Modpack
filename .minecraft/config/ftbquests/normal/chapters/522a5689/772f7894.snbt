@@ -11,7 +11,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "ancientspellcraft:scribing_desk"
+			id: "ancientspellcraft:scribing_desk",
+			Count: 1b
 		}]
 	}]
 }

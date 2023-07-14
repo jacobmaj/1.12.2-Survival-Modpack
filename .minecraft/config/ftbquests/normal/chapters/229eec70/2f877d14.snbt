@@ -5,10 +5,10 @@
 		uid: "cefce34a",
 		type: "observation",
 		icon: {
+			id: "cookingforblockheads:cow_jar",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "cookingforblockheads:cow_jar"
+			}
 		},
 		match_type: "block_id",
 		match: "cookingforblockheads:cow_jar",

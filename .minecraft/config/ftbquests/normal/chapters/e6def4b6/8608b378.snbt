@@ -1,10 +1,10 @@
 {
 	title: "☆In The End",
 	icon: {
+		id: "minecraft:end_stone",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "minecraft:end_stone"
+		}
 	},
 	x: 0.0d,
 	y: 0.0d,
@@ -21,10 +21,10 @@
 		uid: "f2e1e07e",
 		type: "dimension",
 		icon: {
+			id: "charm:rune_portal",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "charm:rune_portal"
+			}
 		},
 		dim: 1
 	}]

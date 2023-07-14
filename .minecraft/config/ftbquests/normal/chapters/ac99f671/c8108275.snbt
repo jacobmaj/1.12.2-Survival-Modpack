@@ -15,9 +15,6 @@
 		uid: "6a2dfea6",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "toolbelt:belt",
 			tag: {
 				Quality: {
@@ -35,6 +32,9 @@
 					}],
 					Name: "Mighty"
 				}
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		}],
 		ignore_damage: true,
@@ -44,10 +44,10 @@
 		uid: "0a249ed9",
 		type: "item",
 		item: {
+			id: "toolbelt:pouch",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "toolbelt:pouch"
+			}
 		}
 	}]
 }

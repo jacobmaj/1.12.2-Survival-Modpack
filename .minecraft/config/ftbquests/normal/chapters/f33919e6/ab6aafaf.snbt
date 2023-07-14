@@ -12,7 +12,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:weedwood_fishing_rod"
+			id: "thebetweenlands:weedwood_fishing_rod",
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

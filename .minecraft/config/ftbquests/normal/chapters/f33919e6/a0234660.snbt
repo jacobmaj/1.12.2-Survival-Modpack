@@ -5,7 +5,8 @@
 			"wizardryutils:summoneditemdata": {}
 		},
 		id: "thebetweenlands:items_misc",
-		Damage: 25s
+		Damage: 25s,
+		Count: 1b
 	},
 	x: -2.0d,
 	y: 11.5d,
@@ -23,7 +24,8 @@
 				"wizardryutils:summoneditemdata": {}
 			},
 			id: "thebetweenlands:items_misc",
-			Damage: 24s
+			Damage: 24s,
+			Count: 1b
 		}]
 	},
 	{
@@ -34,17 +36,18 @@
 				"wizardryutils:summoneditemdata": {}
 			},
 			id: "thebetweenlands:items_misc",
-			Damage: 25s
+			Damage: 25s,
+			Count: 1b
 		}]
 	}],
 	rewards: [{
 		uid: "8e8e3487",
 		type: "item",
 		item: {
+			id: "scalinghealth:crystalshard",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "scalinghealth:crystalshard"
+			}
 		}
 	}]
 }

@@ -1,0 +1,33 @@
+{
+  "guiScale": 3,
+  "hudScale": 3,
+  "tooltipScale": 3,
+  "customIndividualGuiScales": {},
+  "customGroupGuiScales": {},
+  "loggedGuiClassNames": [
+    "spazley.scalingguis.gui.guiconfig.GuiSelectStringSG",
+    "spazley.scalingguis.gui.guiconfig.GuiConfigSG$GuiNewScale",
+    "vazkii.patchouli.client.book.gui.GuiBookCategory",
+    "spazley.scalingguis.gui.guiconfig.GuiConfigSG$GuiDeleteEntry",
+    "spazley.scalingguis.gui.guiconfig.GuiSelectDeleteSG",
+    "net.minecraftforge.fml.client.config.GuiConfig",
+    "vazkii.patchouli.client.book.gui.GuiBookLanding",
+    "net.minecraft.client.gui.GuiOptions",
+    "net.minecraft.client.gui.GuiVideoSettings",
+    "net.minecraft.client.gui.GuiWorldSelection",
+    "net.minecraftforge.fml.client.GuiConfirmation",
+    "net.minecraft.client.gui.GuiMainMenu",
+    "net.minecraft.client.gui.GuiScreenWorking",
+    "betteradvancements.gui.GuiScreenBetterAdvancements",
+    "mezz.jei.gui.recipes.RecipesGui",
+    "net.minecraft.client.gui.GuiChat",
+    "net.optifine.gui.GuiChatOF",
+    "io.github.Theray070696.respawn.ClientEventHandler$GuiGameOverTimer",
+    "net.minecraft.client.gui.inventory.GuiInventory",
+    "net.minecraft.client.gui.GuiIngameMenu",
+    "net.minecraftforge.fml.client.GuiModList",
+    "spazley.scalingguis.gui.guiconfig.GuiConfigSG"
+  ],
+  "blacklistGuiClassNames": [],
+  "dynamicGuiScales": []
+}

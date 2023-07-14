@@ -5,10 +5,10 @@
 		uid: "f9882c29",
 		type: "item",
 		items: [{
+			id: "rustic:crop_stake",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "rustic:crop_stake"
+			}
 		}]
 	}]
 }

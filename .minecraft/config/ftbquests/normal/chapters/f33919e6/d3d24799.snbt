@@ -4,7 +4,8 @@
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
 		},
-		id: "thebetweenlands:shockwave_sword"
+		id: "thebetweenlands:shockwave_sword",
+		Count: 1b
 	},
 	x: 1.0d,
 	y: 12.5d,
@@ -22,7 +23,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:shockwave_sword"
+			id: "thebetweenlands:shockwave_sword",
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -31,11 +33,11 @@
 		uid: "0bc929bb",
 		type: "kill",
 		icon: {
+			id: "quark:glass_shards",
+			Damage: 10s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "quark:glass_shards",
-			Damage: 10s
+			}
 		},
 		entity: "thebetweenlands:fortress_boss",
 		value: 1L
@@ -44,10 +46,10 @@
 		uid: "882432c5",
 		type: "item",
 		item: {
+			id: "scalinghealth:crystalshard",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "scalinghealth:crystalshard"
+			}
 		},
 		count: 2
 	}]

@@ -9,20 +9,20 @@
 		uid: "35cbdd10",
 		type: "item",
 		items: [{
+			id: "betternether:cincinnasite_block",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "betternether:cincinnasite_block"
+			}
 		}]
 	},
 	{
 		uid: "b6b039a4",
 		type: "item",
 		items: [{
+			id: "betternether:cincinnasite_forged",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "betternether:cincinnasite_forged"
+			}
 		}]
 	}]
 }

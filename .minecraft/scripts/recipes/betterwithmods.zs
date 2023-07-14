@@ -30,7 +30,32 @@ recipes.addShapeless(<minecraft:string>, [<betterwithmods:material:3>,<betterwit
 
 recipes.remove(<betterwithmods:material:45>);
 
+recipes.remove(<betterwithmods:wool_helmet>);
+recipes.remove(<betterwithmods:wool_chest>);
+recipes.remove(<betterwithmods:wool_pants>);
+recipes.remove(<betterwithmods:wool_boots>);
 
+var wool = <ore:blockWool>;
+
+recipes.addShaped(<betterwithmods:wool_helmet>,
+[[wool,wool,wool],
+[wool,null,wool],
+[]]);
+
+recipes.addShaped(<betterwithmods:wool_chest>,
+[[wool,null,wool],
+[wool,wool,wool],
+[wool,wool,wool]]);
+
+recipes.addShaped(<betterwithmods:wool_pants>,
+[[wool,wool,wool],
+[wool,null,wool],
+[wool,null,wool]]);
+
+recipes.addShaped(<betterwithmods:wool_boots>,
+[[wool,null,wool],
+[wool,null,wool],
+[]]);
 
 ### MILL RECIPES ###
 
@@ -54,9 +79,23 @@ Mill.builder()
 //mods.betterwithmods.Cauldron.addStoked([<ore:stoneDioritePolished>, <ore:slimeballPurple>, <minecraft:iron_ingot>, <minecraft:iron_ingot>],[<tconstruct:ingots:3>]);
 mods.betterwithmods.Cauldron.remove([<betterwithmods:material:50>]);
 
+mods.betterwithmods.Cauldron.remove([<betterwithmods:material:6>]);
+mods.betterwithmods.Cauldron.remove([<betterwithmods:material:32>]);
 
+mods.betterwithmods.Cauldron.addUnstoked([<betterwithmods:material:7>, <ore:barkWood>*5], [<betterwithmods:material:6>]);
+mods.betterwithmods.Cauldron.addUnstoked([<betterwithmods:material:33>, <ore:barkWood>*5], [<betterwithmods:material:32>]);
 
 ### ANVIL RECIPES ###
+
+Anvil.removeShapedFixed(<betterwithmods:steel_battleaxe>);
+Anvil.removeShapedFixed(<betterwithmods:steel_mattock>);
+Anvil.removeShapedFixed(<betterwithmods:steel_hacksaw>);
+Anvil.removeShapedFixed(<betterwithaddons:steel_spade>);
+Anvil.removeShapedFixed(<betterwithaddons:steel_matchpick>);
+Anvil.removeShapedFixed(<betterwithaddons:steel_machete>);
+Anvil.removeShapedFixed(<betterwithaddons:steel_kukri>);
+Anvil.removeShapedFixed(<betterwithaddons:steel_carpentersaw>);
+Anvil.removeShapedFixed(<betterwithaddons:steel_masonpick>);
 
 //Anvil.addShaped(<:>, [[],[],[],[]]);
 

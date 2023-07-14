@@ -13,10 +13,10 @@
 		uid: "c40566df",
 		type: "kill",
 		icon: {
+			id: "toroquest:trophy_titan",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "toroquest:trophy_titan"
+			}
 		},
 		entity: "toroquest:toroquest_grave_titan",
 		value: 1L
@@ -25,10 +25,10 @@
 		uid: "e4a29238",
 		type: "item",
 		item: {
+			id: "scalinghealth:crystalshard",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "scalinghealth:crystalshard"
+			}
 		},
 		count: 2
 	}]

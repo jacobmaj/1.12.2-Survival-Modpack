@@ -12,7 +12,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:gem_singer"
+			id: "thebetweenlands:gem_singer",
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

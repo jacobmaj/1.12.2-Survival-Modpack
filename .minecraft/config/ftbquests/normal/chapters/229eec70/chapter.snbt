@@ -1,10 +1,10 @@
 {
 	title: "Way of the Farmer",
 	icon: {
+		id: "minecraft:carrot",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "minecraft:carrot"
+		}
 	},
 	always_invisible: false,
 	group: 0,

@@ -7,18 +7,11 @@
 // Locks a liquid to a stage. This only affects JEI
 //mods.ItemStages.stageLiquid("nine", <liquid:water>);
 
-
-
-
-mods.ItemStages.stageModItems("aether", "aether_legacy");
-mods.ItemStages.stageModItems("aether", "lost_aether");
-
-
-mods.ItemStages.addItemStage("end", <iceandfire:dread_shard>);
 mods.ItemStages.addItemStage("end", <minecraft:ender_eye>);
 
-mods.ItemStages.stageModItems("end", "cyberware");
 /*
+mods.ItemStages.stageModItems("aether", "aether_legacy");
+mods.ItemStages.stageModItems("aether", "lost_aether");
 mods.ItemStages.stageModItems("end", "conarm");
 mods.ItemStages.stageModItems("end", "tcomplement");
 mods.ItemStages.stageModItems("end", "tconstruct");
@@ -26,6 +19,10 @@ mods.ItemStages.stageModItems("end", "tinkersaether");
 mods.ItemStages.stageModItems("end", "materialis");
 mods.ItemStages.stageModItems("end", "tinkersaddons");
 mods.ItemStages.stageModItems("end", "plustic");
+mods.ItemStages.stageModItems("end", "cyberware");
+*/
+
+/*
 
 
 //### tconstruct staging
@@ -164,14 +161,13 @@ mods.ItemStages.addItemStage("nether",<tcomplement:manyullyn_boots>);
 
 mods.ItemStages.stageModItems("betweenlands", "thebetweenlands");
 
-*/
 
 ### mistyworld staging
 mods.ItemStages.stageModItems("mistyworld", "mist");
 mods.ItemStages.removeItemStage(<mist:portal_base:0>);
 mods.ItemStages.removeItemStage(<mist:portal_base:1>);
 
-
+*/
 
 ### unused
 //mods.ItemStages.addItemStage("never", <mutantbeasts:chemical_x>);

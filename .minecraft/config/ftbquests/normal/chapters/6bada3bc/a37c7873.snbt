@@ -1,9 +1,9 @@
 {
 	icon: {
+		id: "betterwithaddons:legendarium",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "betterwithaddons:legendarium"
+		}
 	},
 	x: 5.0d,
 	y: 2.0d,
@@ -14,20 +14,20 @@
 		uid: "0802c35e",
 		type: "item",
 		items: [{
+			id: "betterwithaddons:legendarium",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "betterwithaddons:legendarium"
+			}
 		}]
 	},
 	{
 		uid: "d03965a2",
 		type: "item",
 		items: [{
+			id: "betterwithaddons:artifact_frame",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "betterwithaddons:artifact_frame"
+			}
 		}]
 	}]
 }

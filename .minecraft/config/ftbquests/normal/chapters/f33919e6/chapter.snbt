@@ -5,9 +5,10 @@
 			"wizardryutils:summoneditemdata": {}
 		},
 		id: "thebetweenlands:cragrock",
-		Damage: 1s
+		Damage: 1s,
+		Count: 1b
 	},
 	always_invisible: false,
-	group: 0,
+	group: -1257360159,
 	default_quest_shape: ""
 }

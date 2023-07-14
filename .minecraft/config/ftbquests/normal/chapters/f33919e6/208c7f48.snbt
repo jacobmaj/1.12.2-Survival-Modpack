@@ -9,7 +9,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:crab_pot"
+			id: "thebetweenlands:crab_pot",
+			Count: 1b
 		}]
 	}]
 }

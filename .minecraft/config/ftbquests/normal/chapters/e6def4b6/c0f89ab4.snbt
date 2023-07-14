@@ -9,10 +9,10 @@
 		uid: "ce9a1421",
 		type: "item",
 		items: [{
+			id: "cyberware:beacon",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "cyberware:beacon"
+			}
 		}]
 	}]
 }

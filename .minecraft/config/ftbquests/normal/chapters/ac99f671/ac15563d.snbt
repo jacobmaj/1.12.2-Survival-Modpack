@@ -8,24 +8,24 @@
 		uid: "2f517c35",
 		type: "item",
 		icon: {
+			id: "minecraft:cobblestone",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:cobblestone"
+			}
 		},
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				Parent: {
-					data: "cobblestone",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any cobblestone"
 				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "cobblestone"
+				},
+				"wizardryutils:summoneditemdata": {}
 			}
 		}],
 		count: 3L

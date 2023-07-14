@@ -1,9 +1,9 @@
 {
 	icon: {
+		id: "mist:latex",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "mist:latex"
+		}
 	},
 	x: 2.5d,
 	y: -3.0d,
@@ -15,10 +15,10 @@
 		uid: "6a5636b6",
 		type: "observation",
 		icon: {
+			id: "mist:r_tree_block",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:r_tree_block"
+			}
 		},
 		match_type: "block_id",
 		match: "mist:r_tree_trunk",
@@ -28,20 +28,20 @@
 		uid: "88e4a084",
 		type: "item",
 		items: [{
+			id: "mist:latex_pot",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:latex_pot"
+			}
 		}]
 	},
 	{
 		uid: "7bfe79bf",
 		type: "item",
 		items: [{
+			id: "mist:latex",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:latex"
+			}
 		}]
 	}]
 }

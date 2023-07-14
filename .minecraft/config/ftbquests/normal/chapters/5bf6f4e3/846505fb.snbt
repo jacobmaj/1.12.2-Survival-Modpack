@@ -10,10 +10,10 @@
 		uid: "35cb338b",
 		type: "item",
 		items: [{
+			id: "mist:rubber",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:rubber"
+			}
 		}]
 	}]
 }

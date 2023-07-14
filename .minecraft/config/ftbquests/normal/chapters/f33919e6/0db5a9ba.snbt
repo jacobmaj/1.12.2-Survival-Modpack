@@ -13,7 +13,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:crimson_middle_gem"
+			id: "thebetweenlands:crimson_middle_gem",
+			Count: 1b
 		}]
 	},
 	{
@@ -23,7 +24,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:aqua_middle_gem"
+			id: "thebetweenlands:aqua_middle_gem",
+			Count: 1b
 		}]
 	},
 	{
@@ -33,7 +35,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:green_middle_gem"
+			id: "thebetweenlands:green_middle_gem",
+			Count: 1b
 		}]
 	}]
 }

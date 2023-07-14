@@ -1,9 +1,9 @@
 {
 	icon: {
+		id: "simplytea:leaf_tea",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "simplytea:leaf_tea"
+		}
 	},
 	x: -1.0d,
 	y: -4.5d,
@@ -14,10 +14,10 @@
 		uid: "0bd16165",
 		type: "item",
 		items: [{
+			id: "simplytea:leaf_tea",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "simplytea:leaf_tea"
+			}
 		}],
 		count: 3L
 	},
@@ -25,10 +25,10 @@
 		uid: "24949931",
 		type: "item",
 		items: [{
+			id: "simplytea:tea_sapling",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "simplytea:tea_sapling"
+			}
 		}]
 	}]
 }

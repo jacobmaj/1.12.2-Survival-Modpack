@@ -5,10 +5,10 @@
 		uid: "11cbede8",
 		type: "item",
 		items: [{
+			id: "wards:ward",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "wards:ward"
+			}
 		}]
 	}]
 }

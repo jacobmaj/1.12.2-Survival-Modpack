@@ -3,7 +3,8 @@
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
 		},
-		id: "thebetweenlands:snot_pod"
+		id: "thebetweenlands:snot_pod",
+		Count: 1b
 	},
 	x: 9.5d,
 	y: 8.0d,
@@ -19,7 +20,8 @@
 				"wizardryutils:summoneditemdata": {}
 			},
 			id: "thebetweenlands:items_misc",
-			Damage: 58s
+			Damage: 58s,
+			Count: 1b
 		}]
 	},
 	{
@@ -29,7 +31,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:snot_pod"
+			id: "thebetweenlands:snot_pod",
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

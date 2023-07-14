@@ -23,6 +23,16 @@
 			{
 				"mob": "mod_lavacow:banshee",
 				"weight": 2
+			},
+			{
+				"mob": "turtdance:axebeak",
+				"weight": 1,
+				"groupcountmax": 1
+			},
+			{
+				"mob": "turtdance:fugu",
+				"weight": 1,
+				"groupcountmax": 1
 			}
 		]
 	},

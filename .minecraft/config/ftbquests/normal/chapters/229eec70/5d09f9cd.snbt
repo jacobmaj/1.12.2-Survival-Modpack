@@ -5,20 +5,20 @@
 		uid: "f71f78a3",
 		type: "item",
 		items: [{
+			id: "rustic:condenser",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "rustic:condenser"
+			}
 		}]
 	},
 	{
 		uid: "509664de",
 		type: "item",
 		items: [{
+			id: "rustic:retort",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "rustic:retort"
+			}
 		}]
 	}]
 }

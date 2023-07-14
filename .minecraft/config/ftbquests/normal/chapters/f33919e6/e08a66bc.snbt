@@ -8,7 +8,8 @@
 			Entity: {
 				id: "thebetweenlands:gecko"
 			}
-		}
+		},
+		Count: 1b
 	},
 	x: 8.5d,
 	y: 11.0d,
@@ -28,7 +29,8 @@
 				Entity: {
 					id: "thebetweenlands:gecko"
 				}
-			}
+			},
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -40,7 +42,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:gecko_cage"
+			id: "thebetweenlands:gecko_cage",
+			Count: 1b
 		}]
 	}]
 }

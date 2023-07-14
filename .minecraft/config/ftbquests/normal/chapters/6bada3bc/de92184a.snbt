@@ -9,10 +9,10 @@
 		uid: "9d05324b",
 		type: "item",
 		items: [{
+			id: "rustic:bee",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "rustic:bee"
+			}
 		}]
 	}]
 }

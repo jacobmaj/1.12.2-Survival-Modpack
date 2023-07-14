@@ -10,10 +10,10 @@
 		uid: "2649620f",
 		type: "kill",
 		icon: {
+			id: "toroquest:legendary_bandit_helmet",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "toroquest:legendary_bandit_helmet"
+			}
 		},
 		entity: "toroquest:toroquest_bandit_lord",
 		value: 1L
@@ -22,10 +22,10 @@
 		uid: "3eb09347",
 		type: "item",
 		item: {
+			id: "scalinghealth:crystalshard",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "scalinghealth:crystalshard"
+			}
 		},
 		count: 2
 	}]

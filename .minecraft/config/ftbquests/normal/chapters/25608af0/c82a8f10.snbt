@@ -1,10 +1,10 @@
 {
 	icon: {
+		id: "betterwithmods:material",
+		Damage: 14s,
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "betterwithmods:material",
-		Damage: 14s
+		}
 	},
 	x: 0.5d,
 	y: -12.5d,
@@ -16,21 +16,21 @@
 		uid: "b97ac8ae",
 		type: "item",
 		items: [{
+			id: "betterwithmods:material",
+			Damage: 14s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "betterwithmods:material",
-			Damage: 14s
+			}
 		}]
 	},
 	{
 		uid: "4a306498",
 		type: "item",
 		items: [{
+			id: "betterwithmods:steel_anvil",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "betterwithmods:steel_anvil"
+			}
 		}]
 	}]
 }

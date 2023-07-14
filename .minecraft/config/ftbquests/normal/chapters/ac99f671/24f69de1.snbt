@@ -11,10 +11,10 @@
 		uid: "3c0f3a65",
 		type: "item",
 		items: [{
+			id: "quark:arrow_torch",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "quark:arrow_torch"
+			}
 		}]
 	}]
 }

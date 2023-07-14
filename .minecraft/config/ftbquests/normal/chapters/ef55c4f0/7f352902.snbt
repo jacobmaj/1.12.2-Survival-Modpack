@@ -9,10 +9,10 @@
 		uid: "07245fb2",
 		type: "item",
 		items: [{
+			id: "aether_legacy:gravitite_ore",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "aether_legacy:gravitite_ore"
+			}
 		}]
 	}]
 }

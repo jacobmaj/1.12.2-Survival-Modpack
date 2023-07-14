@@ -8,10 +8,10 @@
 		uid: "1f2b7181",
 		type: "item",
 		items: [{
+			id: "minecraft:iron_ingot",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:iron_ingot"
+			}
 		}],
 		count: 3L
 	}]

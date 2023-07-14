@@ -1,11 +1,11 @@
 {
 	title: "☆Enter The Misty World",
 	icon: {
+		id: "mist:acid_grass_0",
+		Damage: 1s,
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "mist:acid_grass_0",
-		Damage: 1s
+		}
 	},
 	x: 0.0d,
 	y: -5.0d,

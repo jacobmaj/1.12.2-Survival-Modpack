@@ -17,7 +17,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "tconstruct:tooltables"
+			id: "tconstruct:tooltables",
+			Count: 1b
 		}]
 	}]
 }

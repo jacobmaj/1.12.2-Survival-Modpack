@@ -1,10 +1,10 @@
 {
 	title: "☆",
 	icon: {
+		id: "netherex:urn_of_sorrow",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "netherex:urn_of_sorrow"
+		}
 	},
 	x: 0.0d,
 	y: 3.5d,
@@ -17,10 +17,10 @@
 		uid: "32147b2c",
 		type: "observation",
 		icon: {
+			id: "netherex:urn_of_sorrow",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "netherex:urn_of_sorrow"
+			}
 		},
 		match_type: "block_id",
 		match: "netherex:urn_of_sorrow",
@@ -30,10 +30,10 @@
 		uid: "cb07182d",
 		type: "item",
 		items: [{
+			id: "netherex:ghast_queen_tear",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "netherex:ghast_queen_tear"
+			}
 		}]
 	}],
 	rewards: [{
@@ -41,10 +41,10 @@
 		type: "gamestage",
 		title: "...A new chapter awaits!",
 		icon: {
+			id: "twilightforest:miniature_structure",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "twilightforest:miniature_structure"
+			}
 		},
 		auto: "enabled",
 		stage: "twilightforest"
@@ -53,10 +53,10 @@
 		uid: "8ffde95a",
 		type: "item",
 		item: {
+			id: "scalinghealth:crystalshard",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "scalinghealth:crystalshard"
+			}
 		},
 		count: 2
 	}]

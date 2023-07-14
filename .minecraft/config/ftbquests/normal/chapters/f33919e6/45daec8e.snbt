@@ -13,7 +13,8 @@
 				"wizardryutils:summoneditemdata": {}
 			},
 			id: "thebetweenlands:items_misc",
-			Damage: 49s
+			Damage: 49s,
+			Count: 1b
 		}]
 	}]
 }

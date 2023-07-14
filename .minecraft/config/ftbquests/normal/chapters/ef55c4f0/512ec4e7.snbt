@@ -12,7 +12,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "refinedstorage:disk_manipulator"
+			id: "refinedstorage:disk_manipulator",
+			Count: 1b
 		}]
 	}]
 }

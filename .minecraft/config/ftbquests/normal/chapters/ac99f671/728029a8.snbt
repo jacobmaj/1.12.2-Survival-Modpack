@@ -6,10 +6,10 @@
 		uid: "5d5e8adb",
 		type: "kill",
 		icon: {
+			id: "iceandfire:siren_flute",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "iceandfire:siren_flute"
+			}
 		},
 		entity: "iceandfire:siren",
 		value: 2L
@@ -18,10 +18,10 @@
 		uid: "a2c976e2",
 		type: "item",
 		item: {
+			id: "scalinghealth:crystalshard",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "scalinghealth:crystalshard"
+			}
 		}
 	}]
 }

@@ -1,9 +1,9 @@
 {
 	icon: {
+		id: "iceandfire:dragonforge_fire_input",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "iceandfire:dragonforge_fire_input"
+		}
 	},
 	x: -7.5d,
 	y: -3.0d,
@@ -14,10 +14,10 @@
 		uid: "ef223755",
 		type: "item",
 		items: [{
+			id: "iceandfire:dragonforge_fire_brick",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "iceandfire:dragonforge_fire_brick"
+			}
 		}],
 		count: 17L
 	},
@@ -25,10 +25,10 @@
 		uid: "115b4512",
 		type: "item",
 		items: [{
+			id: "iceandfire:dragon_bone_block",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "iceandfire:dragon_bone_block"
+			}
 		}],
 		count: 8L
 	},
@@ -36,20 +36,20 @@
 		uid: "522183d6",
 		type: "item",
 		items: [{
+			id: "iceandfire:dragonforge_fire_core_disabled",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "iceandfire:dragonforge_fire_core_disabled"
+			}
 		}]
 	},
 	{
 		uid: "4ac329f5",
 		type: "item",
 		items: [{
+			id: "iceandfire:dragonforge_fire_input",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "iceandfire:dragonforge_fire_input"
+			}
 		}]
 	}]
 }

@@ -8,10 +8,10 @@
 		uid: "8e9798e6",
 		type: "item",
 		items: [{
+			id: "twilightforest:ore_map_empty",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "twilightforest:ore_map_empty"
+			}
 		}]
 	}]
 }

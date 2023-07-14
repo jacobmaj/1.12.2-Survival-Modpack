@@ -15,10 +15,10 @@
 		uid: "b798a9e8",
 		type: "item",
 		items: [{
+			id: "twilightforest:miniature_structure",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "twilightforest:miniature_structure"
+			}
 		}]
 	}]
 }

@@ -14,11 +14,11 @@
 		uid: "37296cac",
 		type: "kill",
 		icon: {
+			id: "twilightforest:trophy",
+			Damage: 2s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "twilightforest:trophy",
-			Damage: 2s
+			}
 		},
 		entity: "twilightforest:hydra",
 		value: 1L
@@ -27,10 +27,10 @@
 		uid: "d6916214",
 		type: "item",
 		item: {
+			id: "scalinghealth:crystalshard",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "scalinghealth:crystalshard"
+			}
 		},
 		count: 2
 	}]

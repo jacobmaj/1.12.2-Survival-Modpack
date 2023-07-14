@@ -3,7 +3,8 @@
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
 		},
-		id: "thebetweenlands:fishing_spear"
+		id: "thebetweenlands:fishing_spear",
+		Count: 1b
 	},
 	x: 10.5d,
 	y: 7.0d,
@@ -18,7 +19,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:fishing_spear"
+			id: "thebetweenlands:fishing_spear",
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -30,7 +32,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:fishing_spear_amphibious"
+			id: "thebetweenlands:fishing_spear_amphibious",
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -42,7 +45,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:fishing_spear_amphibious_robust"
+			id: "thebetweenlands:fishing_spear_amphibious_robust",
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

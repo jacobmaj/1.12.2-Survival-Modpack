@@ -12,7 +12,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:empty_amate_map"
+			id: "thebetweenlands:empty_amate_map",
+			Count: 1b
 		}]
 	}]
 }

@@ -9,7 +9,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:sulfur_torch"
+			id: "thebetweenlands:sulfur_torch",
+			Count: 1b
 		}],
 		count: 16L
 	}]

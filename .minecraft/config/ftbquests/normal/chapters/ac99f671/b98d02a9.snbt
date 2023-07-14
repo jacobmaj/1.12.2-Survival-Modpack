@@ -1,10 +1,10 @@
 {
 	title: "Discover the Defiled Lands",
 	icon: {
+		id: "defiledlands:tenebra_sapling",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "defiledlands:tenebra_sapling"
+		}
 	},
 	x: 0.0d,
 	y: 4.5d,
@@ -22,10 +22,10 @@
 		uid: "ed209344",
 		type: "biome",
 		icon: {
+			id: "defiledlands:sand_defiled",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "defiledlands:sand_defiled"
+			}
 		},
 		biome: "defiledlands:desert_defiled"
 	},
@@ -33,10 +33,10 @@
 		uid: "19a31443",
 		type: "biome",
 		icon: {
+			id: "defiledlands:grass_defiled",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "defiledlands:grass_defiled"
+			}
 		},
 		biome: "defiledlands:plains_defiled"
 	},
@@ -44,10 +44,10 @@
 		uid: "d8a783cf",
 		type: "biome",
 		icon: {
+			id: "defiledlands:tenebra_log",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "defiledlands:tenebra_log"
+			}
 		},
 		biome: "defiledlands:forest_tenebra"
 	},
@@ -55,10 +55,10 @@
 		uid: "fc00d3ce",
 		type: "biome",
 		icon: {
+			id: "defiledlands:tenebra_sapling",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "defiledlands:tenebra_sapling"
+			}
 		},
 		biome: "defiledlands:forest_vilespine"
 	},
@@ -66,10 +66,10 @@
 		uid: "2182b8d7",
 		type: "biome",
 		icon: {
+			id: "defiledlands:gravel_defiled",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "defiledlands:gravel_defiled"
+			}
 		},
 		biome: "defiledlands:hills_defiled"
 	},
@@ -77,10 +77,10 @@
 		uid: "a929d454",
 		type: "biome",
 		icon: {
+			id: "defiledlands:tenebra_leaves",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "defiledlands:tenebra_leaves"
+			}
 		},
 		biome: "defiledlands:swamp_defiled"
 	},
@@ -88,10 +88,10 @@
 		uid: "5bf62f71",
 		type: "biome",
 		icon: {
+			id: "netherex:frostburn_ice",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "netherex:frostburn_ice"
+			}
 		},
 		biome: "defiledlands:ice_plains_defiled"
 	}]

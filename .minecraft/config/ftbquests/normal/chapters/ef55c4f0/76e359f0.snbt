@@ -1,9 +1,9 @@
 {
 	icon: {
+		id: "aether_legacy:enchanter",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "aether_legacy:enchanter"
+		}
 	},
 	x: -7.0d,
 	y: 3.5d,
@@ -15,20 +15,20 @@
 		uid: "268bae8a",
 		type: "item",
 		items: [{
+			id: "aether_legacy:enchanter",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "aether_legacy:enchanter"
+			}
 		}]
 	},
 	{
 		uid: "7359784c",
 		type: "item",
 		items: [{
+			id: "aether_legacy:enchanted_gravitite",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "aether_legacy:enchanted_gravitite"
+			}
 		}]
 	}]
 }

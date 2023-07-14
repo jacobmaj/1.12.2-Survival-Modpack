@@ -1,10 +1,10 @@
 {
 	title: "Lanterns",
 	icon: {
+		id: "futuremc:lantern",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "futuremc:lantern"
+		}
 	},
 	x: -2.0d,
 	y: -3.0d,
@@ -19,40 +19,40 @@
 		uid: "9fe7571a",
 		type: "item",
 		items: [{
+			id: "futuremc:lantern",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "futuremc:lantern"
+			}
 		}]
 	},
 	{
 		uid: "c3327cfa",
 		type: "item",
 		items: [{
+			id: "charm:gold_lantern",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "charm:gold_lantern"
+			}
 		}]
 	},
 	{
 		uid: "20bb8811",
 		type: "item",
 		items: [{
+			id: "rustic:lantern_wood",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "rustic:lantern_wood"
+			}
 		}]
 	},
 	{
 		uid: "379bee00",
 		type: "item",
 		items: [{
+			id: "betterwithaddons:wood_lamp",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "betterwithaddons:wood_lamp"
+			}
 		}]
 	}]
 }

@@ -8,10 +8,10 @@
 		uid: "fa3399f2",
 		type: "item",
 		items: [{
+			id: "defiledlands:defilement_powder",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "defiledlands:defilement_powder"
+			}
 		}]
 	}]
 }

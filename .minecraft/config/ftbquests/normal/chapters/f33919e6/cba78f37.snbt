@@ -12,7 +12,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:volarkite"
+			id: "thebetweenlands:volarkite",
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

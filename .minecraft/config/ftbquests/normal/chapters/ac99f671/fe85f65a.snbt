@@ -1,10 +1,10 @@
 {
 	title: "Bounty Board",
 	icon: {
+		id: "bountiful:bountyboarditem",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "bountiful:bountyboarditem"
+		}
 	},
 	x: 9.5d,
 	y: -9.0d,
@@ -20,10 +20,10 @@
 		type: "observation",
 		title: "Find a Bounty Board",
 		icon: {
+			id: "bountiful:bountyboarditem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "bountiful:bountyboarditem"
+			}
 		},
 		match_type: "block_id",
 		match: "bountiful:bountyboard",
@@ -34,10 +34,10 @@
 		type: "item",
 		title: "Pick up a Bounty!",
 		items: [{
+			id: "bountiful:bounty",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "bountiful:bounty"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -47,10 +47,10 @@
 		type: "item",
 		title: "One Random Bounty",
 		item: {
+			id: "bountiful:bounty",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "bountiful:bounty"
+			}
 		}
 	}]
 }

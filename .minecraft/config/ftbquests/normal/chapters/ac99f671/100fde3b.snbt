@@ -13,10 +13,10 @@
 		uid: "891d5ee2",
 		type: "observation",
 		icon: {
+			id: "betteranimalsplus:wolfhead_4",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "betteranimalsplus:wolfhead_4"
+			}
 		},
 		match_type: "entity_id",
 		match: "minecraft:wolf",

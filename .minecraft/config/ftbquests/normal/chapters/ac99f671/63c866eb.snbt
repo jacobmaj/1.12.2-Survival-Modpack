@@ -11,10 +11,10 @@
 		uid: "2933a3e4",
 		type: "item",
 		items: [{
+			id: "spartanshields:shield_basic_wood",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "spartanshields:shield_basic_wood"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

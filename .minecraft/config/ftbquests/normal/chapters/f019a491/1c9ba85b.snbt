@@ -14,10 +14,10 @@
 		uid: "9e0becdc",
 		type: "kill",
 		icon: {
+			id: "twilightforest:trophy",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "twilightforest:trophy"
+			}
 		},
 		entity: "twilightforest:naga",
 		value: 1L
@@ -26,10 +26,10 @@
 		uid: "0179ca59",
 		type: "item",
 		item: {
+			id: "scalinghealth:crystalshard",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "scalinghealth:crystalshard"
+			}
 		}
 	}]
 }

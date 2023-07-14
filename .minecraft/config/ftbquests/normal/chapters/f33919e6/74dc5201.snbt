@@ -10,7 +10,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:weedwood_barrel"
+			id: "thebetweenlands:weedwood_barrel",
+			Count: 1b
 		}]
 	},
 	{
@@ -20,7 +21,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:syrmorite_barrel"
+			id: "thebetweenlands:syrmorite_barrel",
+			Count: 1b
 		}]
 	}]
 }

@@ -1350,6 +1350,15 @@ lycanitesmobs:entity.herma.fly
 lycanitesmobs:entity.herma.tame
 lycanitesmobs:entity.herma.beg
 lycanitesmobs:entity.herma.eat
+lycanitesmobs:entity.vapula.say
+lycanitesmobs:entity.vapula.hurt
+lycanitesmobs:entity.vapula.death
+lycanitesmobs:entity.vapula.step
+lycanitesmobs:entity.vapula.attack
+lycanitesmobs:entity.vapula.jump
+lycanitesmobs:entity.vapula.fly
+lycanitesmobs:entity.vapula.tame
+lycanitesmobs:entity.vapula.beg
 lycanitesmobs:entity.treant.say
 lycanitesmobs:entity.treant.hurt
 lycanitesmobs:entity.treant.death
@@ -2332,6 +2341,7 @@ ebwizardry:forfeit.levitate_self
 ebwizardry:forfeit.vex_horde
 ebwizardry:forfeit.black_hole
 ebwizardry:forfeit.arrow_rain
+ebwizardry:forfeit.teleport_self_large_distance
 ebwizardry:forfeit.damage_self
 ebwizardry:forfeit.spill_armour
 ebwizardry:forfeit.hunger

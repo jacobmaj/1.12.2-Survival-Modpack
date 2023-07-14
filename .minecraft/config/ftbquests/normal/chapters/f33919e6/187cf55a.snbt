@@ -3,7 +3,8 @@
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
 		},
-		id: "thebetweenlands:walkway"
+		id: "thebetweenlands:walkway",
+		Count: 1b
 	},
 	x: -8.0d,
 	y: 8.5d,
@@ -19,7 +20,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:walkway"
+			id: "thebetweenlands:walkway",
+			Count: 1b
 		}],
 		count: 16L
 	},
@@ -30,7 +32,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:wood_chip_path"
+			id: "thebetweenlands:wood_chip_path",
+			Count: 1b
 		}],
 		count: 16L
 	}]

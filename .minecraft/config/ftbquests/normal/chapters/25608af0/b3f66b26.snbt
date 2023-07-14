@@ -1,9 +1,9 @@
 {
 	icon: {
+		id: "betterwithmods:single_machine",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "betterwithmods:single_machine"
+		}
 	},
 	x: 0.5d,
 	y: 0.0d,
@@ -11,20 +11,20 @@
 		uid: "02b4d506",
 		type: "item",
 		items: [{
+			id: "betterwithmods:single_machine",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "betterwithmods:single_machine"
+			}
 		}]
 	},
 	{
 		uid: "f507a68d",
 		type: "item",
 		items: [{
+			id: "betterwithmods:hand_crank",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "betterwithmods:hand_crank"
+			}
 		}]
 	}]
 }

@@ -11,10 +11,10 @@
 		uid: "392028ab",
 		type: "item",
 		items: [{
+			id: "minecraft:furnace",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:furnace"
+			}
 		}]
 	}]
 }

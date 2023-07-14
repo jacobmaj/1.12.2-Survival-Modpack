@@ -11,10 +11,10 @@
 		uid: "c081efed",
 		type: "item",
 		items: [{
+			id: "qualitytools:reforging_station",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "qualitytools:reforging_station"
+			}
 		}]
 	}]
 }

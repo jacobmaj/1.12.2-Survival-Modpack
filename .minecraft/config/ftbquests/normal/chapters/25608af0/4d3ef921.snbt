@@ -8,10 +8,10 @@
 		uid: "61f08c15",
 		type: "item",
 		items: [{
+			id: "betterwithaddons:sapling_luretree",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "betterwithaddons:sapling_luretree"
+			}
 		}]
 	}]
 }

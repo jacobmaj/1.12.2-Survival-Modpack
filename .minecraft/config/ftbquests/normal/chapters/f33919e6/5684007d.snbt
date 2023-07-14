@@ -15,7 +15,8 @@
 				"wizardryutils:summoneditemdata": {}
 			},
 			id: "thebetweenlands:items_misc",
-			Damage: 17s
+			Damage: 17s,
+			Count: 1b
 		},
 		entity: "thebetweenlands:stalker",
 		value: 1L
@@ -24,10 +25,10 @@
 		uid: "fe823595",
 		type: "item",
 		item: {
+			id: "scalinghealth:crystalshard",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "scalinghealth:crystalshard"
+			}
 		}
 	}]
 }

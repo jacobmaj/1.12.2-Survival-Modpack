@@ -13,10 +13,10 @@
 		uid: "320942f6",
 		type: "item",
 		items: [{
+			id: "mist:glass_container",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:glass_container"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

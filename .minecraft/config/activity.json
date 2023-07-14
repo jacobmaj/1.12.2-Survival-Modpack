@@ -226,45 +226,6 @@
       "name": "fullskele",
       "uniqueId": "44dffc66-5998-4097-a66e-501c2fe27f75"
     },
-    "time": 1684125470752,
-    "type": "Profiler",
-    "data": {
-      "type": "url",
-      "value": "https://spark.lucko.me/GkuMK1rcL5"
-    }
-  },
-  {
-    "user": {
-      "type": "player",
-      "name": "fullskele",
-      "uniqueId": "44dffc66-5998-4097-a66e-501c2fe27f75"
-    },
-    "time": 1684093970398,
-    "type": "Profiler",
-    "data": {
-      "type": "url",
-      "value": "https://spark.lucko.me/EubuvcAGRZ"
-    }
-  },
-  {
-    "user": {
-      "type": "player",
-      "name": "fullskele",
-      "uniqueId": "44dffc66-5998-4097-a66e-501c2fe27f75"
-    },
-    "time": 1684035777841,
-    "type": "Profiler",
-    "data": {
-      "type": "url",
-      "value": "https://spark.lucko.me/RgeoZ4X2dp"
-    }
-  },
-  {
-    "user": {
-      "type": "player",
-      "name": "fullskele",
-      "uniqueId": "44dffc66-5998-4097-a66e-501c2fe27f75"
-    },
     "time": 1675479498472,
     "type": "Heap dump",
     "data": {

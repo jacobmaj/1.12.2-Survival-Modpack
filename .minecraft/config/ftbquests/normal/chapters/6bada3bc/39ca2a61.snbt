@@ -9,10 +9,10 @@
 		uid: "6bca6a89",
 		type: "item",
 		items: [{
+			id: "betternether:cincinnasite_forge",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "betternether:cincinnasite_forge"
+			}
 		}]
 	}]
 }

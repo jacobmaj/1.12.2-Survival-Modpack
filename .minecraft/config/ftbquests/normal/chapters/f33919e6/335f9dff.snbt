@@ -3,7 +3,8 @@
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
 		},
-		id: "thebetweenlands:middle_fruit_bush_seeds"
+		id: "thebetweenlands:middle_fruit_bush_seeds",
+		Count: 1b
 	},
 	x: 6.0d,
 	y: 7.5d,
@@ -18,7 +19,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:spores"
+			id: "thebetweenlands:spores",
+			Count: 1b
 		}]
 	},
 	{
@@ -28,7 +30,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:middle_fruit_bush_seeds"
+			id: "thebetweenlands:middle_fruit_bush_seeds",
+			Count: 1b
 		}]
 	}]
 }

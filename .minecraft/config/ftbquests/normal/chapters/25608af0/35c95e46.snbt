@@ -19,7 +19,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "embers:codex"
+			id: "embers:codex",
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

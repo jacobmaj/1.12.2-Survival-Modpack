@@ -9,10 +9,10 @@
 		uid: "dc489ddb",
 		type: "item",
 		items: [{
+			id: "simplytea:cup_tea_black",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "simplytea:cup_tea_black"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -21,10 +21,10 @@
 		uid: "235e17c8",
 		type: "item",
 		items: [{
+			id: "simplytea:cup_tea_green",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "simplytea:cup_tea_green"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -33,10 +33,10 @@
 		uid: "6c718e0f",
 		type: "item",
 		items: [{
+			id: "simplytea:cup_tea_chai",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "simplytea:cup_tea_chai"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -45,10 +45,10 @@
 		uid: "fa5b564f",
 		type: "item",
 		items: [{
+			id: "simplytea:cup_tea_chorus",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "simplytea:cup_tea_chorus"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -57,10 +57,10 @@
 		uid: "891401b8",
 		type: "item",
 		items: [{
+			id: "simplytea:cup_cocoa",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "simplytea:cup_cocoa"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -9,10 +9,10 @@
 		uid: "bc36275e",
 		type: "item",
 		items: [{
+			id: "mist:furnace",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:furnace"
+			}
 		}]
 	}]
 }

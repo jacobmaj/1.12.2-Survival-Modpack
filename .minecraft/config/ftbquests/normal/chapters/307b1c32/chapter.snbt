@@ -1,0 +1,12 @@
+{
+	title: "info",
+	icon: {
+		id: "minecraft:book",
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		}
+	},
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

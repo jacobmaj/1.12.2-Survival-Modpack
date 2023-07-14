@@ -1,11 +1,11 @@
 {
 	title: "☆Aethereal Annihilator",
 	icon: {
+		id: "scalinghealth:difficultychanger",
+		Damage: 1s,
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "scalinghealth:difficultychanger",
-		Damage: 1s
+		}
 	},
 	x: 0.0d,
 	y: 13.5d,
@@ -28,10 +28,10 @@
 		type: "gamestage",
 		title: "...A new chapter awaits!",
 		icon: {
+			id: "defiledlands:grass_defiled",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "defiledlands:grass_defiled"
+			}
 		},
 		team_reward: true,
 		auto: "invisible",

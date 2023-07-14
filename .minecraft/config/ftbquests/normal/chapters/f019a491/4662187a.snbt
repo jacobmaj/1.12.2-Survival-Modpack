@@ -9,30 +9,30 @@
 		uid: "bec93fe1",
 		type: "item",
 		items: [{
+			id: "twilightforest:charm_of_keeping_1",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "twilightforest:charm_of_keeping_1"
+			}
 		}]
 	},
 	{
 		uid: "7166b538",
 		type: "item",
 		items: [{
+			id: "twilightforest:charm_of_keeping_2",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "twilightforest:charm_of_keeping_2"
+			}
 		}]
 	},
 	{
 		uid: "7f457ba7",
 		type: "item",
 		items: [{
+			id: "twilightforest:charm_of_keeping_3",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "twilightforest:charm_of_keeping_3"
+			}
 		}]
 	}]
 }

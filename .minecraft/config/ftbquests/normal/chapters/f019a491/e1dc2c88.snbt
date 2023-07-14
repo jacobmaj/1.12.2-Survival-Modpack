@@ -10,10 +10,10 @@
 		uid: "ebb23ce7",
 		type: "item",
 		items: [{
+			id: "iceandfire:dragon_meal",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "iceandfire:dragon_meal"
+			}
 		}]
 	}]
 }

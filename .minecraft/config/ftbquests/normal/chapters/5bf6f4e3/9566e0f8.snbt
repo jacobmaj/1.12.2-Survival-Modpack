@@ -9,10 +9,10 @@
 		uid: "01b656ac",
 		type: "item",
 		items: [{
+			id: "mist:respirator_rubber",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:respirator_rubber"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -21,10 +21,10 @@
 		uid: "2ec12ae4",
 		type: "item",
 		items: [{
+			id: "mist:respirator_rubber_open",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:respirator_rubber_open"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

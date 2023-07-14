@@ -5,10 +5,10 @@
 		uid: "dfba91eb",
 		type: "item",
 		items: [{
+			id: "animania:block_nest",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "animania:block_nest"
+			}
 		}]
 	}]
 }

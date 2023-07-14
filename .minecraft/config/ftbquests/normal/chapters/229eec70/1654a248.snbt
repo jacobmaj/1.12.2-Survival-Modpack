@@ -5,10 +5,10 @@
 		uid: "ffb8e0a9",
 		type: "item",
 		items: [{
+			id: "animania:block_straw",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "animania:block_straw"
+			}
 		}]
 	}]
 }

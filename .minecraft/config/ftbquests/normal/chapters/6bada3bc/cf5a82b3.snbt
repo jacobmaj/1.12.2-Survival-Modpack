@@ -9,10 +9,10 @@
 		uid: "8db17a7c",
 		type: "observation",
 		icon: {
+			id: "betternether:pig_statue_01",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "betternether:pig_statue_01"
+			}
 		},
 		match_type: "block_id",
 		match: "betternether:pig_statue_01",

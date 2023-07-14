@@ -9,11 +9,11 @@
 		uid: "c33209d3",
 		type: "item",
 		items: [{
+			id: "betterwithmods:urn",
+			Damage: 9s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "betterwithmods:urn",
-			Damage: 9s
+			}
 		}]
 	}]
 }

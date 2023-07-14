@@ -9,10 +9,10 @@
 		uid: "7ce1466b",
 		type: "item",
 		items: [{
+			id: "quark:trowel",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "quark:trowel"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

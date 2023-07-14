@@ -10,10 +10,10 @@
 		uid: "323f49fb",
 		type: "kill",
 		icon: {
+			id: "toroquest:dwarven_artifact",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "toroquest:dwarven_artifact"
+			}
 		},
 		entity: "toroquest:toroquest_construct_quest",
 		value: 1L
@@ -22,10 +22,10 @@
 		uid: "10166214",
 		type: "item",
 		item: {
+			id: "scalinghealth:crystalshard",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "scalinghealth:crystalshard"
+			}
 		},
 		count: 2
 	}]

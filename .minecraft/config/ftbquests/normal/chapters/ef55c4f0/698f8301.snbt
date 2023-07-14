@@ -13,11 +13,11 @@
 		uid: "ef746432",
 		type: "kill",
 		icon: {
+			id: "aether_legacy:dungeon_key",
+			Damage: 1s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "aether_legacy:dungeon_key",
-			Damage: 1s
+			}
 		},
 		entity: "aether_legacy:valkyrie_queen",
 		value: 1L
@@ -26,10 +26,10 @@
 		uid: "87ac73f2",
 		type: "item",
 		item: {
+			id: "scalinghealth:crystalshard",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "scalinghealth:crystalshard"
+			}
 		},
 		count: 2
 	}]

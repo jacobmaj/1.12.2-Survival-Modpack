@@ -6,10 +6,10 @@
 		uid: "fd08a4b5",
 		type: "kill",
 		icon: {
+			id: "mowziesmobs:naga_fang",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mowziesmobs:naga_fang"
+			}
 		},
 		entity: "mowziesmobs:naga",
 		value: 1L
@@ -18,10 +18,10 @@
 		uid: "f6fc405e",
 		type: "item",
 		item: {
+			id: "scalinghealth:crystalshard",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "scalinghealth:crystalshard"
+			}
 		},
 		count: 2
 	}]

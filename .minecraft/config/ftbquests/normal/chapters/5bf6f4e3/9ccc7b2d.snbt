@@ -23,7 +23,8 @@
 				"wizardryutils:summoneditemdata": {}
 			},
 			id: "chisel:glassdyedwhite",
-			Damage: 3s
+			Damage: 3s,
+			Count: 1b
 		},
 		location: [I;
 			69,

@@ -6,7 +6,8 @@
 		id: "thebetweenlands:bl_bucket",
 		tag: {
 			Fluid: {}
-		}
+		},
+		Count: 1b
 	},
 	x: -7.0d,
 	y: 12.0d,
@@ -24,7 +25,8 @@
 			id: "thebetweenlands:bl_bucket",
 			tag: {
 				Fluid: {}
-			}
+			},
+			Count: 1b
 		}]
 	},
 	{
@@ -38,7 +40,8 @@
 			tag: {
 				Fluid: {}
 			},
-			Damage: 1s
+			Damage: 1s,
+			Count: 1b
 		}]
 	}]
 }

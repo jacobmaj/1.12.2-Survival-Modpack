@@ -1,10 +1,10 @@
 {
 	title: "Feats",
 	icon: {
+		id: "toroquest:royal_helmet",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "toroquest:royal_helmet"
+		}
 	},
 	always_invisible: false,
 	group: 0,

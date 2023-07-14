@@ -1,10 +1,10 @@
 {
 	title: "Fire Dragon Egg",
 	icon: {
+		id: "iceandfire:dragonegg_red",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "iceandfire:dragonegg_red"
+		}
 	},
 	x: -8.0d,
 	y: -5.5d,
@@ -19,10 +19,10 @@
 		uid: "a46221bd",
 		type: "item",
 		items: [{
+			id: "iceandfire:dragonegg_red",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "iceandfire:dragonegg_red"
+			}
 		}],
 		ignore_nbt: 1b
 	},
@@ -30,10 +30,10 @@
 		uid: "378d727d",
 		type: "item",
 		items: [{
+			id: "iceandfire:dragonegg_green",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "iceandfire:dragonegg_green"
+			}
 		}],
 		ignore_nbt: 1b
 	},
@@ -41,10 +41,10 @@
 		uid: "55eb0565",
 		type: "item",
 		items: [{
+			id: "iceandfire:dragonegg_bronze",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "iceandfire:dragonegg_bronze"
+			}
 		}],
 		ignore_nbt: 1b
 	},
@@ -52,10 +52,10 @@
 		uid: "2d58491b",
 		type: "item",
 		items: [{
+			id: "iceandfire:dragonegg_gray",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "iceandfire:dragonegg_gray"
+			}
 		}],
 		ignore_nbt: 1b
 	}]

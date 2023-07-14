@@ -9,10 +9,10 @@
 		uid: "87878f06",
 		type: "item",
 		items: [{
+			id: "aether_legacy:aechor_petal",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "aether_legacy:aechor_petal"
+			}
 		}],
 		count: 3L
 	}]

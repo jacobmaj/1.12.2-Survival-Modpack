@@ -3,7 +3,8 @@
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
 		},
-		id: "thebetweenlands:aspectrus_fruit"
+		id: "thebetweenlands:aspectrus_fruit",
+		Count: 1b
 	},
 	x: 9.5d,
 	y: 13.0d,
@@ -18,7 +19,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:aspectrus_seeds"
+			id: "thebetweenlands:aspectrus_seeds",
+			Count: 1b
 		}]
 	},
 	{
@@ -28,7 +30,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:aspectrus_fruit"
+			id: "thebetweenlands:aspectrus_fruit",
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

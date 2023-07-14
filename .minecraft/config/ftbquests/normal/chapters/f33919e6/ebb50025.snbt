@@ -15,7 +15,8 @@
 			id: "thebetweenlands:amulet",
 			tag: {
 				Gem: 0
-			}
+			},
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -3,7 +3,8 @@
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
 		},
-		id: "thebetweenlands:tiny_sludge_worm"
+		id: "thebetweenlands:tiny_sludge_worm",
+		Count: 1b
 	},
 	x: 9.5d,
 	y: 5.0d,
@@ -18,7 +19,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:tiny_sludge_worm"
+			id: "thebetweenlands:tiny_sludge_worm",
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -30,7 +32,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:silt_glass_jar"
+			id: "thebetweenlands:silt_glass_jar",
+			Count: 1b
 		}]
 	}]
 }

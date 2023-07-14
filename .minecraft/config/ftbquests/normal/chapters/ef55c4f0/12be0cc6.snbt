@@ -9,10 +9,10 @@
 		uid: "195b74af",
 		type: "item",
 		items: [{
+			id: "aether_legacy:incubator",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "aether_legacy:incubator"
+			}
 		}]
 	}]
 }

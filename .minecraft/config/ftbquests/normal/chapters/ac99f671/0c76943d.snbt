@@ -8,10 +8,10 @@
 		uid: "fd775a4d",
 		type: "item",
 		items: [{
+			id: "defiledlands:ravaging_axe",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "defiledlands:ravaging_axe"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -20,10 +20,10 @@
 		uid: "922a6e51",
 		type: "item",
 		items: [{
+			id: "defiledlands:ravaging_pickaxe",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "defiledlands:ravaging_pickaxe"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -32,10 +32,10 @@
 		uid: "133a081e",
 		type: "item",
 		items: [{
+			id: "defiledlands:ravaging_shovel",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "defiledlands:ravaging_shovel"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

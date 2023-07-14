@@ -16,7 +16,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "artifacts:everlasting_porkchop"
+			id: "artifacts:everlasting_porkchop",
+			Count: 1b
 		},
 		match_type: "entity_id",
 		match: "aether_legacy:phyg",

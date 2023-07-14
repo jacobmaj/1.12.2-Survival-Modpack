@@ -8,10 +8,10 @@
 		uid: "711054b9",
 		type: "item",
 		items: [{
+			id: "betterwithmods:hibachi",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "betterwithmods:hibachi"
+			}
 		}]
 	}]
 }

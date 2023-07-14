@@ -5,7 +5,8 @@
 			"wizardryutils:summoneditemdata": {}
 		},
 		id: "tconstruct:slime_grass",
-		Damage: 2s
+		Damage: 2s,
+		Count: 1b
 	},
 	x: 3.5d,
 	y: -3.0d,

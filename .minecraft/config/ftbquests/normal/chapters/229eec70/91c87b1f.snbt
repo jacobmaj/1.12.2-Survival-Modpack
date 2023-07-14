@@ -5,10 +5,10 @@
 		uid: "e55ab97d",
 		type: "item",
 		items: [{
+			id: "simplytea:teapot",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "simplytea:teapot"
+			}
 		}],
 		ignore_nbt: 1b
 	}]

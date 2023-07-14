@@ -1,9 +1,9 @@
 {
 	icon: {
+		id: "minecraft:sapling",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "minecraft:sapling"
+		}
 	},
 	x: 0.0d,
 	y: -9.0d,
@@ -15,18 +15,18 @@
 		uid: "6d3a3ac9",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				Parent: {
-					data: "logWood",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any logWood"
 				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "logWood"
+				},
+				"wizardryutils:summoneditemdata": {}
 			}
 		}]
 	},
@@ -34,18 +34,18 @@
 		uid: "98b1d8d2",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				Parent: {
-					data: "workbench",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any workbench"
 				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "workbench"
+				},
+				"wizardryutils:summoneditemdata": {}
 			}
 		}]
 	},
@@ -53,10 +53,10 @@
 		uid: "1e92fc54",
 		type: "item",
 		items: [{
+			id: "minecraft:wooden_pickaxe",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:wooden_pickaxe"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

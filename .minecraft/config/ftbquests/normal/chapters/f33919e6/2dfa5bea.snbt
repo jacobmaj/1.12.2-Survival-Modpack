@@ -9,7 +9,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:alembic"
+			id: "thebetweenlands:alembic",
+			Count: 1b
 		}]
 	}]
 }

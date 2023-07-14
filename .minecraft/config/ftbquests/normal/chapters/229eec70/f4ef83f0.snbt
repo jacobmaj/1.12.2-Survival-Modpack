@@ -5,70 +5,70 @@
 		uid: "1e342b0e",
 		type: "item",
 		items: [{
+			id: "cookingforblockheads:counter",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "cookingforblockheads:counter"
+			}
 		}]
 	},
 	{
 		uid: "cb779187",
 		type: "item",
 		items: [{
+			id: "cookingforblockheads:counter_oak",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "cookingforblockheads:counter_oak"
+			}
 		}]
 	},
 	{
 		uid: "5c7cd893",
 		type: "item",
 		items: [{
+			id: "cookingforblockheads:counter_spruce",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "cookingforblockheads:counter_spruce"
+			}
 		}]
 	},
 	{
 		uid: "14a74375",
 		type: "item",
 		items: [{
+			id: "cookingforblockheads:counter_birch",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "cookingforblockheads:counter_birch"
+			}
 		}]
 	},
 	{
 		uid: "e846d5dc",
 		type: "item",
 		items: [{
+			id: "cookingforblockheads:counter_jungle",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "cookingforblockheads:counter_jungle"
+			}
 		}]
 	},
 	{
 		uid: "482c3007",
 		type: "item",
 		items: [{
+			id: "cookingforblockheads:counter_acacia",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "cookingforblockheads:counter_acacia"
+			}
 		}]
 	},
 	{
 		uid: "d4a2a2b9",
 		type: "item",
 		items: [{
+			id: "cookingforblockheads:counter_darkoak",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "cookingforblockheads:counter_darkoak"
+			}
 		}]
 	}]
 }

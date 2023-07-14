@@ -9,10 +9,10 @@
 		uid: "f2c5755a",
 		type: "item",
 		items: [{
+			id: "quark:rope",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "quark:rope"
+			}
 		}],
 		count: 8L
 	}]

@@ -13,7 +13,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:draeton"
+			id: "thebetweenlands:draeton",
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

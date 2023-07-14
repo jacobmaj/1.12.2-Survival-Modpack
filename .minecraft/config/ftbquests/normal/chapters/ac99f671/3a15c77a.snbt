@@ -1,10 +1,10 @@
 {
 	title: "Get Yer Books Here!",
 	icon: {
+		id: "ftbquests:book",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "ftbquests:book"
+		}
 	},
 	x: 0.0d,
 	y: -11.0d,
@@ -25,10 +25,10 @@
 		uid: "d15559e9",
 		type: "item",
 		item: {
+			id: "ftbquests:book",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "ftbquests:book"
+			}
 		}
 	}]
 }

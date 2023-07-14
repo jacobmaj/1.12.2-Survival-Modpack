@@ -24,6 +24,7 @@ LootTable.removeGlobalItem("mospells:mospells_scroll:*");
 LootTable.removeGlobalItem("charm:bat_bucket");
 
 LootTable.removeGlobalItem("cyberware:neuropozyne");
+LootTable.removeGlobalItem("cyberware:surgery");
 
 //LootTable.removeGlobalItem("uniquecrops:genericfood.ennuipotion");
 
@@ -31,8 +32,8 @@ LootTable.removeGlobalItem("xreliquary:phoenix_down");
 LootTable.removeGlobalItem("xreliquary:angelheart_vial");
 
 LootTable.removeGlobalItem("bountifulbaubles:amuletcross");
-LootTable.removeGlobalItem("bountifulbaubles:flaregun");
-LootTable.removeGlobalItem("bountifulbaubles:flare_red");
+//LootTable.removeGlobalItem("bountifulbaubles:flaregun");
+//LootTable.removeGlobalItem("bountifulbaubles:flare_red");
 LootTable.removeGlobalItem("bountifulbaubles:trinketbrokenheart");
 LootTable.removeGlobalItem("bountifulbaubles:magicmirror");
 
@@ -65,7 +66,7 @@ LootTable.removeGlobalItem("aether_legacy:zanite_gloves");
 LootTable.removeGlobalItem("aether_legacy:repulsion_shield");
 LootTable.removeGlobalItem("aether_legacy:lightning_sword");
 
-
+LootTable.removeGlobalItem("lost_aether:sentry_shield");
 LootTable.removeGlobalItem("lost_aether:agility_boots");
 LootTable.removeGlobalItem("lost_aether:power_gloves");
 LootTable.removeGlobalItem("lost_aether:phoenix_cape");

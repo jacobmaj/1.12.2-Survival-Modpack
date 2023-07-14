@@ -3,7 +3,8 @@
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
 		},
-		id: "thebetweenlands:frog_legs_raw"
+		id: "thebetweenlands:frog_legs_raw",
+		Count: 1b
 	},
 	x: 6.5d,
 	y: 1.125d,
@@ -20,7 +21,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:frog_legs_raw"
+			id: "thebetweenlands:frog_legs_raw",
+			Count: 1b
 		},
 		match_type: "entity_id",
 		match: "thebetweenlands:toad",
@@ -34,7 +36,8 @@
 				"wizardryutils:summoneditemdata": {}
 			},
 			id: "thebetweenlands:items_misc",
-			Damage: 3s
+			Damage: 3s,
+			Count: 1b
 		}],
 		count: 3L
 	}]

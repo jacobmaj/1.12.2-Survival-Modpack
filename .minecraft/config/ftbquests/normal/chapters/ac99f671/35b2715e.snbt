@@ -11,10 +11,10 @@
 		uid: "21c90088",
 		type: "item",
 		items: [{
+			id: "minecraft:anvil",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:anvil"
+			}
 		}]
 	}]
 }

@@ -9,10 +9,10 @@
 		uid: "668cedc5",
 		type: "kill",
 		icon: {
+			id: "iceandfire:cyclops_skull",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "iceandfire:cyclops_skull"
+			}
 		},
 		entity: "iceandfire:cyclops",
 		value: 1L
@@ -21,10 +21,10 @@
 		uid: "0e4c9549",
 		type: "item",
 		item: {
+			id: "scalinghealth:crystalshard",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "scalinghealth:crystalshard"
+			}
 		},
 		count: 2
 	}]

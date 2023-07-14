@@ -9,20 +9,20 @@
 		uid: "2ff28682",
 		type: "item",
 		items: [{
+			id: "twilightforest:charm_of_life_1",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "twilightforest:charm_of_life_1"
+			}
 		}]
 	},
 	{
 		uid: "eb7c286a",
 		type: "item",
 		items: [{
+			id: "twilightforest:charm_of_life_2",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "twilightforest:charm_of_life_2"
+			}
 		}]
 	}]
 }

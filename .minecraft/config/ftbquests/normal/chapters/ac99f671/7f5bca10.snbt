@@ -1,9 +1,9 @@
 {
 	icon: {
+		id: "iceandfire:stone_statue",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "iceandfire:stone_statue"
+		}
 	},
 	x: 9.0d,
 	y: -8.0d,
@@ -17,10 +17,10 @@
 		type: "observation",
 		title: "Come across a Stoneling!",
 		icon: {
+			id: "iceandfire:stone_statue",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "iceandfire:stone_statue"
+			}
 		},
 		match_type: "block_id",
 		match: "quark:stoneling",
@@ -30,10 +30,10 @@
 		uid: "df0a8e75",
 		type: "item",
 		items: [{
+			id: "quark:diamond_heart",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "quark:diamond_heart"
+			}
 		}]
 	}]
 }

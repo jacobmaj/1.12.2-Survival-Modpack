@@ -1,10 +1,10 @@
 {
 	title: "☆",
 	icon: {
+		id: "twilightforest:giant_sword",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "twilightforest:giant_sword"
+		}
 	},
 	x: 0.0d,
 	y: 1.9500000000000002d,
@@ -20,10 +20,10 @@
 		uid: "31d73596",
 		type: "kill",
 		icon: {
+			id: "twilightforest:giant_sword",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "twilightforest:giant_sword"
+			}
 		},
 		entity: "ancientbeasts:giant_zombie",
 		value: 1L
@@ -32,10 +32,10 @@
 		uid: "a48a7abc",
 		type: "item",
 		items: [{
+			id: "twilightforest:giant_pickaxe",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "twilightforest:giant_pickaxe"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -44,10 +44,10 @@
 		uid: "11ec81de",
 		type: "item",
 		item: {
+			id: "scalinghealth:crystalshard",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "scalinghealth:crystalshard"
+			}
 		}
 	}]
 }

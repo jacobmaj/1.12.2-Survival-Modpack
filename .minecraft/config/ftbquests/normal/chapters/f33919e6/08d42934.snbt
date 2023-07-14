@@ -10,7 +10,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:animator"
+			id: "thebetweenlands:animator",
+			Count: 1b
 		}]
 	}]
 }

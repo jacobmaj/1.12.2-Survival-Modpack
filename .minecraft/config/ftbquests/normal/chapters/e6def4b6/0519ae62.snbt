@@ -11,10 +11,10 @@
 		uid: "80d55835",
 		type: "item",
 		items: [{
+			id: "eplus:table_upgrade",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "eplus:table_upgrade"
+			}
 		}]
 	}]
 }

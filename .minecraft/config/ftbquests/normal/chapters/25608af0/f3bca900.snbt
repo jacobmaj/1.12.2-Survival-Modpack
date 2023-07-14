@@ -1,9 +1,9 @@
 {
 	icon: {
+		id: "betterwithmods:saw",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "betterwithmods:saw"
+		}
 	},
 	x: 1.5d,
 	y: -2.5d,
@@ -14,18 +14,18 @@
 		uid: "2f34e701",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				Parent: {
-					data: "barkWood",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any barkWood"
 				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "barkWood"
+				},
+				"wizardryutils:summoneditemdata": {}
 			}
 		}]
 	},
@@ -33,21 +33,21 @@
 		uid: "de94bea4",
 		type: "item",
 		items: [{
+			id: "betterwithmods:material",
+			Damage: 6s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "betterwithmods:material",
-			Damage: 6s
+			}
 		}]
 	},
 	{
 		uid: "4c244d53",
 		type: "item",
 		items: [{
+			id: "betterwithmods:saw",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "betterwithmods:saw"
+			}
 		}]
 	}]
 }

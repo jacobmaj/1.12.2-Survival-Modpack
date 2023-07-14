@@ -6,7 +6,8 @@
 		},
 		id: "thebetweenlands:simulacrum_rootman",
 		tag: {},
-		Damage: 6s
+		Damage: 6s,
+		Count: 1b
 	},
 	x: 12.0d,
 	y: 1.5d,
@@ -30,7 +31,8 @@
 			},
 			id: "thebetweenlands:simulacrum_deepman",
 			tag: {},
-			Damage: 2s
+			Damage: 2s,
+			Count: 1b
 		},
 		match_type: "block_id",
 		match: "thebetweenlands:simulacrum_deepman",
@@ -46,7 +48,8 @@
 			},
 			id: "thebetweenlands:simulacrum_rootman",
 			tag: {},
-			Damage: 6s
+			Damage: 6s,
+			Count: 1b
 		},
 		match_type: "block_id",
 		match: "thebetweenlands:simulacrum_rootman",
@@ -62,7 +65,8 @@
 			},
 			id: "thebetweenlands:simulacrum_lake_cavern",
 			tag: {},
-			Damage: 2s
+			Damage: 2s,
+			Count: 1b
 		},
 		match_type: "block_id",
 		match: "thebetweenlands:simulacrum_lake_cavern",

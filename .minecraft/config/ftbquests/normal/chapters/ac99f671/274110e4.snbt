@@ -1,9 +1,9 @@
 {
 	icon: {
+		id: "contenttweaker:seasoncompassicon",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "contenttweaker:seasoncompassicon"
+		}
 	},
 	x: 3.0d,
 	y: -2.5d,
@@ -25,16 +25,16 @@
 		uid: "6f11f91d",
 		type: "item",
 		icon: {
+			id: "contenttweaker:seasoncompassicon",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "contenttweaker:seasoncompassicon"
+			}
 		},
 		items: [{
+			id: "sereneseasons:season_clock",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "sereneseasons:season_clock"
+			}
 		}]
 	}]
 }

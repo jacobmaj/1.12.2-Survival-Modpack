@@ -1,10 +1,10 @@
 {
 	title: "☆Sulfur So Good",
 	icon: {
+		id: "mist:sulfur_ore",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "mist:sulfur_ore"
+		}
 	},
 	x: -0.5d,
 	y: 5.5d,
@@ -18,20 +18,20 @@
 		uid: "00814cbf",
 		type: "item",
 		items: [{
+			id: "mist:sulfur",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:sulfur"
+			}
 		}]
 	},
 	{
 		uid: "3aa4284b",
 		type: "item",
 		items: [{
+			id: "mist:sulfur_block",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:sulfur_block"
+			}
 		}]
 	}]
 }

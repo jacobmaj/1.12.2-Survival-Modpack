@@ -1,12 +1,12 @@
 {
 	title: "☆",
 	icon: {
-		ForgeCaps: {
-			"wizardryutils:summoneditemdata": {}
-		},
 		id: "minecraft:potion",
 		tag: {
 			Potion: "netherex:sorrow"
+		},
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
 		}
 	},
 	x: 0.0d,
@@ -23,12 +23,12 @@
 		uid: "047115b1",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "minecraft:potion",
 			tag: {
 				Potion: "netherex:sorrow"
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		}]
 	},
@@ -36,10 +36,10 @@
 		uid: "03a89f98",
 		type: "item",
 		items: [{
+			id: "minecraft:ghast_tear",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:ghast_tear"
+			}
 		}]
 	}]
 }

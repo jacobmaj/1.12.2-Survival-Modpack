@@ -1,9 +1,9 @@
 {
 	icon: {
+		id: "waystones:waystone",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "waystones:waystone"
+		}
 	},
 	disable_toast: true,
 	x: 8.5d,
@@ -18,10 +18,10 @@
 		type: "observation",
 		title: "Find a Waystone!",
 		icon: {
+			id: "waystones:waystone",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "waystones:waystone"
+			}
 		},
 		match_type: "block_id",
 		match: "waystones:waystone",

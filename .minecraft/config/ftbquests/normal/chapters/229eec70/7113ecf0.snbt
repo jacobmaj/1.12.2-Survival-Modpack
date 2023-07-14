@@ -5,11 +5,11 @@
 		uid: "95d297a3",
 		type: "item",
 		items: [{
+			id: "cookingforblockheads:recipe_book",
+			Damage: 1s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "cookingforblockheads:recipe_book",
-			Damage: 1s
+			}
 		}],
 		ignore_nbt: 1b
 	},
@@ -17,11 +17,11 @@
 		uid: "f1b3389d",
 		type: "item",
 		items: [{
+			id: "cookingforblockheads:recipe_book",
+			Damage: 2s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "cookingforblockheads:recipe_book",
-			Damage: 2s
+			}
 		}],
 		ignore_nbt: 1b
 	}]

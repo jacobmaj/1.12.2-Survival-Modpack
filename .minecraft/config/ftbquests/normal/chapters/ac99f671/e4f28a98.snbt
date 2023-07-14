@@ -6,10 +6,10 @@
 		uid: "92d22427",
 		type: "kill",
 		icon: {
+			id: "iceandfire:hydra_fang",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "iceandfire:hydra_fang"
+			}
 		},
 		entity: "iceandfire:if_hydra",
 		value: 1L
@@ -18,10 +18,10 @@
 		uid: "563b39db",
 		type: "item",
 		item: {
+			id: "scalinghealth:crystalshard",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "scalinghealth:crystalshard"
+			}
 		}
 	}]
 }

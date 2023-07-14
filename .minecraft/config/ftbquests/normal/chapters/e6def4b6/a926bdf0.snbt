@@ -11,11 +11,11 @@
 		uid: "e9394e67",
 		type: "kill",
 		icon: {
+			id: "minecraft:skull",
+			Damage: 5s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:skull",
-			Damage: 5s
+			}
 		},
 		entity: "minecraft:ender_dragon",
 		value: 1L
@@ -25,10 +25,10 @@
 		type: "gamestage",
 		title: "...A new chapter Awaits!",
 		icon: {
+			id: "stygian:endgrass",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "stygian:endgrass"
+			}
 		},
 		team_reward: true,
 		auto: "invisible",
@@ -38,10 +38,10 @@
 		uid: "e3abf9e6",
 		type: "item",
 		item: {
+			id: "scalinghealth:crystalshard",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "scalinghealth:crystalshard"
+			}
 		},
 		count: 2
 	}]

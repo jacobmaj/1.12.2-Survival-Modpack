@@ -1,10 +1,10 @@
 {
 	icon: {
+		id: "mist:acid_dirt_0",
+		Damage: 1s,
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "mist:acid_dirt_0",
-		Damage: 1s
+		}
 	},
 	x: 5.0d,
 	y: 6.0d,
@@ -17,20 +17,20 @@
 		uid: "c4029a7f",
 		type: "item",
 		items: [{
+			id: "mist:acid_grass_1",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:acid_grass_1"
+			}
 		}]
 	},
 	{
 		uid: "7fb509a0",
 		type: "item",
 		items: [{
+			id: "mist:acid_dirt_1",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:acid_dirt_1"
+			}
 		}]
 	}]
 }

@@ -3,7 +3,8 @@
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
 		},
-		id: "thebetweenlands:chiromaw_tame"
+		id: "thebetweenlands:chiromaw_tame",
+		Count: 1b
 	},
 	x: -11.5d,
 	y: 9.0d,
@@ -18,7 +19,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:chiromaw_tame"
+			id: "thebetweenlands:chiromaw_tame",
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -30,7 +32,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:chiromaw_tame_lightning"
+			id: "thebetweenlands:chiromaw_tame_lightning",
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

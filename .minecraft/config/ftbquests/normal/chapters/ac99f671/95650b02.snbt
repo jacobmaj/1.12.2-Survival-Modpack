@@ -6,10 +6,10 @@
 		uid: "dcaeea70",
 		type: "kill",
 		icon: {
+			id: "iceandfire:troll_skull",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "iceandfire:troll_skull"
+			}
 		},
 		entity: "iceandfire:if_troll",
 		value: 1L
@@ -18,10 +18,10 @@
 		uid: "dca3625b",
 		type: "item",
 		item: {
+			id: "scalinghealth:crystalshard",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "scalinghealth:crystalshard"
+			}
 		},
 		count: 2
 	}]

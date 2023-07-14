@@ -1,9 +1,9 @@
 {
 	icon: {
+		id: "mist:niobium_ore",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "mist:niobium_ore"
+		}
 	},
 	x: 1.5d,
 	y: -0.5d,
@@ -14,20 +14,20 @@
 		uid: "9f043e04",
 		type: "item",
 		items: [{
+			id: "mist:niobium_ore",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:niobium_ore"
+			}
 		}]
 	},
 	{
 		uid: "019d3468",
 		type: "item",
 		items: [{
+			id: "mist:niobium_ingot",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:niobium_ingot"
+			}
 		}]
 	}]
 }

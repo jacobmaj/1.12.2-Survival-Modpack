@@ -1,10 +1,10 @@
 {
 	title: "Kill: 1x Dragon",
 	icon: {
+		id: "iceandfire:dragon_skull",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "iceandfire:dragon_skull"
+		}
 	},
 	x: 9.0d,
 	y: -5.5d,
@@ -21,10 +21,10 @@
 		uid: "078c9aeb",
 		type: "kill",
 		icon: {
+			id: "iceandfire:dragon_skull",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "iceandfire:dragon_skull"
+			}
 		},
 		entity: "iceandfire:firedragon",
 		value: 1L
@@ -33,11 +33,11 @@
 		uid: "1f466a5d",
 		type: "kill",
 		icon: {
+			id: "iceandfire:dragon_skull",
+			Damage: 1s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "iceandfire:dragon_skull",
-			Damage: 1s
+			}
 		},
 		entity: "iceandfire:icedragon",
 		value: 1L
@@ -46,10 +46,10 @@
 		uid: "6071bb85",
 		type: "item",
 		item: {
+			id: "scalinghealth:crystalshard",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "scalinghealth:crystalshard"
+			}
 		},
 		count: 3
 	}]

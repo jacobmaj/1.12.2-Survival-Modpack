@@ -13,10 +13,10 @@
 		uid: "424f37b6",
 		type: "kill",
 		icon: {
+			id: "iceandfire:stymphalian_skull",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "iceandfire:stymphalian_skull"
+			}
 		},
 		entity: "iceandfire:stymphalianbird",
 		value: 3L
@@ -25,10 +25,10 @@
 		uid: "a9ec3f28",
 		type: "item",
 		item: {
+			id: "scalinghealth:crystalshard",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "scalinghealth:crystalshard"
+			}
 		},
 		count: 2
 	}]

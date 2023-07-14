@@ -13,7 +13,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "packingtape:tape"
+			id: "packingtape:tape",
+			Count: 1b
 		}]
 	}]
 }

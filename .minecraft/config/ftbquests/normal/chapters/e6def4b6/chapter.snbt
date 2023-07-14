@@ -1,12 +1,12 @@
 {
 	title: "The End",
 	icon: {
+		id: "minecraft:end_stone",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "minecraft:end_stone"
+		}
 	},
 	always_invisible: false,
-	group: 0,
+	group: 102824723,
 	default_quest_shape: ""
 }

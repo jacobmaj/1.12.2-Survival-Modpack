@@ -10,10 +10,10 @@
 		uid: "e2885f77",
 		type: "item",
 		items: [{
+			id: "betterwithmods:bellows",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "betterwithmods:bellows"
+			}
 		}]
 	}]
 }

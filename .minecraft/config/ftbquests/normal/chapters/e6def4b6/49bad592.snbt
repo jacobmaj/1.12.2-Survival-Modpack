@@ -9,20 +9,20 @@
 		uid: "c1a360a8",
 		type: "item",
 		items: [{
+			id: "cyberware:surgery",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "cyberware:surgery"
+			}
 		}]
 	},
 	{
 		uid: "9d8a33d4",
 		type: "item",
 		items: [{
+			id: "cyberware:surgery_chamber",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "cyberware:surgery_chamber"
+			}
 		}]
 	}]
 }

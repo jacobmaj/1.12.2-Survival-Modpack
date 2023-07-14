@@ -9,10 +9,10 @@
 		uid: "565d20c0",
 		type: "item",
 		items: [{
+			id: "nyx:meteor_shard",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "nyx:meteor_shard"
+			}
 		}]
 	}]
 }

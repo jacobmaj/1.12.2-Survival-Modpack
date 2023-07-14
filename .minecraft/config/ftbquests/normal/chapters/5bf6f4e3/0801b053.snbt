@@ -13,10 +13,10 @@
 		uid: "d063b3e6",
 		type: "item",
 		items: [{
+			id: "mist:rubber_helmet",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:rubber_helmet"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -25,10 +25,10 @@
 		uid: "73c93129",
 		type: "item",
 		items: [{
+			id: "mist:rubber_chestplate",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:rubber_chestplate"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -37,10 +37,10 @@
 		uid: "46585a37",
 		type: "item",
 		items: [{
+			id: "mist:rubber_leggings",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:rubber_leggings"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -49,10 +49,10 @@
 		uid: "5bd1bee0",
 		type: "item",
 		items: [{
+			id: "mist:rubber_boots",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:rubber_boots"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

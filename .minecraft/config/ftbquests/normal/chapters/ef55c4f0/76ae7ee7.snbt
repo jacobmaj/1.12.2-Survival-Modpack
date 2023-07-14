@@ -9,11 +9,11 @@
 		uid: "bf6de5e3",
 		type: "item",
 		items: [{
+			id: "scalinghealth:healingitem",
+			Damage: 1s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "scalinghealth:healingitem",
-			Damage: 1s
+			}
 		}]
 	}]
 }

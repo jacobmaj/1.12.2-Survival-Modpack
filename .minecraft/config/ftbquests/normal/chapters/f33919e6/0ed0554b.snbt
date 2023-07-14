@@ -4,7 +4,8 @@
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
 		},
-		id: "thebetweenlands:mummy_bait"
+		id: "thebetweenlands:mummy_bait",
+		Count: 1b
 	},
 	x: -2.0d,
 	y: 12.5d,
@@ -22,7 +23,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:mummy_bait"
+			id: "thebetweenlands:mummy_bait",
+			Count: 1b
 		}]
 	},
 	{
@@ -32,7 +34,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:ring_of_summoning"
+			id: "thebetweenlands:ring_of_summoning",
+			Count: 1b
 		},
 		entity: "thebetweenlands:dreadful_mummy",
 		value: 1L
@@ -41,10 +44,10 @@
 		uid: "fc5ab97a",
 		type: "item",
 		item: {
+			id: "scalinghealth:crystalshard",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "scalinghealth:crystalshard"
+			}
 		}
 	}]
 }

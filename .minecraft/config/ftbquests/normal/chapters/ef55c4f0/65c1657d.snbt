@@ -3,7 +3,8 @@
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
 		},
-		id: "refinedstorage:disk_drive"
+		id: "refinedstorage:disk_drive",
+		Count: 1b
 	},
 	x: -7.5d,
 	y: 5.5d,
@@ -19,7 +20,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "refinedstorage:disk_drive"
+			id: "refinedstorage:disk_drive",
+			Count: 1b
 		}]
 	},
 	{
@@ -29,7 +31,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "refinedstorage:storage_housing"
+			id: "refinedstorage:storage_housing",
+			Count: 1b
 		}],
 		count: 4L
 	},
@@ -45,7 +48,8 @@
 				IdLeast: -7029717970837475135L,
 				IdMost: 5505969145135711405L
 			},
-			Damage: 1s
+			Damage: 1s,
+			Count: 1b
 		}],
 		count: 4L,
 		ignore_nbt: 1b

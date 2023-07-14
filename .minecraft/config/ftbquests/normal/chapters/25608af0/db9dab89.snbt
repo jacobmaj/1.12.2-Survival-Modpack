@@ -5,11 +5,11 @@
 		uid: "87d17ed1",
 		type: "item",
 		items: [{
+			id: "betterwithmods:cooking_pot",
+			Damage: 1s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "betterwithmods:cooking_pot",
-			Damage: 1s
+			}
 		}]
 	}]
 }

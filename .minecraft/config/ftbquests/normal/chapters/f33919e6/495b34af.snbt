@@ -12,7 +12,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:life_crystal"
+			id: "thebetweenlands:life_crystal",
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

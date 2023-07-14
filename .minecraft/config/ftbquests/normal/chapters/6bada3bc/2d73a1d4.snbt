@@ -12,10 +12,10 @@
 		uid: "6708b122",
 		type: "item",
 		items: [{
+			id: "netherex:ghast_meat_raw",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "netherex:ghast_meat_raw"
+			}
 		}]
 	}]
 }

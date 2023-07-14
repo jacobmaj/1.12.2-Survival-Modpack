@@ -5,30 +5,30 @@
 		uid: "9fa4ad2e",
 		type: "item",
 		items: [{
+			id: "rustic:crushing_tub",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "rustic:crushing_tub"
+			}
 		}]
 	},
 	{
 		uid: "dd701df5",
 		type: "item",
 		items: [{
+			id: "rustic:brewing_barrel",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "rustic:brewing_barrel"
+			}
 		}]
 	}],
 	rewards: [{
 		uid: "010528aa",
 		type: "item",
 		item: {
+			id: "rustic:book",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "rustic:book"
+			}
 		}
 	}]
 }

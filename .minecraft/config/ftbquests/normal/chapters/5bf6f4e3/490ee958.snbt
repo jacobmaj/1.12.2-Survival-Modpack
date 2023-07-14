@@ -12,10 +12,10 @@
 		uid: "b2ecf098",
 		type: "item",
 		items: [{
+			id: "mist:filter_coal",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:filter_coal"
+			}
 		}]
 	}]
 }

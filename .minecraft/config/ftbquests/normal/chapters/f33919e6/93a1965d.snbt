@@ -12,7 +12,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:sap_ball"
+			id: "thebetweenlands:sap_ball",
+			Count: 1b
 		}]
 	}]
 }

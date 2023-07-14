@@ -9,10 +9,10 @@
 		uid: "376a453f",
 		type: "item",
 		items: [{
+			id: "minecraft:fire_charge",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:fire_charge"
+			}
 		}]
 	}]
 }

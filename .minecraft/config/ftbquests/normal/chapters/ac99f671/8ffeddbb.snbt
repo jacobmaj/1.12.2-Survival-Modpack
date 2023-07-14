@@ -13,10 +13,10 @@
 		uid: "7df16af2",
 		type: "item",
 		items: [{
+			id: "futuremc:grindstone",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "futuremc:grindstone"
+			}
 		}]
 	}]
 }

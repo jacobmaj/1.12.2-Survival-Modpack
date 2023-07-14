@@ -1,10 +1,10 @@
 {
 	icon: {
+		id: "betterwithmods:urn",
+		Damage: 8s,
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "betterwithmods:urn",
-		Damage: 8s
+		}
 	},
 	x: 1.3571428571428612d,
 	y: -10.988095238095248d,
@@ -17,32 +17,32 @@
 		uid: "fc2855f2",
 		type: "item",
 		items: [{
+			id: "betterwithmods:unfired_pottery",
+			Damage: 2s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "betterwithmods:unfired_pottery",
-			Damage: 2s
+			}
 		}]
 	},
 	{
 		uid: "8efddc87",
 		type: "item",
 		items: [{
+			id: "betterwithmods:urn",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "betterwithmods:urn"
+			}
 		}]
 	},
 	{
 		uid: "98f643fe",
 		type: "item",
 		items: [{
+			id: "betterwithmods:urn",
+			Damage: 8s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "betterwithmods:urn",
-			Damage: 8s
+			}
 		}]
 	}]
 }

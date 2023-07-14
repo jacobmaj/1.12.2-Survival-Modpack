@@ -1,9 +1,9 @@
 {
 	icon: {
+		id: "betterwithmods:wooden_gearbox",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "betterwithmods:wooden_gearbox"
+		}
 	},
 	x: -1.5d,
 	y: -2.5d,
@@ -14,10 +14,10 @@
 		uid: "96e15028",
 		type: "item",
 		items: [{
+			id: "betterwithmods:wooden_axle",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "betterwithmods:wooden_axle"
+			}
 		}],
 		count: 6L
 	},
@@ -25,10 +25,10 @@
 		uid: "9e0601d2",
 		type: "item",
 		items: [{
+			id: "betterwithmods:wooden_gearbox",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "betterwithmods:wooden_gearbox"
+			}
 		}],
 		count: 2L
 	}]

@@ -13,10 +13,10 @@
 		uid: "eb439685",
 		type: "kill",
 		icon: {
+			id: "aether_legacy:dungeon_key",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "aether_legacy:dungeon_key"
+			}
 		},
 		entity: "aether_legacy:slider",
 		value: 1L
@@ -25,10 +25,10 @@
 		uid: "7f1ae4c3",
 		type: "item",
 		item: {
+			id: "scalinghealth:crystalshard",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "scalinghealth:crystalshard"
+			}
 		},
 		count: 2
 	}]

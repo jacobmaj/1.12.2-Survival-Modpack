@@ -8,11 +8,11 @@
 		uid: "a65499b2",
 		type: "item",
 		items: [{
+			id: "betterwithmods:single_machine",
+			Damage: 2s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "betterwithmods:single_machine",
-			Damage: 2s
+			}
 		}]
 	}]
 }

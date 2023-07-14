@@ -5,10 +5,10 @@
 		uid: "ed8a0bf0",
 		type: "item",
 		items: [{
+			id: "rustic:apiary",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "rustic:apiary"
+			}
 		}]
 	}]
 }

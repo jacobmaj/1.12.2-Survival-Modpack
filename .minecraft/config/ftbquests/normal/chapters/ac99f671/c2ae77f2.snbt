@@ -6,10 +6,10 @@
 		uid: "e68f3d03",
 		type: "kill",
 		icon: {
+			id: "mowziesmobs:barako_mask",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mowziesmobs:barako_mask"
+			}
 		},
 		entity: "mowziesmobs:barako",
 		value: 1L
@@ -18,10 +18,10 @@
 		uid: "6e6d0d50",
 		type: "item",
 		item: {
+			id: "scalinghealth:crystalshard",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "scalinghealth:crystalshard"
+			}
 		},
 		count: 2
 	}]

@@ -12,7 +12,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:rubber_boots"
+			id: "thebetweenlands:rubber_boots",
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

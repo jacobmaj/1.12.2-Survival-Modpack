@@ -10,10 +10,10 @@
 		type: "observation",
 		title: "Observe a Dodo",
 		icon: {
+			id: "primitivemobs:dodo_egg",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "primitivemobs:dodo_egg"
+			}
 		},
 		match_type: "entity_id",
 		match: "primitivemobs:dodo",

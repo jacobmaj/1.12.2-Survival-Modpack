@@ -76,6 +76,9 @@ ebwizardry:containment
 ebwizardry:frost_step
 ebwizardry:mark_of_sacrifice
 ebwizardry:mirage
+ebwizardry:oakflesh
+ebwizardry:ironflesh
+ebwizardry:diamondflesh
 quark:blue
 quark:black
 quark:white
@@ -171,6 +174,7 @@ bettercombat:aetherealized
 bettercombat:precision
 bettercombat:brutality
 bettercombat:bleeding
+inhibited:inhibited
 mimicfish:chestsight
 mowziesmobs:suns_blessing
 mowziesmobs:geomancy

@@ -10,10 +10,10 @@
 		uid: "3541dd1b",
 		type: "item",
 		items: [{
+			id: "iceandfire:dragonsteel_fire_ingot",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "iceandfire:dragonsteel_fire_ingot"
+			}
 		}]
 	}]
 }

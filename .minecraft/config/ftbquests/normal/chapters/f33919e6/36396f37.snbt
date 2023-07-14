@@ -13,7 +13,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:marsh_runner_boots"
+			id: "thebetweenlands:marsh_runner_boots",
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

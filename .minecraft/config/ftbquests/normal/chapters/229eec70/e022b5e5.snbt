@@ -5,10 +5,10 @@
 		uid: "698e6605",
 		type: "item",
 		items: [{
+			id: "cookingforblockheads:milk_jar",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "cookingforblockheads:milk_jar"
+			}
 		}]
 	}]
 }

@@ -9,7 +9,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:fish_trimming_table"
+			id: "thebetweenlands:fish_trimming_table",
+			Count: 1b
 		}]
 	}]
 }

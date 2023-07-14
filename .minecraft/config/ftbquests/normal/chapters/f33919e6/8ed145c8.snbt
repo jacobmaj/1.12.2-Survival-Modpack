@@ -3,7 +3,8 @@
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
 		},
-		id: "thebetweenlands:amphibious_helmet"
+		id: "thebetweenlands:amphibious_helmet",
+		Count: 1b
 	},
 	x: 8.5d,
 	y: 7.0d,
@@ -19,7 +20,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:amphibious_helmet"
+			id: "thebetweenlands:amphibious_helmet",
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -31,7 +33,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:amphibious_chestplate"
+			id: "thebetweenlands:amphibious_chestplate",
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -43,7 +46,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:amphibious_leggings"
+			id: "thebetweenlands:amphibious_leggings",
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -55,7 +59,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:amphibious_boots"
+			id: "thebetweenlands:amphibious_boots",
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

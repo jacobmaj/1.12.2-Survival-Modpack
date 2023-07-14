@@ -16,10 +16,10 @@
 		type: "stat",
 		title: "...Die.",
 		icon: {
+			id: "minecraft:skull",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:skull"
+			}
 		},
 		stat: "stat.deaths",
 		value: 1

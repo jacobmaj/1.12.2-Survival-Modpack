@@ -4,7 +4,8 @@
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
 		},
-		id: "thebetweenlands:angry_pebble"
+		id: "thebetweenlands:angry_pebble",
+		Count: 1b
 	},
 	x: 0.0d,
 	y: 14.5d,
@@ -26,10 +27,10 @@
 		type: "gamestage",
 		title: "...A New Chapter Awaits!",
 		icon: {
+			id: "minecraft:netherrack",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:netherrack"
+			}
 		},
 		auto: "invisible",
 		stage: "nether"

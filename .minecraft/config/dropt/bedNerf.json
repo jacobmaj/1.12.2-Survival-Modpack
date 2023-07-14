@@ -1,0 +1,32 @@
+{
+  "rules": [
+    {
+      "match": {
+        "blocks": {
+          "blocks": [
+            "minecraft:bed:*"
+          ]
+        },
+        "drops": {
+          "drops": [
+            "minecraft:bed:*"
+          ]
+        }
+      },
+      "replaceStrategy": "REPLACE_ITEMS",
+      "drops": [
+		{
+		"item": {
+			"items": [
+			"minecraft:wool:0"
+			],
+			"quantity": {
+				"min": 1,
+				"max": 2
+			}
+		}
+		}
+	  ]	  
+    }
+  ]
+}

@@ -12,7 +12,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:mire_snail_egg"
+			id: "thebetweenlands:mire_snail_egg",
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

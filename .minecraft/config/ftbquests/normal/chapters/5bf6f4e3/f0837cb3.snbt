@@ -1,8 +1,5 @@
 {
 	icon: {
-		ForgeCaps: {
-			"wizardryutils:summoneditemdata": {}
-		},
 		id: "mist:soup",
 		tag: {
 			Potions: [],
@@ -67,6 +64,9 @@
 				Damage: 0s
 			}],
 			SoupToxic: 0.0f
+		},
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
 		}
 	},
 	x: -4.0d,
@@ -82,10 +82,10 @@
 		uid: "3cad24d9",
 		type: "item",
 		items: [{
+			id: "mist:rocks",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:rocks"
+			}
 		}],
 		count: 4L
 	},
@@ -93,18 +93,18 @@
 		uid: "b7867794",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				Parent: {
-					data: "logWood",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any logWood"
 				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "logWood"
+				},
+				"wizardryutils:summoneditemdata": {}
 			}
 		}],
 		count: 15L
@@ -113,10 +113,10 @@
 		uid: "0282f4e6",
 		type: "item",
 		items: [{
+			id: "minecraft:cauldron",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:cauldron"
+			}
 		}]
 	},
 	{
@@ -124,9 +124,6 @@
 		type: "item",
 		title: "Any Pottage",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "mist:soup",
 			tag: {
 				Potions: [],
@@ -191,6 +188,9 @@
 					Damage: 0s
 				}],
 				SoupToxic: 0.0f
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		}],
 		ignore_damage: true,

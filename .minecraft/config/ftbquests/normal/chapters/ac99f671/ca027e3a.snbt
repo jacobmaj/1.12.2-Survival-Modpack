@@ -18,10 +18,10 @@
 		type: "interaction",
 		title: "Speak to a Village Lord",
 		icon: {
+			id: "toroquest:royal_helmet",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "toroquest:royal_helmet"
+			}
 		},
 		match_type: "entity_id",
 		match: "toroquest:toroquest_village_lord"

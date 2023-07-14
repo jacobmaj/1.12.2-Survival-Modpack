@@ -12,7 +12,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:sulfur_furnace"
+			id: "thebetweenlands:sulfur_furnace",
+			Count: 1b
 		}]
 	},
 	{
@@ -22,7 +23,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:sulfur_furnace_dual"
+			id: "thebetweenlands:sulfur_furnace_dual",
+			Count: 1b
 		}]
 	}]
 }

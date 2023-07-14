@@ -6,10 +6,10 @@
 		uid: "44504f3e",
 		type: "kill",
 		icon: {
+			id: "iceandfire:amphithere_skull",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "iceandfire:amphithere_skull"
+			}
 		},
 		entity: "iceandfire:amphithere",
 		value: 1L
@@ -18,10 +18,10 @@
 		uid: "d52060ad",
 		type: "item",
 		item: {
+			id: "scalinghealth:crystalshard",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "scalinghealth:crystalshard"
+			}
 		},
 		count: 2
 	}]

@@ -1,12 +1,12 @@
 {
 	title: "Dotoxican, Not Can't",
 	icon: {
-		ForgeCaps: {
-			"wizardryutils:summoneditemdata": {}
-		},
 		id: "minecraft:potion",
 		tag: {
 			Potion: "mowziesmobs:poison_resist"
+		},
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
 		}
 	},
 	x: -3.0d,
@@ -24,63 +24,63 @@
 		uid: "eaa40c6c",
 		type: "item",
 		items: [{
+			id: "mist:mushrooms_food",
+			Damage: 21s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:mushrooms_food",
-			Damage: 21s
+			}
 		}]
 	},
 	{
 		uid: "66a991d3",
 		type: "item",
 		items: [{
+			id: "mist:mushrooms_food",
+			Damage: 23s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:mushrooms_food",
-			Damage: 23s
+			}
 		}]
 	},
 	{
 		uid: "f6220de0",
 		type: "item",
 		items: [{
+			id: "mist:tinder_fungus",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:tinder_fungus"
+			}
 		}]
 	},
 	{
 		uid: "74fe0564",
 		type: "item",
 		items: [{
+			id: "mist:swim_bladder",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:swim_bladder"
+			}
 		}]
 	},
 	{
 		uid: "268cd377",
 		type: "item",
 		items: [{
+			id: "mist:nightberry",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:nightberry"
+			}
 		}]
 	},
 	{
 		uid: "31e59ad1",
 		type: "item",
 		items: [{
+			id: "mist:tree_seed",
+			Damage: 9s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:tree_seed",
-			Damage: 9s
+			}
 		}]
 	}]
 }

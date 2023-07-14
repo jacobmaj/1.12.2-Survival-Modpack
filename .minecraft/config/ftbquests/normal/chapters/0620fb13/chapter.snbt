@@ -1,0 +1,12 @@
+{
+	title: "The Dimensions",
+	icon: {
+		id: "minecraft:filled_map",
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		}
+	},
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

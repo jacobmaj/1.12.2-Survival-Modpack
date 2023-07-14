@@ -13,7 +13,8 @@
 				"wizardryutils:summoneditemdata": {}
 			},
 			id: "thebetweenlands:lurker_skin_pouch",
-			Damage: 3s
+			Damage: 3s,
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

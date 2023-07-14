@@ -1,9 +1,9 @@
 {
 	icon: {
+		id: "minecraft:torch",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "minecraft:torch"
+		}
 	},
 	x: 2.0d,
 	y: -8.5d,
@@ -20,10 +20,10 @@
 		uid: "dec88799",
 		type: "item",
 		items: [{
+			id: "minecraft:torch",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:torch"
+			}
 		}],
 		count: 16L
 	},
@@ -34,7 +34,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "tconstruct:stone_torch"
+			id: "tconstruct:stone_torch",
+			Count: 1b
 		}],
 		count: 16L
 	}]

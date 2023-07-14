@@ -1,9 +1,9 @@
 {
 	icon: {
+		id: "contenttweaker:soulcompassicon",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "contenttweaker:soulcompassicon"
+		}
 	},
 	x: 4.0d,
 	y: -1.5d,
@@ -19,20 +19,20 @@
 		uid: "1291d932",
 		type: "item",
 		icon: {
+			id: "contenttweaker:soulcompassicon",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "contenttweaker:soulcompassicon"
+			}
 		},
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "quark:soul_compass",
 			tag: {
 				posX: -231,
 				posY: 0,
 				posZ: -251
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		}]
 	}]

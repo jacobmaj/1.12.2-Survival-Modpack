@@ -1,9 +1,9 @@
 {
 	icon: {
+		id: "enchantedwolves:leather_collar",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "enchantedwolves:leather_collar"
+		}
 	},
 	x: -10.0d,
 	y: -8.0d,
@@ -20,10 +20,10 @@
 		uid: "4e733b9b",
 		type: "item",
 		items: [{
+			id: "enchantedwolves:leather_collar",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "enchantedwolves:leather_collar"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -32,10 +32,10 @@
 		uid: "e146e948",
 		type: "item",
 		items: [{
+			id: "enchantedwolves:chain_collar",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "enchantedwolves:chain_collar"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -44,10 +44,10 @@
 		uid: "23b72282",
 		type: "item",
 		items: [{
+			id: "enchantedwolves:golden_collar",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "enchantedwolves:golden_collar"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -56,10 +56,10 @@
 		uid: "b45e00db",
 		type: "item",
 		items: [{
+			id: "enchantedwolves:diamond_collar",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "enchantedwolves:diamond_collar"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

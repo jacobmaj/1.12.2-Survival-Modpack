@@ -9,20 +9,20 @@
 		uid: "b0bb7bf6",
 		type: "item",
 		items: [{
+			id: "twilightforest:ironwood_raw",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "twilightforest:ironwood_raw"
+			}
 		}]
 	},
 	{
 		uid: "9b353faa",
 		type: "item",
 		items: [{
+			id: "twilightforest:ironwood_ingot",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "twilightforest:ironwood_ingot"
+			}
 		}]
 	}]
 }

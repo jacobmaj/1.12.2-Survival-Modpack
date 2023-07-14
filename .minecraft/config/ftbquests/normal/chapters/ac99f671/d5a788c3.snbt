@@ -12,10 +12,10 @@
 		uid: "7de1ba20",
 		type: "item",
 		items: [{
+			id: "futuremc:campfire",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "futuremc:campfire"
+			}
 		}]
 	}]
 }

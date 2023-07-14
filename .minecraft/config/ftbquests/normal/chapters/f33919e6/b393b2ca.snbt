@@ -12,7 +12,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:tarminion"
+			id: "thebetweenlands:tarminion",
+			Count: 1b
 		}]
 	}]
 }

@@ -9,20 +9,20 @@
 		uid: "19a20127",
 		type: "item",
 		items: [{
+			id: "twilightforest:maze_map_focus",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "twilightforest:maze_map_focus"
+			}
 		}]
 	},
 	{
 		uid: "92f03769",
 		type: "item",
 		items: [{
+			id: "twilightforest:maze_map_empty",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "twilightforest:maze_map_empty"
+			}
 		}]
 	}]
 }

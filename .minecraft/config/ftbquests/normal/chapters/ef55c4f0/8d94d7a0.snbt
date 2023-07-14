@@ -12,7 +12,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "refinedstorage:cable"
+			id: "refinedstorage:cable",
+			Count: 1b
 		}],
 		count: 4L
 	}]

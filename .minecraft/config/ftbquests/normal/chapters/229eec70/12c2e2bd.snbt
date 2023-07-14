@@ -5,10 +5,10 @@
 		uid: "08c428f4",
 		type: "item",
 		items: [{
+			id: "cyclicmagic:sprinkler",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "cyclicmagic:sprinkler"
+			}
 		}]
 	}]
 }

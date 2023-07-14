@@ -5,13 +5,13 @@
 		uid: "7c0dc132",
 		type: "item",
 		items: [{
+			id: "minecraft:fishing_rod",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"betterwithmods:baited_fishing_rod": {
 					bait: 0b
 				}
-			},
-			id: "minecraft:fishing_rod"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

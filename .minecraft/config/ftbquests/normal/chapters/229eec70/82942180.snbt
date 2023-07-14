@@ -5,23 +5,23 @@
 		uid: "6d0b58d9",
 		type: "item",
 		items: [{
+			id: "animania:block_trough",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "animania:block_trough"
+			}
 		}]
 	}],
 	rewards: [{
 		uid: "5a8c06b0",
 		type: "item",
 		item: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "animania:animania_manual",
 			tag: {
 				currentTopic: "animania:manual/blocks/mud.json",
 				lastTopic: "animania:manual/blocks/blocks.json"
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		}
 	}]

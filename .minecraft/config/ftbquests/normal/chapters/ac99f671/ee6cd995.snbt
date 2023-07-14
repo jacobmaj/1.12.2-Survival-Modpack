@@ -8,10 +8,10 @@
 		uid: "dd84fc9f",
 		type: "item",
 		items: [{
+			id: "defiledlands:scarlite",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "defiledlands:scarlite"
+			}
 		}],
 		count: 4L
 	}]

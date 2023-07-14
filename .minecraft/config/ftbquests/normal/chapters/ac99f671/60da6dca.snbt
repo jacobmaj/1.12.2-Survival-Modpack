@@ -1,9 +1,9 @@
 {
 	icon: {
+		id: "defiledlands:umbrium_ore",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "defiledlands:umbrium_ore"
+		}
 	},
 	x: 0.0d,
 	y: 6.0d,
@@ -14,10 +14,10 @@
 		uid: "640185d3",
 		type: "item",
 		items: [{
+			id: "defiledlands:umbrium_pickaxe",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "defiledlands:umbrium_pickaxe"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

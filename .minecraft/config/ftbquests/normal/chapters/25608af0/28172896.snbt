@@ -1,9 +1,9 @@
 {
 	icon: {
+		id: "betterwithmods:cooking_pot",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "betterwithmods:cooking_pot"
+		}
 	},
 	x: 0.5d,
 	y: -11.0d,
@@ -16,20 +16,20 @@
 		uid: "75662422",
 		type: "item",
 		items: [{
+			id: "betterwithmods:unfired_pottery",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "betterwithmods:unfired_pottery"
+			}
 		}]
 	},
 	{
 		uid: "39f6d0e1",
 		type: "item",
 		items: [{
+			id: "betterwithmods:cooking_pot",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "betterwithmods:cooking_pot"
+			}
 		}]
 	}]
 }

@@ -6,10 +6,10 @@
 		uid: "24e9c5db",
 		type: "kill",
 		icon: {
+			id: "iceandfire:gorgon_head",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "iceandfire:gorgon_head"
+			}
 		},
 		entity: "iceandfire:gorgon",
 		value: 1L
@@ -18,10 +18,10 @@
 		uid: "0c429f8d",
 		type: "item",
 		item: {
+			id: "scalinghealth:crystalshard",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "scalinghealth:crystalshard"
+			}
 		},
 		count: 2
 	}]

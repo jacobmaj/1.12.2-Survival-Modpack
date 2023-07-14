@@ -5,9 +5,10 @@
 			"wizardryutils:summoneditemdata": {}
 		},
 		id: "chisel:netherrack",
-		Damage: 12s
+		Damage: 12s,
+		Count: 1b
 	},
 	always_invisible: false,
-	group: 0,
+	group: 102824723,
 	default_quest_shape: ""
 }

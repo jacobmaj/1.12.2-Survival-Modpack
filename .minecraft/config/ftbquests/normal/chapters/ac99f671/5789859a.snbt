@@ -1,9 +1,9 @@
 {
 	icon: {
+		id: "bountifulbaubles:potionrecall",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "bountifulbaubles:potionrecall"
+		}
 	},
 	x: 9.5d,
 	y: -10.0d,
@@ -23,20 +23,20 @@
 		uid: "56b747f5",
 		type: "item",
 		items: [{
+			id: "bountifulbaubles:potionrecall",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "bountifulbaubles:potionrecall"
+			}
 		}]
 	},
 	{
 		uid: "22959eae",
 		type: "item",
 		items: [{
+			id: "charm:totem_of_returning",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "charm:totem_of_returning"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

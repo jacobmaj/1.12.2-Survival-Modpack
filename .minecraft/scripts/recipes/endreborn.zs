@@ -1,0 +1,1 @@
+recipes.remove(<endreborn:item_raw_endorium>);

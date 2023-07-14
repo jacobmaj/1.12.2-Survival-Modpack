@@ -1,10 +1,10 @@
 {
 	title: "Way of the Mechanic",
 	icon: {
+		id: "betterwithmods:material",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "betterwithmods:material"
+		}
 	},
 	always_invisible: false,
 	group: 0,

@@ -5,10 +5,10 @@
 		uid: "e122f376",
 		type: "item",
 		items: [{
+			id: "futuremc:composter",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "futuremc:composter"
+			}
 		}]
 	}]
 }

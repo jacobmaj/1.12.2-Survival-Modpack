@@ -9,9 +9,6 @@
 		uid: "2d8d464b",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "twilightforest:mazebreaker_pickaxe",
 			tag: {
 				ench: [{
@@ -26,6 +23,9 @@
 					lvl: 2s,
 					id: 35
 				}]
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		}],
 		ignore_damage: true,

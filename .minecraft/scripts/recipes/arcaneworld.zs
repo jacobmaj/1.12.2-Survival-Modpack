@@ -1,4 +1,3 @@
-<ore:gemSapphire>.remove(<arcaneworld:sapphire>);
 
 recipes.remove(<arcaneworld:ritual_table>);
 recipes.addShaped(<arcaneworld:ritual_table>,
@@ -13,3 +12,8 @@ recipes.addShaped(<arcaneworld:levitator>,
 [[<biomesoplenty:gem:6>,<biomesoplenty:gem:6>,<biomesoplenty:gem:6>],
 [<ore:plankWood>,<minecraft:iron_ingot>,<ore:plankWood>],
 [<ore:plankWood>,<minecraft:redstone>,<ore:plankWood>]]);
+
+recipes.remove(<arcaneworld:molten_core>);
+recipes.remove(<arcaneworld:molten_pickaxe>);
+recipes.remove(<arcaneworld:molten_shovel>);
+recipes.remove(<arcaneworld:molten_axe>);

@@ -14,10 +14,10 @@
 		uid: "21924514",
 		type: "kill",
 		icon: {
+			id: "iceandfire:dread_queen_staff",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "iceandfire:dread_queen_staff"
+			}
 		},
 		entity: "iceandfire:dread_lich",
 		value: 1L
@@ -27,10 +27,10 @@
 		type: "gamestage",
 		title: "...A new chapter awaits!",
 		icon: {
+			id: "minecraft:end_stone",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:end_stone"
+			}
 		},
 		team_reward: true,
 		auto: "invisible",
@@ -40,10 +40,10 @@
 		uid: "39a4a04b",
 		type: "item",
 		item: {
+			id: "scalinghealth:crystalshard",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "scalinghealth:crystalshard"
+			}
 		},
 		count: 2
 	}]

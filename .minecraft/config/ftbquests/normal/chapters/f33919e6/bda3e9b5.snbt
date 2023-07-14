@@ -3,7 +3,8 @@
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
 		},
-		id: "thebetweenlands:simple_slingshot"
+		id: "thebetweenlands:simple_slingshot",
+		Count: 1b
 	},
 	x: -7.0d,
 	y: 7.0d,
@@ -19,7 +20,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:simple_slingshot"
+			id: "thebetweenlands:simple_slingshot",
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

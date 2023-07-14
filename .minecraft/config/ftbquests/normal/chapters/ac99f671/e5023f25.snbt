@@ -13,10 +13,10 @@
 		uid: "fa5acb55",
 		type: "item",
 		items: [{
+			id: "bountifulbaubles:magicmirror",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "bountifulbaubles:magicmirror"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

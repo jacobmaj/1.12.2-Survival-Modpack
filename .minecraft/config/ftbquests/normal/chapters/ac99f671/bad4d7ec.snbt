@@ -1,10 +1,10 @@
 {
 	title: "Find a Defiled Altar",
 	icon: {
+		id: "defiledlands:essence_destroyer",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "defiledlands:essence_destroyer"
+		}
 	},
 	x: 0.0d,
 	y: 12.0d,
@@ -19,10 +19,10 @@
 		uid: "3471ece5",
 		type: "observation",
 		icon: {
+			id: "defiledlands:conjuring_altar",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "defiledlands:conjuring_altar"
+			}
 		},
 		match_type: "block_id",
 		match: "defiledlands:conjuring_altar",
@@ -32,10 +32,10 @@
 		uid: "d6e8af0b",
 		type: "kill",
 		icon: {
+			id: "defiledlands:essence_destroyer",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "defiledlands:essence_destroyer"
+			}
 		},
 		entity: "defiledlands:the_destroyer",
 		value: 1L
@@ -49,7 +49,8 @@
 				"wizardryutils:summoneditemdata": {}
 			},
 			id: "thebetweenlands:cragrock",
-			Damage: 1s
+			Damage: 1s,
+			Count: 1b
 		},
 		auto: "no_toast",
 		stage: "betweenlands"
@@ -58,10 +59,10 @@
 		uid: "2f02ba7c",
 		type: "item",
 		item: {
+			id: "scalinghealth:crystalshard",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "scalinghealth:crystalshard"
+			}
 		},
 		count: 2
 	}]

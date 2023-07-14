@@ -1,9 +1,9 @@
 {
 	icon: {
+		id: "betterwithmods:hemp",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "betterwithmods:hemp"
+		}
 	},
 	x: -0.5d,
 	y: 0.0d,
@@ -11,32 +11,32 @@
 		uid: "c1814886",
 		type: "item",
 		items: [{
+			id: "betterwithmods:hemp",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "betterwithmods:hemp"
+			}
 		}]
 	},
 	{
 		uid: "1378dff0",
 		type: "item",
 		items: [{
+			id: "betterwithmods:material",
+			Damage: 2s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "betterwithmods:material",
-			Damage: 2s
+			}
 		}]
 	},
 	{
 		uid: "260904c9",
 		type: "item",
 		items: [{
+			id: "betterwithmods:material",
+			Damage: 3s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "betterwithmods:material",
-			Damage: 3s
+			}
 		}]
 	}]
 }

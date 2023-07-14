@@ -9,10 +9,10 @@
 		uid: "489b074e",
 		type: "item",
 		items: [{
+			id: "endreborn:block_end_forge",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "endreborn:block_end_forge"
+			}
 		}]
 	}]
 }

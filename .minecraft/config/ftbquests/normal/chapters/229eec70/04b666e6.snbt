@@ -5,10 +5,10 @@
 		uid: "1bf637c6",
 		type: "item",
 		items: [{
+			id: "betterwithmods:bucket",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "betterwithmods:bucket"
+			}
 		}]
 	}]
 }

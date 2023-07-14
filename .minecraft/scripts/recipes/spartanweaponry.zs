@@ -18,6 +18,8 @@ recipes.addShapeless(<spartanweaponry:material:1>,
 recipes.addShapeless(<spartanweaponry:material:1>,
 [<ore:stickWood>,<ore:stickWood>,<ore:leather>]);
 
+recipes.remove(<spartanshields:shield_basic_obsidian>);
+
 ### DIAMOND REPLACEMENT ###
 
 recipes.replaceAllOccurences(<ore:gemDiamond>, <betterwithmods:material:45>, <spartanweaponry:warhammer_diamond>);

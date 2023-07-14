@@ -1,10 +1,10 @@
 {
 	title: "☆",
 	icon: {
+		id: "aether_legacy:enchanted_aether_grass",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "aether_legacy:enchanted_aether_grass"
+		}
 	},
 	x: 0.0d,
 	y: 0.25d,
@@ -28,10 +28,10 @@
 		type: "item",
 		auto: "disabled",
 		item: {
+			id: "aether_legacy:lore_book",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "aether_legacy:lore_book"
+			}
 		}
 	}]
 }

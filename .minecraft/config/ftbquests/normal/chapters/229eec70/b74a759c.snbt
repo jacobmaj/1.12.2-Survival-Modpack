@@ -5,10 +5,10 @@
 		uid: "cd2250de",
 		type: "item",
 		items: [{
+			id: "animania:cheese_mold",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "animania:cheese_mold"
+			}
 		}]
 	}]
 }

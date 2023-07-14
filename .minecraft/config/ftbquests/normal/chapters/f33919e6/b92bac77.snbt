@@ -4,7 +4,8 @@
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
 		},
-		id: "thebetweenlands:puffshroom_tendril"
+		id: "thebetweenlands:puffshroom_tendril",
+		Count: 1b
 	},
 	x: 2.0d,
 	y: 12.5d,
@@ -19,7 +20,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "thebetweenlands:puffshroom_tendril_smoked"
+			id: "thebetweenlands:puffshroom_tendril_smoked",
+			Count: 1b
 		},
 		entity: "thebetweenlands:sludge_menace",
 		value: 1L
@@ -28,10 +30,10 @@
 		uid: "05a99c2d",
 		type: "item",
 		item: {
+			id: "scalinghealth:crystalshard",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "scalinghealth:crystalshard"
+			}
 		}
 	}]
 }

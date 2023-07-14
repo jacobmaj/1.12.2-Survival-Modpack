@@ -1,10 +1,10 @@
 {
 	title: "☆Enter The Nether",
 	icon: {
+		id: "minecraft:netherrack",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "minecraft:netherrack"
+		}
 	},
 	x: 0.0d,
 	y: -9.5d,

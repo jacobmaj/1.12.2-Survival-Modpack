@@ -1,10 +1,10 @@
 {
 	title: "Ice Dragon Egg",
 	icon: {
+		id: "iceandfire:dragonegg_sapphire",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "iceandfire:dragonegg_sapphire"
+		}
 	},
 	x: -10.0d,
 	y: -5.5d,
@@ -20,10 +20,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "iceandfire:dragonegg_silver",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "iceandfire:dragonegg_silver"
+			}
 		}],
 		ignore_nbt: 1b
 	},
@@ -32,10 +32,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "iceandfire:dragonegg_white",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "iceandfire:dragonegg_white"
+			}
 		}],
 		ignore_nbt: 1b
 	},
@@ -44,10 +44,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "iceandfire:dragonegg_blue",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "iceandfire:dragonegg_blue"
+			}
 		}],
 		ignore_nbt: 1b
 	},
@@ -56,10 +56,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "iceandfire:dragonegg_silver",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "iceandfire:dragonegg_silver"
+			}
 		}],
 		ignore_nbt: 1b
 	},
@@ -68,10 +68,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "iceandfire:dragonegg_sapphire",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "iceandfire:dragonegg_sapphire"
+			}
 		}],
 		ignore_nbt: 1b
 	}]

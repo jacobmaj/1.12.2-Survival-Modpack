@@ -14,7 +14,8 @@
 				"wizardryutils:summoneditemdata": {}
 			},
 			id: "tconstruct:ingots",
-			Damage: 3s
+			Damage: 3s,
+			Count: 1b
 		}]
 	}]
 }

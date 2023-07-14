@@ -1,11 +1,11 @@
 {
 	title: "Shroomer",
 	icon: {
+		id: "iceandfire:pixie_house",
+		Damage: 1s,
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "iceandfire:pixie_house",
-		Damage: 1s
+		}
 	},
 	x: -4.0d,
 	y: -2.0d,
@@ -19,11 +19,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "mist:mushrooms_food",
+			Damage: 10s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:mushrooms_food",
-			Damage: 10s
+			}
 		}]
 	},
 	{
@@ -31,11 +31,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "mist:mushrooms_food",
+			Damage: 19s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:mushrooms_food",
-			Damage: 19s
+			}
 		}]
 	},
 	{
@@ -43,10 +43,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "mist:mushrooms_food",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:mushrooms_food"
+			}
 		}]
 	},
 	{
@@ -54,11 +54,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "mist:mushrooms_food",
+			Damage: 2s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:mushrooms_food",
-			Damage: 2s
+			}
 		}]
 	},
 	{
@@ -66,11 +66,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "mist:mushrooms_food",
+			Damage: 17s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:mushrooms_food",
-			Damage: 17s
+			}
 		}]
 	},
 	{
@@ -78,11 +78,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "mist:mushrooms_food",
+			Damage: 27s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:mushrooms_food",
-			Damage: 27s
+			}
 		}]
 	},
 	{
@@ -90,11 +90,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "mist:mushrooms_food",
+			Damage: 16s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:mushrooms_food",
-			Damage: 16s
+			}
 		}]
 	},
 	{
@@ -102,11 +102,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "mist:mushrooms_food",
+			Damage: 1s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:mushrooms_food",
-			Damage: 1s
+			}
 		}]
 	},
 	{
@@ -114,11 +114,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "mist:mushrooms_food",
+			Damage: 23s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:mushrooms_food",
-			Damage: 23s
+			}
 		}]
 	},
 	{
@@ -126,11 +126,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "mist:mushrooms_food",
+			Damage: 12s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:mushrooms_food",
-			Damage: 12s
+			}
 		}]
 	},
 	{
@@ -138,11 +138,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "mist:mushrooms_food",
+			Damage: 3s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:mushrooms_food",
-			Damage: 3s
+			}
 		}]
 	},
 	{
@@ -150,11 +150,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "mist:mushrooms_food",
+			Damage: 5s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:mushrooms_food",
-			Damage: 5s
+			}
 		}]
 	},
 	{
@@ -162,11 +162,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "mist:mushrooms_food",
+			Damage: 6s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:mushrooms_food",
-			Damage: 6s
+			}
 		}]
 	},
 	{
@@ -174,11 +174,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "mist:mushrooms_food",
+			Damage: 22s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:mushrooms_food",
-			Damage: 22s
+			}
 		}]
 	},
 	{
@@ -186,11 +186,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "mist:mushrooms_food",
+			Damage: 21s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:mushrooms_food",
-			Damage: 21s
+			}
 		}]
 	},
 	{
@@ -198,11 +198,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "mist:mushrooms_food",
+			Damage: 8s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:mushrooms_food",
-			Damage: 8s
+			}
 		}]
 	},
 	{
@@ -210,11 +210,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "mist:mushrooms_food",
+			Damage: 25s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:mushrooms_food",
-			Damage: 25s
+			}
 		}]
 	},
 	{
@@ -222,11 +222,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "mist:mushrooms_food",
+			Damage: 18s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:mushrooms_food",
-			Damage: 18s
+			}
 		}]
 	},
 	{
@@ -234,11 +234,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "mist:mushrooms_food",
+			Damage: 24s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:mushrooms_food",
-			Damage: 24s
+			}
 		}]
 	},
 	{
@@ -246,11 +246,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "mist:mushrooms_food",
+			Damage: 20s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:mushrooms_food",
-			Damage: 20s
+			}
 		}]
 	},
 	{
@@ -258,11 +258,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "mist:mushrooms_food",
+			Damage: 7s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:mushrooms_food",
-			Damage: 7s
+			}
 		}]
 	},
 	{
@@ -270,11 +270,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "mist:mushrooms_food",
+			Damage: 9s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:mushrooms_food",
-			Damage: 9s
+			}
 		}]
 	},
 	{
@@ -282,11 +282,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "mist:mushrooms_food",
+			Damage: 4s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:mushrooms_food",
-			Damage: 4s
+			}
 		}]
 	},
 	{
@@ -294,11 +294,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "mist:mushrooms_food",
+			Damage: 26s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mist:mushrooms_food",
-			Damage: 26s
+			}
 		}]
 	}],
 	rewards: [{
@@ -306,12 +306,12 @@
 		type: "command",
 		title: "2 Prestige Points!",
 		icon: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "ftbquests:custom_icon",
 			tag: {
 				icon: "ftblib:textures/icons/support.png"
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		},
 		command: "/prestige add @p 2"

@@ -1,20 +1,6 @@
 {
 	title: "☆",
 	icon: {
-		ForgeCaps: {
-			"wizardryutils:summoneditemdata": {},
-			"xat:trinket": {
-				handler: 0,
-				mana: 0,
-				alt.ability: 0b,
-				player.status: -1,
-				slot: -1,
-				exp: 0,
-				hitcount: 0,
-				target: -1,
-				main.ability: 0b
-			}
-		},
 		id: "xat:dragons_eye",
 		tag: {
 			Quality: {
@@ -31,6 +17,60 @@
 					Name: "qualitytools"
 				}],
 				Name: "Mighty"
+			},
+			"xat:Trinket": {
+				variant: 0,
+				slot: -1,
+				handler: "None",
+				exp: 0,
+				mana: 0.0f,
+				main.ability: 0b,
+				alt.ability: 0b,
+				crafter.name: "",
+				crafter.uuid: "",
+				Counters: {},
+				Elements: {
+					primary: "xat:neutral",
+					secondary: "xat:neutral",
+					sub: {}
+				}
+			}
+		},
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {},
+			"xat:trinket": {
+				Quality: {
+					Slots: [
+						"baubles_trinket"
+					],
+					Color: "white",
+					AttributeModifiers: [{
+						UUIDMost: -4691119733024339396L,
+						UUIDLeast: -4629284362067534662L,
+						Amount: 0.03999999910593033d,
+						AttributeName: "generic.attackDamage",
+						Operation: 2,
+						Name: "qualitytools"
+					}],
+					Name: "Mighty"
+				},
+				"xat:Trinket": {
+					variant: 0,
+					slot: -1,
+					handler: "None",
+					exp: 0,
+					mana: 0.0f,
+					main.ability: 0b,
+					alt.ability: 0b,
+					crafter.name: "",
+					crafter.uuid: "",
+					Counters: {},
+					Elements: {
+						primary: "xat:neutral",
+						secondary: "xat:neutral",
+						sub: {}
+					}
+				}
 			}
 		}
 	},
@@ -52,7 +92,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "tconstruct:slime_vine_purple_end"
+			id: "tconstruct:slime_vine_purple_end",
+			Count: 1b
 		},
 		entity: "betterslimes:quazar",
 		value: 1L
@@ -62,10 +103,10 @@
 		type: "gamestage",
 		title: "...A new Chapter Awaits!",
 		icon: {
+			id: "aether_legacy:enchanted_aether_grass",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "aether_legacy:enchanted_aether_grass"
+			}
 		},
 		team_reward: true,
 		auto: "invisible",
@@ -75,10 +116,10 @@
 		uid: "3161824b",
 		type: "item",
 		item: {
+			id: "scalinghealth:crystalshard",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "scalinghealth:crystalshard"
+			}
 		},
 		count: 2
 	}]
