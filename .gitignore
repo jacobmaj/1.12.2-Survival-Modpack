@@ -49,6 +49,13 @@
 .packignore
 mmc-pack.json
 .minecraft/config/activity.json
+.minecraft/config/fantasticlib/reference
+.minecraft/config/jei/worldSettings.cfg
+.minecraft/config/multimob/modInformation
+.minecraft/config/splash.properties
+.minecraft/config/tool_progression/blocks.cfg
+.minecraft/config/xaerominimap_entities.json
+instance.cfg
 .minecraft/config/fantasticlib/reference/blocks.txt
 .minecraft/config/fantasticlib/reference/blockstates.txt
 .minecraft/config/fantasticlib/reference/enchantments.txt
@@ -65,8 +72,4 @@ mmc-pack.json
 .minecraft/config/multimob/modInformation/allEntities.txt
 .minecraft/config/multimob/modInformation/allItems.txt
 .minecraft/config/multimob/modInformation/allPotionTypes.txt
-.minecraft/config/Special_AI.cfg
-.minecraft/config/splash.properties
-.minecraft/config/tool_progression/blocks.cfg
 .minecraft/config/xaerominimap_entities.json
-.minecraft/resources/contenttweaker/models/item/ravaging_breach.json
