@@ -23,16 +23,6 @@
 			{
 				"mob": "mod_lavacow:banshee",
 				"weight": 2
-			},
-			{
-				"mob": "turtdance:axebeak",
-				"weight": 1,
-				"groupcountmax": 1
-			},
-			{
-				"mob": "turtdance:fugu",
-				"weight": 1,
-				"groupcountmax": 1
 			}
 		]
 	},
@@ -240,5 +230,47 @@
 			//mist:sloth //jungle?
 			//mist:wulder //plains?
 		]
+	},
+	{//Beneath global mobs
+		"dimension": 10,
+		"mobs": [
+			{
+				"mob": "ancientbeasts:boulderer",
+				"weight": 10
+			},
+			{
+				"mob": "ancientbeasts:rifted_enderman",
+				"weight": 10
+			},
+			{
+				"mob": "primitivemobs:goblin",
+				"weight": 10
+			},
+			{
+				"mob": "lycanitesmobs:eechetik",
+				"weight": 10
+			},
+			{
+				"mob": "lycanitesmobs:eyewig",
+				"weight": 10
+			},
+			{
+				"mob": "lycanitesmobs:chupacabra",
+				"weight": 10
+			},
+			{
+				"mob": "quark:dweller",
+				"weight": 10
+			},
+			{
+				"mob": "quark:ashen",
+				"weight": 10
+			},
+			{
+				"mob": "primitivemobs:skeleton_warrior",
+				"weight": 10
+			}
+		]
 	}
+	
 ]

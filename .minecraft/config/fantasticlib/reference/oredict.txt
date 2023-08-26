@@ -254,10 +254,13 @@ seedWheat
 cofh:potion
 seed
 materialStoneTool
-mushroomAny
-tallow
 buttonWood
 gemEnderBiotite
+mushroomAny
+tallow
+blockSlimeGreen
+blockSlimeBlue
+blockSlimeRed
 stoneBasalt
 stoneMarble
 stoneLimestone
@@ -267,9 +270,6 @@ gemBiotite
 stoneBrimstone
 stonePermafrost
 blockPrismarineElder
-blockSlimeGreen
-blockSlimeBlue
-blockSlimeRed
 paneQuartzGlass
 blockQuartzGlass
 blockCincinnasite
@@ -482,6 +482,8 @@ listAllRotten
 listAllEntomoraw
 listAllEntomocooked
 shardGlass
+stonePolished
+plankStained
 stoneBasaltPolished
 stoneMarblePolished
 stoneLimestonePolished
@@ -491,8 +493,6 @@ stoneBrimstonePolished
 stonePermafrostPolished
 blockPrismarineElderBrick
 blockPrismarineElderDark
-stonePolished
-plankStained
 bookshelf
 bookshelfOak
 bookshelfSpruce
@@ -607,10 +607,6 @@ ingotConcentratedHellfire
 gemNetherCoal
 dung
 soap
-ingotTamahagane
-ingotHochoTetsu
-book
-cropRush
 dyeSilver
 ingotTin
 ingotSteel
@@ -619,6 +615,10 @@ ingotLead
 ingotInvar
 ingotElectrum
 ingotBronze
+ingotTamahagane
+ingotHochoTetsu
+book
+cropRush
 cropFruit
 foodDoughFlat
 ingredientCheese
@@ -667,7 +667,6 @@ holystone
 gemAmbrosium
 chestAetherion
 mushroom
-slimeballPurple
 slimeBall
 banner
 enchantment
@@ -750,7 +749,6 @@ cropOats
 cropRye
 cropRice
 blockDung
-dustAsh
 listAllMilk
 listAllGoatMilk
 foodGoatMilk
@@ -772,6 +770,12 @@ dustGlowing
 spartanweaponry:quivers
 spartanweaponry:arrow_quivers
 spartanweaponry:bolt_quivers
+seedRice
+seedRush
+cropTea
+seedTea
+materialBamboo
+dustAsh
 ingotEndorium
 ingotTungsten
 nuggetTungsten
@@ -859,6 +863,8 @@ nuggetIronwood
 nuggetKnightmetal
 nuggetSteeleaf
 nuggetConcentratedHellfire
+nuggetTamahagane
+nuggetHochoTetsu
 nuggetGlowing
 nuggetEndorium
 nuggetEnderGlowing

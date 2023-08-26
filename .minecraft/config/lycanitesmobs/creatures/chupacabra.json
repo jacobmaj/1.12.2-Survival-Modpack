@@ -11,14 +11,14 @@
   "spawning": {
     "enabled": true,
     "spawners": [
-      "underground"
+      "monster"
     ],
     "disableSubspecies": false,
     "dimensionIds": [
-      -1
+      10
     ],
-    "dimensionListType": "blacklist",
-    "ignoreBiome": false,
+    "dimensionListType": "whitelist",
+    "ignoreBiome": true,
     "biomeTags": [
 		"sandy",
 		"wasteland",

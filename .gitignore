@@ -73,3 +73,6 @@ instance.cfg
 .minecraft/config/multimob/modInformation/allItems.txt
 .minecraft/config/multimob/modInformation/allPotionTypes.txt
 .minecraft/config/xaerominimap_entities.json
+.minecraft/config/activity.json
+instance.cfg
+.minecraft/config/tool_progression/blocks.cfg

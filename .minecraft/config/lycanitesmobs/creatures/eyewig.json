@@ -11,17 +11,14 @@
   "spawning": {
     "enabled": false,
     "spawners": [
-      "monster",
-      "beast"
+      "monster"
     ],
     "disableSubspecies": false,
     "dimensionIds": [
-      -1,
-	  69,
-      1
+      10
     ],
-    "dimensionListType": "blacklist",
-    "ignoreBiome": false,
+    "dimensionListType": "whitelist",
+    "ignoreBiome": true,
     "biomeTags": [
       "swamp",
       "spooky",
